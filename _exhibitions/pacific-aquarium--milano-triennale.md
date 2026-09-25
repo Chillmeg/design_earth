@@ -1,5 +1,6 @@
 ---
 title: "Pacific Aquarium | Milano Triennale"
+permalink: /exhibitions/pacific-aquarium--milano-triennale/
 year: 2019  # guessed from the text - please check
 thumbnail: thumb.jpg
 images:

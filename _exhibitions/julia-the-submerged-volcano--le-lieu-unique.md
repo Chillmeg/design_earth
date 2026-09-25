@@ -1,5 +1,6 @@
 ---
 title: "Julia | Le Lieu Unique"
+permalink: /exhibitions/julia-the-submerged-volcano--le-lieu-unique/
 year: 2019  # guessed from the text - please check
 thumbnail: thumb.jpg
 images:

@@ -1,6 +1,8 @@
 ---
 title: "Climate Inheritance | Bauhaus Dessau"
+permalink: /exhibitions/climate-inheritance--bauhaus-dessau/
 year: 2021  # guessed from the text - please check
+nav_list: false  # the old page did not list the other items in the left nav
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 images:

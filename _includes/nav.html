@@ -20,7 +20,7 @@
 </li>
 </ul>
 {%- endfor %}
-{% if page.collection -%}
+{% if page.collection and page.nav_list != false -%}
 {%- include ordered.html collection=page.collection %}
 <ul class='subsection'>
 {% for d in ordered -%}

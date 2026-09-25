@@ -1,6 +1,8 @@
 ---
 title: "Of Oil and Ice | Ambiguous Territory"
+permalink: /publications/of-oil-and-ice--ambiguous-territory/
 year: 2022  # guessed from the text - please check
+nav_list: false  # the old page did not list the other items in the left nav
 thumbnail: thumb.png
 thumbnail_height: 200
 images:

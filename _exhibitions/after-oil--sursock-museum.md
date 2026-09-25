@@ -1,6 +1,8 @@
 ---
 title: "After Oil / Sursock Museum"
+permalink: /exhibitions/after-oil--sursock-museum/
 year: 2016  # guessed from the text - please check
+nav_list: false  # the old page did not list the other items in the left nav
 thumbnail: thumb.jpg
 images:
   - file: 01.jpg

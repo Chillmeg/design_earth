@@ -1,3 +1,8 @@
 Filename remapped (":" is illegal on Windows):
   original URL: /files/gimgs/151_DE_NeckoftheMoon_© David Sundberg :Esto.jpg
   saved as:     _ajax/files/gimgs/151_DE_NeckoftheMoon_© David Sundberg _Esto.jpg
+  saved as "00_Ghosn+Jazairy_2009_Newx20Geographies0.pdf" (capture bug), renamed to "00_Ghosn+Jazairy_2009_New Geographies0.pdf"
+  saved as "Ghosn_2010_NG2_Energyx20asx20Spatialx20Project.pdf" (capture bug), renamed to "Ghosn_2010_NG2_Energy as Spatial Project.pdf"
+  saved as "Ghosn_2012_Wherex20arex20thex20missingx20spaces_Perspecta.pdf" (capture bug), renamed to "Ghosn_2012_Where are the missing spaces_Perspecta.pdf"
+  saved as "Ghosn+Jazairy_Ax20Geographicx20Stroll_MONU_2014.pdf" (capture bug), renamed to "Ghosn+Jazairy_A Geographic Stroll_MONU_2014.pdf"
+  saved as "Jazairy_2011_NG4_Towardx20ax20Plasticx20Conceptionx20ofx20Scale.pdf" (capture bug), renamed to "Jazairy_2011_NG4_Toward a Plastic Conception of Scale.pdf"

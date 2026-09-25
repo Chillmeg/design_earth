@@ -1,6 +1,7 @@
 ---
 title: "Trash Peaks / Seoul Architecture Biennale"
 year: 2017  # guessed from the text - please check
+nav_list: false  # the old page did not list the other items in the left nav
 thumbnail: thumb.jpg
 images:
   - file: 01.jpg

@@ -14,7 +14,7 @@ images:
     height: 401
 ---
 **Santa Claus' Planetary Garden**<br>
-*The Unbelievable Challenge Competition, 2014* [Honorable Mention](http://unbelievablechallenge.com)</em>
+*The Unbelievable Challenge Competition, 2014* [Honorable Mention](http://unbelievablechallenge.com)
 
 Project Team:<br>
 El Hadi Jazairy + Rania Ghosn<br>

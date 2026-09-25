@@ -111,6 +111,11 @@ function htmlToBody(html, permalink) {
   if (!any && html) paras.push(html);
   return paras
     .map((p) => {
+      // drop stray closing tags (the old HTML has a few; browsers ignore them, markdown would print them)
+      for (const t of ['em', 'strong', 'b', 'i', 'u']) {
+        let extra = (p.match(new RegExp(`</${t}>`, 'gi')) || []).length - (p.match(new RegExp(`<${t}>`, 'gi')) || []).length;
+        while (extra-- > 0) p = p.replace(new RegExp(`(.*)</${t}>`, 'is'), '$1');
+      }
       p = convertInline(escapeText(p), permalink);
       p = p.replace(/\s*<br\s*\/?>\s*/gi, '<br>\n').replace(/(<br>\n)+$/, '').trim();
       return p.split('\n').map((l) => l.trim()).join('\n');
@@ -222,11 +227,14 @@ for (const sec of SECTIONS) {
     // images
     const fm = [];
     fm.push(`title: ${q(title)}`);
-    if (permalink !== defaultLink) fm.push(`permalink: ${permalink}`);
+    // Jekyll collapses "--" in file names when building URLs, so those need an explicit permalink
+    if (permalink !== defaultLink || slug.includes('--')) fm.push(`permalink: ${permalink}`);
     fm.push(year ? `year: ${year}  # guessed from the text - please check` : `year:  # unknown - please fill in`);
     // collection defaults (_config.yml): publications -> grow, others -> slideshow
     if (isSlideshow && sec.coll === 'publications') fm.push('layout: slideshow');
     if (!isSlideshow && sec.coll !== 'publications') fm.push('layout: grow');
+    if (!html.includes("class='subsection'"))
+      fm.push('nav_list: false  # the old page did not list the other items in the left nav');
     if (isSlideshow && pagesIndex[rel] && pagesIndex[rel].ids && !html.includes("id='slideshow-nav'"))
       fm.push('slideshow_nav: false  # hide the "1 of N  Previous | Next" line');
 

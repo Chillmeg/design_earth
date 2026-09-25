@@ -47,7 +47,7 @@ images:
     height: 567
 ---
 **Apart, We Are Together**<br>
-*Dry Futures Competition, 2015*, [Honorable Mention](http://archinect.com/news/article/137509788/apart-we-are-together-an-honorable-mention-in-dry-futures-speculative-category)</em>
+*Dry Futures Competition, 2015*, [Honorable Mention](http://archinect.com/news/article/137509788/apart-we-are-together-an-honorable-mention-in-dry-futures-speculative-category)
 
 Project Team:<br>
 El Hadi Jazairy + Rania Ghosn<br>

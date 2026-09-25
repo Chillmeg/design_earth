@@ -1,5 +1,6 @@
 ---
 title: "Cosmorama | Wrightwood 659"
+permalink: /exhibitions/cosmorama--wrightwood-659/
 year: 2019  # guessed from the text - please check
 thumbnail: thumb.jpg
 images:

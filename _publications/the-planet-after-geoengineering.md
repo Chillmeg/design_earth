@@ -2,6 +2,7 @@
 title: "The Planet After Geoengineering"
 year: 2021  # guessed from the text - please check
 layout: slideshow
+nav_list: false  # the old page did not list the other items in the left nav
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 thumbnail_height: 200

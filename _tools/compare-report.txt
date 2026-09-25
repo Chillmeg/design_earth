@@ -1,0 +1,295 @@
+FAIL /exhibitions/after-oil--sursock-museum/
+     - HTTP 404
+     - title: "After Oil / Sursock Museum : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …After Oil Sursock Museum, Beirut, Lebanon, 2016 Let's Talk a…
+       new: ……
+     - images: 1 -> 0
+FAIL /exhibitions/after-oil/
+     - nav list: []
+       -> [Volcano Dreams | ETH Zürich, Climate Inheritance | Bauhaus Dessau, Planet After Geoengineering | Venice Biennale, Pacific Aquarium | Milano Triennale, Cosmorama | Wrightwood 659, Julia | Le Lieu Unique, Pacific Aquarium | Times Museum, Cosmorama | Venice Architecture Biennale, Geostories | Cooper Union, Trash Peaks / Seoul Architecture Biennale, Pacific Aquarium | Onassis Cultural Center, Pacific Aquarium | Oslo Architecture Triennale, After Oil / Sursock Museum, After Oil | Venice Biennale, Neck of the Moon | League Prize, Geographies of Trash | Liberty Research Annex]
+FAIL /exhibitions/climate-inheritance--bauhaus-dessau/
+     - HTTP 404
+     - title: "Climate Inheritance | Bauhaus Dessau : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Climate Inheritance: Cautionary Tales of UNESCO World Herita…
+       new: ……
+     - images: 3 -> 0
+FAIL /exhibitions/cosmorama--venice-architecture-biennale/
+     - HTTP 404
+     - title: "Cosmorama | Venice Architecture Biennale : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Cosmorama United States Pavilion at the Venice Architecture …
+       new: ……
+     - images: 5 -> 0
+FAIL /exhibitions/cosmorama--wrightwood-659/
+     - HTTP 404
+     - title: "Cosmorama | Wrightwood 659 : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Cosmorama / Wrightwood 659 Wrightwood 659, Dimensions of Cit…
+       new: ……
+     - images: 4 -> 0
+     - nav list: [Volcano Dreams | ETH Zürich, Climate Inheritance | Bauhaus Dessau, Planet After Geoengineering | Venice Biennale, Pacific Aquarium | Milano Triennale, Cosmorama | Wrightwood 659, Julia | Le Lieu Unique, Pacific Aquarium | Times Museum, Cosmorama | Venice Architecture Biennale, Geostories | Cooper Union, Trash Peaks / Seoul Architecture Biennale, Pacific Aquarium | Onassis Cultural Center, Pacific Aquarium | Oslo Architecture Triennale, After Oil / Sursock Museum, After Oil | Venice Biennale, Neck of the Moon | League Prize, Geographies of Trash | Liberty Research Annex]
+       -> []
+FAIL /exhibitions/geographic-leviathan--onassis-cultural-center/
+     - HTTP 404
+     - title: "Pacific Aquarium | Onassis Cultural Center : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Pacific Aquarium Onassis Cultural Center, Tomorrows: Urban F…
+       new: ……
+     - images: 2 -> 0
+ok   /exhibitions/geographies-of-trash/
+FAIL /exhibitions/geostories--cooper-union/
+     - HTTP 404
+     - title: "Geostories | Cooper Union : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Geostories Cooper Union, New York City, 2017 Project Team: E…
+       new: ……
+     - images: 10 -> 0
+FAIL /exhibitions/geostories/
+     - nav list: []
+       -> [Volcano Dreams | ETH Zürich, Climate Inheritance | Bauhaus Dessau, Planet After Geoengineering | Venice Biennale, Pacific Aquarium | Milano Triennale, Cosmorama | Wrightwood 659, Julia | Le Lieu Unique, Pacific Aquarium | Times Museum, Cosmorama | Venice Architecture Biennale, Geostories | Cooper Union, Trash Peaks / Seoul Architecture Biennale, Pacific Aquarium | Onassis Cultural Center, Pacific Aquarium | Oslo Architecture Triennale, After Oil / Sursock Museum, After Oil | Venice Biennale, Neck of the Moon | League Prize, Geographies of Trash | Liberty Research Annex]
+     - broken 404: /projects/neck-of-the-moon/
+ok   /exhibitions/
+FAIL /exhibitions/julia-the-submerged-volcano--le-lieu-unique/
+     - HTTP 404
+     - title: "Julia | Le Lieu Unique : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Julia: The Submerged Volcano Le Lieu Unique Center for Conte…
+       new: ……
+     - images: 1 -> 0
+     - nav list: [Volcano Dreams | ETH Zürich, Climate Inheritance | Bauhaus Dessau, Planet After Geoengineering | Venice Biennale, Pacific Aquarium | Milano Triennale, Cosmorama | Wrightwood 659, Julia | Le Lieu Unique, Pacific Aquarium | Times Museum, Cosmorama | Venice Architecture Biennale, Geostories | Cooper Union, Trash Peaks / Seoul Architecture Biennale, Pacific Aquarium | Onassis Cultural Center, Pacific Aquarium | Oslo Architecture Triennale, After Oil / Sursock Museum, After Oil | Venice Biennale, Neck of the Moon | League Prize, Geographies of Trash | Liberty Research Annex]
+       -> []
+FAIL /exhibitions/pacific-aquarium--milano-triennale/
+     - HTTP 404
+     - title: "Pacific Aquarium | Milano Triennale : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Pacific Aquarium / Milano Triennale XXII Milano Triennale: B…
+       new: ……
+     - images: 1 -> 0
+     - nav list: [Volcano Dreams | ETH Zürich, Climate Inheritance | Bauhaus Dessau, Planet After Geoengineering | Venice Biennale, Pacific Aquarium | Milano Triennale, Cosmorama | Wrightwood 659, Julia | Le Lieu Unique, Pacific Aquarium | Times Museum, Cosmorama | Venice Architecture Biennale, Geostories | Cooper Union, Trash Peaks / Seoul Architecture Biennale, Pacific Aquarium | Onassis Cultural Center, Pacific Aquarium | Oslo Architecture Triennale, After Oil / Sursock Museum, After Oil | Venice Biennale, Neck of the Moon | League Prize, Geographies of Trash | Liberty Research Annex]
+       -> []
+FAIL /exhibitions/pacific-aquarium--oslo-architecture-triennale/
+     - HTTP 404
+     - title: "Pacific Aquarium | Oslo Architecture Triennale : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Pacific Aquarium Oslo Architecture Triennale: After Belongin…
+       new: ……
+     - images: 2 -> 0
+FAIL /exhibitions/pacific-aquarium--times-museum/
+     - HTTP 404
+     - title: "Pacific Aquarium | Times Museum : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Pacific Aquarium Times Museum, Guangzhou, China, 2018 Let's …
+       new: ……
+     - images: 4 -> 0
+FAIL /exhibitions/planet-after-geoengineering--venice-biennale/
+     - HTTP 404
+     - title: "Planet After Geoengineering | Venice Biennale : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …The Planet After Geoengineering Biennale Architettura 2021: …
+       new: ……
+     - images: 3 -> 0
+FAIL /exhibitions/trash-peaks/
+     - nav list: []
+       -> [Volcano Dreams | ETH Zürich, Climate Inheritance | Bauhaus Dessau, Planet After Geoengineering | Venice Biennale, Pacific Aquarium | Milano Triennale, Cosmorama | Wrightwood 659, Julia | Le Lieu Unique, Pacific Aquarium | Times Museum, Cosmorama | Venice Architecture Biennale, Geostories | Cooper Union, Trash Peaks / Seoul Architecture Biennale, Pacific Aquarium | Onassis Cultural Center, Pacific Aquarium | Oslo Architecture Triennale, After Oil / Sursock Museum, After Oil | Venice Biennale, Neck of the Moon | League Prize, Geographies of Trash | Liberty Research Annex]
+FAIL /exhibitions/volcano-dreams--eth-zuerich/
+     - HTTP 404
+     - title: "Volcano Dreams | ETH Zürich : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Volcano Dreams Confinement – online at e-flux Architecture a…
+       new: ……
+     - images: 1 -> 0
+ok   /
+ok   /project/a-geographic-stroll-around-the-horizon/
+ok   /project/the-belly-of-a-mountain/
+ok   /projects/a-space-oddity/
+ok   /projects/after-oil/
+FAIL /projects/apart-we-are-together/
+     - text differs at char 73:
+       old: …s Competition, 2015 , Honorable Mention Project Team: El Hadi Jazairy + Rania Ghosn Hsin-Han Lee, Ka…
+       new: …s Competition, 2015 , Honorable Mention </em> Project Team: El Hadi Jazairy + Rania Ghosn Hsin-Han L…
+ok   /projects/blue-marble-circus/
+ok   /projects/cloud-culture-city/
+FAIL /projects/composting-worlds/
+     - nav list: []
+       -> [Composting Worlds, Elephant in the Room, The Planet After Geoengineering, Julia, Cosmorama, Trash Peaks, Blue Marble Circus, Of Oil and Ice, Pacific Aquarium, After Oil, Neck of the Moon, A Space Oddity, Apart, We Are Together, Ocean Metabolism, Georama of Trash, Santa Claus' Planetary Garden, Sea Our Land, The Atmosphere is Dead, Long Live the Atmosphere!, CCC Cloud Culture City, Towers on Wire, Hassi Messaoud Oil Urbanism, The Belly of a Mountain, 4.7: A Geographic Stroll Around the Horizon]
+ok   /projects/cosmorama/
+FAIL /projects/elephant-in-the-room/
+     - nav list: []
+       -> [Composting Worlds, Elephant in the Room, The Planet After Geoengineering, Julia, Cosmorama, Trash Peaks, Blue Marble Circus, Of Oil and Ice, Pacific Aquarium, After Oil, Neck of the Moon, A Space Oddity, Apart, We Are Together, Ocean Metabolism, Georama of Trash, Santa Claus' Planetary Garden, Sea Our Land, The Atmosphere is Dead, Long Live the Atmosphere!, CCC Cloud Culture City, Towers on Wire, Hassi Messaoud Oil Urbanism, The Belly of a Mountain, 4.7: A Geographic Stroll Around the Horizon]
+ok   /projects/georama-of-trash/
+ok   /projects/hassi-messaoud-oil-urbanism/
+ok   /projects/
+ok   /projects/julia-the-submerged-volcano/
+ok   /projects/neck-of-the-moon-hyperreal/
+ok   /projects/ocean-metabolism/
+ok   /projects/of-oil-and-ice/
+ok   /projects/pacific-aquarium/
+FAIL /projects/santa-claus-planetary-garden/
+     - text differs at char 93:
+       old: …nge Competition, 2014 Honorable Mention Project Team: El Hadi Jazairy + Rania Ghosn Kelly Koh, Chen …
+       new: …nge Competition, 2014 Honorable Mention </em> Project Team: El Hadi Jazairy + Rania Ghosn Kelly Koh,…
+ok   /projects/sea-our-land/
+ok   /projects/the-atmosphere-is-dead-long-live-the-atmosphere/
+FAIL /projects/the-planet-after-geoengineering/
+     - nav list: []
+       -> [Composting Worlds, Elephant in the Room, The Planet After Geoengineering, Julia, Cosmorama, Trash Peaks, Blue Marble Circus, Of Oil and Ice, Pacific Aquarium, After Oil, Neck of the Moon, A Space Oddity, Apart, We Are Together, Ocean Metabolism, Georama of Trash, Santa Claus' Planetary Garden, Sea Our Land, The Atmosphere is Dead, Long Live the Atmosphere!, CCC Cloud Culture City, Towers on Wire, Hassi Messaoud Oil Urbanism, The Belly of a Mountain, 4.7: A Geographic Stroll Around the Horizon]
+ok   /projects/towers-on-wire/
+ok   /projects/trash-peaks/
+ok   /publications/8mile-baseline-a-dialectical-image-of-the-urban-c/
+FAIL /publications/a-flooded-thirsty-world/
+     - nav list: []
+       -> [The Planet After Geoengineering, Climate Inheritance, Elephant in the Room | JAE, The Anthropocene Chamber | Designing Landscape Architectural Education, Of Oil and Ice | Ambiguous Territory, Undermined Planet | Architectural Review, Uncommon Planet | LA+, A Flooded Thirsty World | JAE, Carbon Re-form | Log, Cosmorama | New Geographies, Geostories, Geostories | Domus, Trash Peaks | Architectural Design, DESIGN EARTH / Impermanence, The Great Waste State / Third Coast Atlas, Apart We Are Together / Thresholds, Leviathan in the Aquarium | JAE, Geography and Oil / Infrastructure Space, A Microcosm on a Sheet of Paper | New Geographies, Georama of Trash / ARQ, Territories of Oil / The Arab City, Neck of the Moon / Volume, Gaia Global Circus / The Avery Review, Geographies of Trash, 8Mile Baseline / JAE, Airpocalypse | San Rocco, Hassi Messaoud Oil Urbanism | New Geographies, Geographies of Trash / JAE, A Geographic Stroll Around the Horizon | MONU, Where Are the Missing Spaces | Perspecta, New Geographies 4: Scales of the Earth, New Geographies 2: Landscapes of Energy, The Space of Controversies | New Geographies]
+FAIL /publications/a-geographic-stroll-around-the-horizon--monu/
+     - HTTP 404
+     - title: "A Geographic Stroll Around the Horizon | MONU : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …A Geographic Stroll Around the Horizon MONU #20, 2014 Downlo…
+       new: ……
+     - images: 1 -> 0
+     - nav list: [The Planet After Geoengineering, Climate Inheritance, Elephant in the Room | JAE, The Anthropocene Chamber | Designing Landscape Architectural Education, Of Oil and Ice | Ambiguous Territory, Undermined Planet | Architectural Review, Uncommon Planet | LA+, A Flooded Thirsty World | JAE, Carbon Re-form | Log, Cosmorama | New Geographies, Geostories, Geostories | Domus, Trash Peaks | Architectural Design, DESIGN EARTH / Impermanence, The Great Waste State / Third Coast Atlas, Apart We Are Together / Thresholds, Leviathan in the Aquarium | JAE, Geography and Oil / Infrastructure Space, A Microcosm on a Sheet of Paper | New Geographies, Georama of Trash / ARQ, Territories of Oil / The Arab City, Neck of the Moon / Volume, Gaia Global Circus / The Avery Review, Geographies of Trash, 8Mile Baseline / JAE, Airpocalypse | San Rocco, Hassi Messaoud Oil Urbanism | New Geographies, Geographies of Trash / JAE, A Geographic Stroll Around the Horizon | MONU, Where Are the Missing Spaces | Perspecta, New Geographies 4: Scales of the Earth, New Geographies 2: Landscapes of Energy, The Space of Controversies | New Geographies]
+       -> []
+FAIL /publications/a-microcosm-on-a-sheet-of-paper/
+     - nav list: []
+       -> [The Planet After Geoengineering, Climate Inheritance, Elephant in the Room | JAE, The Anthropocene Chamber | Designing Landscape Architectural Education, Of Oil and Ice | Ambiguous Territory, Undermined Planet | Architectural Review, Uncommon Planet | LA+, A Flooded Thirsty World | JAE, Carbon Re-form | Log, Cosmorama | New Geographies, Geostories, Geostories | Domus, Trash Peaks | Architectural Design, DESIGN EARTH / Impermanence, The Great Waste State / Third Coast Atlas, Apart We Are Together / Thresholds, Leviathan in the Aquarium | JAE, Geography and Oil / Infrastructure Space, A Microcosm on a Sheet of Paper | New Geographies, Georama of Trash / ARQ, Territories of Oil / The Arab City, Neck of the Moon / Volume, Gaia Global Circus / The Avery Review, Geographies of Trash, 8Mile Baseline / JAE, Airpocalypse | San Rocco, Hassi Messaoud Oil Urbanism | New Geographies, Geographies of Trash / JAE, A Geographic Stroll Around the Horizon | MONU, Where Are the Missing Spaces | Perspecta, New Geographies 4: Scales of the Earth, New Geographies 2: Landscapes of Energy, The Space of Controversies | New Geographies]
+FAIL /publications/airpocalypse-a-short-geostory/
+     - text differs at char 56:
+       old: …Short Geostory San Rocco, Ecology, 2014 Download…
+       new: …Short Geostory San Rocco, Ecology, 2014 **[Download](../../files/download/Ghosn+Jazairy_2014_Airpoca…
+FAIL /publications/apart-we-are-together--thresholds/
+     - HTTP 404
+     - title: "Apart We Are Together / Thresholds : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Apart We Are Together Thresholds: Journal of the MIT Departm…
+       new: ……
+     - images: 1 -> 0
+     - nav list: [The Planet After Geoengineering, Climate Inheritance, Elephant in the Room | JAE, The Anthropocene Chamber | Designing Landscape Architectural Education, Of Oil and Ice | Ambiguous Territory, Undermined Planet | Architectural Review, Uncommon Planet | LA+, A Flooded Thirsty World | JAE, Carbon Re-form | Log, Cosmorama | New Geographies, Geostories, Geostories | Domus, Trash Peaks | Architectural Design, DESIGN EARTH / Impermanence, The Great Waste State / Third Coast Atlas, Apart We Are Together / Thresholds, Leviathan in the Aquarium | JAE, Geography and Oil / Infrastructure Space, A Microcosm on a Sheet of Paper | New Geographies, Georama of Trash / ARQ, Territories of Oil / The Arab City, Neck of the Moon / Volume, Gaia Global Circus / The Avery Review, Geographies of Trash, 8Mile Baseline / JAE, Airpocalypse | San Rocco, Hassi Messaoud Oil Urbanism | New Geographies, Geographies of Trash / JAE, A Geographic Stroll Around the Horizon | MONU, Where Are the Missing Spaces | Perspecta, New Geographies 4: Scales of the Earth, New Geographies 2: Landscapes of Energy, The Space of Controversies | New Geographies]
+       -> []
+FAIL /publications/carbon-re-form--log/
+     - HTTP 404
+     - title: "Carbon Re-form | Log : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Carbon Re-form Log 47: Overcoming Carbon Form, 2019 Download…
+       new: ……
+     - images: 1 -> 0
+FAIL /publications/climate-inheritance--perspecta/
+     - HTTP 404
+     - title: "Climate Inheritance : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+FAIL /publications/cosmorama--dimensions-of-citizenship/
+     - HTTP 404
+     - title: "Geostories | Domus : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Geostories Domus 1042, 2019 Download…
+       new: ……
+     - images: 1 -> 0
+FAIL /publications/cosmorama--new-geographies/
+     - HTTP 404
+     - title: "Cosmorama | New Geographies : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Cosmorama New Geographies 11: Extraterrestrial, 2020 Downloa…
+       new: ……
+     - images: 1 -> 0
+FAIL /publications/design-earth--impermanence/
+     - HTTP 404
+     - title: "DESIGN EARTH / Impermanence : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …DESIGN EARTH / Impermanence Impermanence - Young Architects …
+       new: ……
+     - images: 1 -> 0
+FAIL /publications/elephant-in-the-room--jae/
+     - HTTP 404
+     - title: "Elephant in the Room | JAE : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Elephant in the Room Journal of Architectural Education 75:2…
+       new: ……
+     - images: 1 -> 0
+ok   /publications/gaia-global-circus-a-climate-tragicomedy/
+FAIL /publications/geographies-of-trash/2/
+     - broken 404: /assets/images/publications/geographies-of-trash-book/01.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/02.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/03.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/04.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/05.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/06.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/07.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/08.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/09.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/10.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/11.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/12.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/13.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/14.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/15.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/16.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/17.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/18.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/19.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/20.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/21.jpg
+     - broken 404: /assets/images/publications/geographies-of-trash-book/22.jpg
+ok   /publications/geographies-of-trash/
+ok   /publications/geography-and-oil-the-territory-of-externalities/
+FAIL /publications/georama-of-trash/
+     - nav list: []
+       -> [The Planet After Geoengineering, Climate Inheritance, Elephant in the Room | JAE, The Anthropocene Chamber | Designing Landscape Architectural Education, Of Oil and Ice | Ambiguous Territory, Undermined Planet | Architectural Review, Uncommon Planet | LA+, A Flooded Thirsty World | JAE, Carbon Re-form | Log, Cosmorama | New Geographies, Geostories, Geostories | Domus, Trash Peaks | Architectural Design, DESIGN EARTH / Impermanence, The Great Waste State / Third Coast Atlas, Apart We Are Together / Thresholds, Leviathan in the Aquarium | JAE, Geography and Oil / Infrastructure Space, A Microcosm on a Sheet of Paper | New Geographies, Georama of Trash / ARQ, Territories of Oil / The Arab City, Neck of the Moon / Volume, Gaia Global Circus / The Avery Review, Geographies of Trash, 8Mile Baseline / JAE, Airpocalypse | San Rocco, Hassi Messaoud Oil Urbanism | New Geographies, Geographies of Trash / JAE, A Geographic Stroll Around the Horizon | MONU, Where Are the Missing Spaces | Perspecta, New Geographies 4: Scales of the Earth, New Geographies 2: Landscapes of Energy, The Space of Controversies | New Geographies]
+FAIL /publications/geostories/
+     - nav list: []
+       -> [The Planet After Geoengineering, Climate Inheritance, Elephant in the Room | JAE, The Anthropocene Chamber | Designing Landscape Architectural Education, Of Oil and Ice | Ambiguous Territory, Undermined Planet | Architectural Review, Uncommon Planet | LA+, A Flooded Thirsty World | JAE, Carbon Re-form | Log, Cosmorama | New Geographies, Geostories, Geostories | Domus, Trash Peaks | Architectural Design, DESIGN EARTH / Impermanence, The Great Waste State / Third Coast Atlas, Apart We Are Together / Thresholds, Leviathan in the Aquarium | JAE, Geography and Oil / Infrastructure Space, A Microcosm on a Sheet of Paper | New Geographies, Georama of Trash / ARQ, Territories of Oil / The Arab City, Neck of the Moon / Volume, Gaia Global Circus / The Avery Review, Geographies of Trash, 8Mile Baseline / JAE, Airpocalypse | San Rocco, Hassi Messaoud Oil Urbanism | New Geographies, Geographies of Trash / JAE, A Geographic Stroll Around the Horizon | MONU, Where Are the Missing Spaces | Perspecta, New Geographies 4: Scales of the Earth, New Geographies 2: Landscapes of Energy, The Space of Controversies | New Geographies]
+ok   /publications/hassi-messaoud-oil-urbanism/
+ok   /publications/
+ok   /publications/leviathan-in-the-aquarium/
+ok   /publications/neck-of-the-moon/
+FAIL /publications/new-geographies-02/
+     - broken 404: /files/download/Ghosn_2010_NG2_Energy%20as%20Spatial%20Project.pdf
+FAIL /publications/new-geographies-4/
+     - broken 404: /files/download/Jazairy_2011_NG4_Toward%20a%20Plastic%20Conception%20of%20Scale.pdf
+FAIL /publications/new-geographies/
+     - broken 404: /files/download/00_Ghosn+Jazairy_2009_New%20Geographies0.pdf
+FAIL /publications/of-oil-and-ice--ambiguous-territory/
+     - HTTP 404
+     - title: "Of Oil and Ice | Ambiguous Territory : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Of Oil and Ice Ambiguous Territory: Architecture, Landscape …
+       new: ……
+     - images: 1 -> 0
+ok   /publications/territories-of-oil-the-trans-arabian-pipeline/
+FAIL /publications/the-anthropocene-chamber--designing-landscape-architectural-education/
+     - HTTP 404
+     - title: "The Anthropocene Chamber | Designing Landscape Architectural Education : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …The Anthropocene Chamber: A Pedagogic Experiment Designing L…
+       new: ……
+     - images: 1 -> 0
+FAIL /publications/the-great-waste-state/
+     - nav list: []
+       -> [The Planet After Geoengineering, Climate Inheritance, Elephant in the Room | JAE, The Anthropocene Chamber | Designing Landscape Architectural Education, Of Oil and Ice | Ambiguous Territory, Undermined Planet | Architectural Review, Uncommon Planet | LA+, A Flooded Thirsty World | JAE, Carbon Re-form | Log, Cosmorama | New Geographies, Geostories, Geostories | Domus, Trash Peaks | Architectural Design, DESIGN EARTH / Impermanence, The Great Waste State / Third Coast Atlas, Apart We Are Together / Thresholds, Leviathan in the Aquarium | JAE, Geography and Oil / Infrastructure Space, A Microcosm on a Sheet of Paper | New Geographies, Georama of Trash / ARQ, Territories of Oil / The Arab City, Neck of the Moon / Volume, Gaia Global Circus / The Avery Review, Geographies of Trash, 8Mile Baseline / JAE, Airpocalypse | San Rocco, Hassi Messaoud Oil Urbanism | New Geographies, Geographies of Trash / JAE, A Geographic Stroll Around the Horizon | MONU, Where Are the Missing Spaces | Perspecta, New Geographies 4: Scales of the Earth, New Geographies 2: Landscapes of Energy, The Space of Controversies | New Geographies]
+FAIL /publications/the-planet-after-geoengineering/
+     - nav list: []
+       -> [The Planet After Geoengineering, Climate Inheritance, Elephant in the Room | JAE, The Anthropocene Chamber | Designing Landscape Architectural Education, Of Oil and Ice | Ambiguous Territory, Undermined Planet | Architectural Review, Uncommon Planet | LA+, A Flooded Thirsty World | JAE, Carbon Re-form | Log, Cosmorama | New Geographies, Geostories, Geostories | Domus, Trash Peaks | Architectural Design, DESIGN EARTH / Impermanence, The Great Waste State / Third Coast Atlas, Apart We Are Together / Thresholds, Leviathan in the Aquarium | JAE, Geography and Oil / Infrastructure Space, A Microcosm on a Sheet of Paper | New Geographies, Georama of Trash / ARQ, Territories of Oil / The Arab City, Neck of the Moon / Volume, Gaia Global Circus / The Avery Review, Geographies of Trash, 8Mile Baseline / JAE, Airpocalypse | San Rocco, Hassi Messaoud Oil Urbanism | New Geographies, Geographies of Trash / JAE, A Geographic Stroll Around the Horizon | MONU, Where Are the Missing Spaces | Perspecta, New Geographies 4: Scales of the Earth, New Geographies 2: Landscapes of Energy, The Space of Controversies | New Geographies]
+FAIL /publications/trash-peaks--eco-visionaries/
+     - HTTP 404
+     - title: "Trash Peaks | Architectural Design : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Trash Peaks / Architectural Design Architectural Design, Vol…
+       new: ……
+     - images: 1 -> 0
+FAIL /publications/uncommon-planet--la/
+     - HTTP 404
+     - title: "Uncommon Planet | LA+ : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Uncommon Planet LA+ 12: Geo, 2020 Download…
+       new: ……
+     - images: 1 -> 0
+FAIL /publications/undermined-planet--architectural-review/
+     - HTTP 404
+     - title: "Undermined Planet | Architectural Review : DESIGN EARTH" -> "Page not found &middot; GitHub Pages"
+     - text differs at char 0:
+       old: …Undermined Planet: exposing geographies of extraction Archit…
+       new: ……
+     - images: 1 -> 0
+FAIL /publications/where-are-the-missing-spaces/
+     - broken 404: /files/download/Ghosn_2012_Where%20are%20the%20missing%20spaces_Perspecta.pdf
+ok   /xml/
+ok   /animations/ (new) HTTP 200
+32 pages match, 45 with differences (base https://chillmeg.github.io/design_earth)

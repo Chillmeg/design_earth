@@ -1,5 +1,6 @@
 ---
 title: "A Geographic Stroll Around the Horizon | MONU"
+permalink: /publications/a-geographic-stroll-around-the-horizon--monu/
 year: 2014  # guessed from the text - please check
 thumbnail: thumb.jpg
 thumbnail_height: 200

@@ -1,6 +1,7 @@
 ---
 title: "A Flooded Thirsty World | JAE"
 year: 2020  # guessed from the text - please check
+nav_list: false  # the old page did not list the other items in the left nav
 thumbnail: thumb.jpg
 thumbnail_height: 200
 images:
