@@ -14,7 +14,8 @@ layout: default
 {%- if d.thumbnail -%}
   {%- assign src = base | append: d.thumbnail | relative_url -%}
 {%- elsif d.videos -%}
-  {%- include youtube-id.html url=d.videos[0].youtube -%}
+  {%- assign first_video = d.videos | first -%}
+  {%- include youtube-id.html url=first_video.youtube -%}
   {%- assign src = "https://i.ytimg.com/vi/" | append: yt_id | append: "/mqdefault.jpg" -%}
 {%- elsif d.images.size > 0 -%}
   {%- assign src = base | append: d.images[0].file | relative_url -%}
