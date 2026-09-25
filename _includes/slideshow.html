@@ -1,0 +1,20 @@
+{%- comment -%}
+  The slideshow. Params: folder (image folder under assets/images), nav (true/false).
+  Markup matches the old Indexhibit slideshow; assets/js/slideshow.js builds the next slides.
+{%- endcomment -%}
+{%- assign base = "/assets/images/" | append: include.folder | append: "/" -%}
+{%- assign imgs = page.images -%}
+{%- assign first = imgs | first -%}
+<script type='text/javascript'>
+var fade = true;
+var slides = [{% for im in imgs %}{ src: {{ base | append: im.file | relative_url | jsonify }}, width: {{ im.width | default: 0 }}, height: {{ im.height | default: 0 }}, caption: {{ im.caption | default: "" | jsonify }} }{% unless forloop.last %}, {% endunless %}{% endfor %}];
+</script>
+{% if include.nav and imgs.size > 1 %}
+<div id='slideshow-nav' class='nav-above'>
+<span id="total"><em>1</em> of {{ imgs.size }}</span>&nbsp;&nbsp;<span id="previous"><a href="#" onclick="previous(); return false;">Previous</a></span> | <span id="next"><a href="#" onclick="next(); return false;">Next</a></span></div>
+{% endif %}
+{% if first -%}
+<div id='slideshow-wrapper'>
+<div id='slideshow' style='position: relative;{% if first.height %} height:{{ first.height }}px{% endif %}'>
+<div id="slide1000" class="picture" style="z-index: 1000; position: absolute;"><a href="#" onclick="next(); return false;" alt=""><img src="{{ base | append: first.file | relative_url }}"{% if first.width %} width="{{ first.width }}" height="{{ first.height }}"{% endif %} /></a>{% if first.caption and first.caption != "" %}<div class='captioning'><div class='caption'>{{ first.caption | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div></div>{% endif %}</div></div></div>
+{%- endif -%}

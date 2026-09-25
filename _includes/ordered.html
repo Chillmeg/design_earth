@@ -1,0 +1,16 @@
+{%- comment -%}
+  Sets `ordered` to the items of include.collection in display order:
+  items missing from _data/order.yml first (newest year first), then the listed ones in list order.
+{%- endcomment -%}
+{%- assign coll = site[include.collection] -%}
+{%- assign listed = site.data.order[include.collection] -%}
+{%- unless listed -%}{%- assign listed = "" | split: "" -%}{%- endunless -%}
+{%- assign ordered = "" | split: "" -%}
+{%- for doc in coll -%}
+  {%- unless listed contains doc.slug -%}{%- assign ordered = ordered | push: doc -%}{%- endunless -%}
+{%- endfor -%}
+{%- assign ordered = ordered | sort: "year", "first" | reverse -%}
+{%- for s in listed -%}
+  {%- assign d = coll | where: "slug", s | first -%}
+  {%- if d -%}{%- assign ordered = ordered | push: d -%}{%- endif -%}
+{%- endfor -%}

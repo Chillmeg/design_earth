@@ -1,0 +1,184 @@
+/**
+* CSS
+* 
+* @version 2.0
+* @author Vaska 
+*
+* There are also some obscure rules in base.css
+*/
+
+body {
+	font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
+	background: #fff;
+	color: #000;
+	/* font-weight: 300; */
+}
+
+/* link scheme */
+/* you can customize links further down the page too */
+a:link { text-decoration: none; color: #000; }
+a:active { text-decoration: none; color: #000; }
+a:visited { text-decoration: none; color: #000; }
+a:hover { color:#ffff00 }
+a img { border: none; }
+.color-blue{color:#096dd9;}
+
+/* general styles */
+small { font-size: 9px; line-height: 13px; }
+.large{ font-size: 9px; line-height: 18px; color:#999;}
+code { font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif; }
+blockquote { padding-left: 9px; }
+
+/* headings */
+h1 { font-size: 85px; font-weight: bold; line-height:75px; font-family: Helvetica,Arial,sans-serif; text-align:right; letter-spacing: -5px;}
+h2 { font-size: 11px; margin-bottom: 1em; font-weight: bold; color:#fff; line-height: 18px; }
+h3 { font-size: 11px; margin-bottom: 1em; }
+h4 { font-size: 11px; margin-bottom: 1em; }
+
+.title{ font-weight:bold;}
+
+/* de_slideshow */
+#de_slideshow{height: 100%; left: 0;  overflow: hidden; text-align:center; vertical-align:middle;  position: absolute; top: 0;  width: 100%; z-index: 0; }
+#de_slideshow .picture{height: 100%; overflow: hidden;  width: 100%; background-position:center; background-repeat:no-repeat; background-size:contain;}
+#de_slideshow .de_slideshow_title{bottom: 0; display: block; font-size: 13px; position: fixed;  right: 0; text-align: right;  width: 350px;  z-index: 3;}
+#de_slideshow .de_slideshow_title p{    bottom: 34px; margin-right: 80px; position: relative; right: 50px; z-index: 200;}
+#de_slideshow ul.custom-pager{ margin: 0;
+    padding: 0;
+    text-align: center;}
+#de_slideshow ul.custom-pager li {
+    display: block;
+    float: right;
+    font-weight: bold;
+    list-style-image: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0 0 0 10px;
+    white-space: nowrap;
+    width: auto;
+    z-index: 20;
+}
+#de_slideshow ul.custom-pager li.next a{ font-weight:bold; bottom: 0; display: inline-block;  padding: 1450px 90px 34px 1450px; position: absolute; right: 0;}
+
+/* paragraph width */
+#index p {text-align: right;}
+#exhibit p, code, blockquote { width: 480px; margin-bottom:2em; }
+#exhibit p a{ color:#999; text-decoration:underline; font-weight:normal;}
+#exhibit p a:hover{ color:#000;}
+
+/* highlighter style - maybe you want to change colors? */
+.highlight { background: #000; color: #fff; }
+
+.thin .title{ font-weight:bold;}
+/* never adjust the margin or padding here unless you seriously know what you are doing */
+/* think #index .container and #exhibit .container for only padding adjustments */
+
+#index { width: 400px; background: transparent; /* line-height: 1em; */    left: 10px;
+    margin-right: 24px;
+    position: fixed;
+    font-size: 11px;
+    line-height: 13px;
+    top: 100px;
+    width: 400px;
+    text-align:right;
+}
+
+/*#exhibit { margin: 1750px 0 0 430px; width: 700px; position: absolute;}*/
+#exhibit { display: block;
+    left: 430px;
+    font-size: 13px;
+    line-height: 18px;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 106px;
+    width: auto;}
+
+
+/* styling the index */
+#index ul { list-style: none; margin: 0; }
+#index ul{padding: 0 0 0 1em;}
+#index ul li { font-size: 11px;
+    font-weight: bold;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    width: 100%;}
+#index .active_section a,#index .active a{ color:#999;}
+#index ul.subsection { padding-top:19px;  }
+#index ul li.exhibit_title a{text-align:right;}
+
+/* the follow rules for index are not required */
+/* they are mostly for complex customization */
+
+/* for tag display */
+#index ul#all_tags { list-style-type: none; margin-bottom: 1em; clear:both; padding-top:19px;  }
+#index ul#all_tags li {}
+#index ul#all_tags li a {}
+
+#ndxz-searcher{ text-align:right;}
+.ndxz_search_btn{ margin-top:2px; color: transparant; background:none; border:none; font-family: Arial,Helvetica,sans-serif; font-size: 11px;}
+.ndxz_search{ margin-top:2px; float:right; border: 1px solid #999999; color: #666; font-size: 11px; padding: 0 2px 2px; text-align: right;}
+
+/* active section title */
+#index span.active_section_title,
+#index span.active_section_title a { font-weight: bold;text-align:right;}
+
+/* active exhibit title parts */
+li.active a:link, li a.active, li.active a:hover, li a.active, li.active a:active, li a.active, 
+li.active a:visited, li a.active, li span.active, #index ul.section li.active a:link, 
+#index ul.section li.active a:hover, #index ul.section li.active a:active, #index ul.section li.active a:visited
+{ font-weight: bold;}
+
+/* additional #index options */
+#index ul li .password a { /* background: url(../img/locked.gif) right center no-repeat; padding-right: 18px; */ }
+
+/* the "new" indicator */
+#index ul li sup { color: #0c0; font-weight: bold; text-transform: uppercase; font-size: 8px; vertical-align: top; }
+/* end styling for index */
+
+/* links styles only for the #index region */
+.top a:link { white-space:normal; word-wrap:break-word; } 
+.top a:hover { text-decoration: none; color:#000;   } 
+.top a:active {  } 
+.top a:visited {  }
+
+/* links styles only for the #exhibit region */
+#exhibit a:link {  } 
+#exhibit a:hover {  } 
+#exhibit a:active {  } 
+#exhibit a:visited {  } 
+
+/* this is where you adjust your paddings for #index and #exhibit together */
+.container { }
+
+/* this is where you pad them separately */
+#index .container { }
+#exhibit .container { }
+
+/* views-row*/
+.views-row{ clear: both;
+    display: block;
+    float: left;
+    font-size: 10px;
+    height: 210px;
+    margin-right: 45px;}
+.teas-image {
+    display: block;
+    float: left;
+    height: 140px;
+     overflow:hidden;
+    margin: 0 45px 22px 0;
+}
+.teas-image img{margin-bottom: 10px;}
+.teas-content {
+    display: block;
+    margin: 0 0 50px;
+    width: 460px;
+}
+.teas-content .title {
+    margin: 0 0 11px;
+    font-weight: bold;
+}
+.teaserbody,.more-info {
+    margin-bottom: 10px;
+}
+#prev_new_entries{ position:fixed; bottom:34px; right:34px;}

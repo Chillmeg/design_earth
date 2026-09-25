@@ -1,0 +1,12 @@
+{%- if page.layout == "grow" -%}{%- assign pw = 300 -%}{%- assign ch = 0 -%}{%- else -%}{%- assign pw = 200 -%}{%- assign ch = 50 -%}{%- endif -%}
+<style type='text/css'>
+#img-container {  }
+#img-container #text { float: left; width: 285px; }
+#img-container #text p { width: 250px; }
+#img-container .picture_holder { float: left; }
+#img-container .picture { position: relative; text-align: left; }
+#img-container .picture { width: {{ pw }}px; }
+#img-container .picture_holder { padding: 0 0 0 0; }
+#img-container .captioning { height: {{ ch }}px; text-align: center;width: {{ pw }}px; }
+#img-container .captioning .title { font-weight:bold; text-align: left; }
+</style>

@@ -1,0 +1,39 @@
+---
+layout: default
+---
+{%- comment -%}
+  Grid page for one section (page.section = projects / publications / exhibitions / animations).
+  Tile image: `thumbnail` if set, otherwise a YouTube still (animations) or the first image.
+{%- endcomment -%}
+{%- include ordered.html collection=page.section -%}
+<div id='img-container'>
+{% for d in ordered -%}
+{%- if d.in_grid == false -%}{%- continue -%}{%- endif -%}
+{%- assign base = "/assets/images/" | append: d.collection | append: "/" | append: d.slug | append: "/" -%}
+{%- assign src = nil -%}
+{%- if d.thumbnail -%}
+  {%- assign src = base | append: d.thumbnail | relative_url -%}
+{%- elsif d.videos -%}
+  {%- include youtube-id.html url=d.videos[0].youtube -%}
+  {%- assign src = "https://i.ytimg.com/vi/" | append: yt_id | append: "/mqdefault.jpg" -%}
+{%- elsif d.images.size > 0 -%}
+  {%- assign src = base | append: d.images[0].file | relative_url -%}
+{%- endif -%}
+{%- if page.section == "publications" -%}
+  {%- assign h = d.thumbnail_height | default: 200 -%}
+  {%- assign pad = 200 | minus: h -%}
+  {%- capture img_size %}height='{{ h }}'{% endcapture -%}{%- capture fit %}{% unless d.thumbnail %} max-width:200px;{% endunless %}{% endcapture -%}
+{%- else -%}
+  {%- assign pad = 0 -%}
+  {%- capture img_size %}width='200' height='200'{% endcapture -%}{%- capture fit %}{% unless d.thumbnail %} object-fit: cover;{% endunless %}{% endcapture -%}
+{%- endif %}
+<div class='picture_holder' id='node_{{ d.slug }}' style='width: 225px; height: 260px;'>
+<div class='picture' style='width: 200px;'>
+<div style='padding-top: {{ pad }}{% if page.section == "publications" %}px{% endif %};'>
+<a href='{{ d.url | relative_url }}' class='link'>{% if src %}<img style='margin-bottom:10px;{{ fit }}' src='{{ src }}' {{ img_size }} alt='' />{% endif %}</a>
+</div>
+</div>
+<div class='captioning'><div class='title'>{{ d.title }}</div></div>
+</div>
+{% endfor %}
+<div style='clear: left;'><!-- --></div></div>

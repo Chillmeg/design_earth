@@ -1,0 +1,47 @@
+# DESIGN EARTH site settings
+
+title: DESIGN EARTH
+author: Rania and El Hadi
+
+# While previewing at https://chillmeg.github.io/design_earth/ keep this as /design_earth.
+# When design-earth.org points here, change it to: baseurl: ""
+baseurl: /design_earth
+url: https://chillmeg.github.io
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  publications:
+    output: true
+    permalink: /publications/:name/
+  exhibitions:
+    output: true
+    permalink: /exhibitions/:name/
+  animations:
+    output: true
+    permalink: /animations/:name/
+
+defaults:
+  - scope: { type: projects }
+    values: { layout: slideshow }
+  - scope: { type: exhibitions }
+    values: { layout: slideshow }
+  - scope: { type: publications }
+    values: { layout: grow }
+  - scope: { type: animations }
+    values: { layout: video }
+
+markdown: kramdown
+kramdown:
+  # keep straight quotes exactly as typed (the old site did not curl them)
+  smart_quotes: apos,apos,quot,quot
+
+plugins:
+  - jekyll-redirect-from
+
+exclude:
+  - README.md
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock

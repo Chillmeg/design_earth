@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{%- assign show_nav = true -%}{%- if page.slideshow_nav == false -%}{%- assign show_nav = false -%}{%- endif -%}
+{%- assign text = content | strip -%}
+{%- if page.images.size > 0 or text != "" -%}
+<div id='img-container'>
+
+{%- assign folder = page.collection | append: "/" | append: page.slug %}
+{% include slideshow.html folder=folder nav=show_nav %}
+<div id='textspace' class='placement-bottom'>
+{{ content }}</div>
+</div>
+{%- endif -%}

@@ -1,0 +1,59 @@
+{%- assign sec_coll = page.collection | default: page.section -%}
+{%- assign sec = site.data.sections | where: "collection", sec_coll | first -%}
+{%- assign sid = sec.id | default: 1 -%}
+{%- case page.layout -%}
+  {%- when "section", "grow" -%}{%- assign fmt = "visual_index" -%}
+  {%- else -%}{%- assign fmt = "slideshow" -%}
+{%- endcase -%}
+<!doctype html>
+<html lang='en-us'>
+<head>
+<meta charset='utf-8'>
+<title>{{ page.title }} : {{ site.title }}</title>
+<meta name='keywords' content="" />
+<meta name='description' content="{{ page.description }}" />
+<meta name='author' content="{{ site.author }}" />
+<meta name='copyright' content="{{ site.author }}" />
+<meta name='Robots' content="" />
+<meta name='Revisit-after' content="" />
+<link rel='stylesheet' href='{{ "/assets/css/reset.css" | relative_url }}' type='text/css' />
+<link rel='stylesheet' href='{{ "/assets/css/base.css" | relative_url }}' type='text/css' />
+<link rel='stylesheet' href='{{ "/assets/css/style.css" | relative_url }}' type='text/css' />
+{% if fmt == "slideshow" -%}
+<link rel='stylesheet' href='{{ "/assets/css/slideshow.css" | relative_url }}' type='text/css' />
+{%- else -%}
+{% include grid-styles.html %}
+{%- endif %}
+<script type='text/javascript' src='{{ "/assets/js/jquery.js" | relative_url }}'></script>
+{% if fmt == "slideshow" -%}
+<script type='text/javascript' src='{{ "/assets/js/slideshow.js" | relative_url }}'></script>
+{%- elsif page.layout == "grow" -%}
+<script type='text/javascript' src='{{ "/assets/js/grow.js" | relative_url }}'></script>
+{%- endif %}
+</head>
+<body class='exhibits section-{{ sid }} format-{{ fmt }}'>
+<div id='index'>
+<div class='container'>
+
+<div class='top'><h1><a href='{{ "/" | relative_url }}' title='{{ site.title }}'>{{ site.title }}</a></h1><br />
+</div>
+{% include nav.html %}
+
+<div class='bot'></div>
+
+</div>
+</div>
+
+<div id='exhibit'>
+<div class='container'>
+
+<div class='top'><!-- --></div>
+<!-- text and image -->
+{{ content }}
+<!-- end text and image -->
+
+</div>
+</div>
+
+</body>
+</html>

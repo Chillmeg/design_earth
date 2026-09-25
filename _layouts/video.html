@@ -1,0 +1,39 @@
+---
+layout: default
+---
+{%- comment -%}
+  Animation page: an embedded YouTube player where the slideshow image would be, text below.
+  With several versions (e.g. English / French) their labels appear above, like the slideshow's Previous | Next line.
+{%- endcomment -%}
+<div id='img-container'>
+
+{% if page.videos.size > 1 -%}
+<div id='slideshow-nav' class='nav-above'>
+{%- for v in page.videos -%}
+{%- include youtube-id.html url=v.youtube -%}
+<span><a href="#" class="video-switch{% if forloop.first %} active{% endif %}" data-video="{{ yt_id }}">{{ v.label | default: forloop.index }}</a></span>{% unless forloop.last %} | {% endunless %}
+{%- endfor -%}
+</div>
+{%- endif %}
+
+<div id='slideshow-wrapper'>
+{%- assign v = page.videos | first -%}
+{%- include youtube-id.html url=v.youtube %}
+<div id='slideshow' class='video' style='position: relative; width: 800px; height: 450px;'>
+<iframe id='video-frame' width='800' height='450' src='https://www.youtube-nocookie.com/embed/{{ yt_id }}?rel=0' title='{{ page.title | escape }}' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+</div></div>
+<div id='textspace' class='placement-bottom'>
+{{ content }}</div>
+</div>
+{% if page.videos.size > 1 -%}
+<script type='text/javascript'>
+$(function() {
+  $('a.video-switch').click(function() {
+    $('#video-frame').attr('src', 'https://www.youtube-nocookie.com/embed/' + $(this).data('video') + '?rel=0&autoplay=1');
+    $('a.video-switch').removeClass('active');
+    $(this).addClass('active');
+    return false;
+  });
+});
+</script>
+{%- endif %}

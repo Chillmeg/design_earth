@@ -1,0 +1,10 @@
+{%- comment -%}
+  Sets `yt_id` from include.url, which may be a plain video ID or any YouTube link:
+  https://youtu.be/ID?si=..., https://www.youtube.com/watch?v=ID&..., https://www.youtube.com/shorts/ID
+{%- endcomment -%}
+{%- assign yt_id = include.url | strip -%}
+{%- if yt_id contains "v=" -%}
+  {%- assign yt_id = yt_id | split: "v=" | last | split: "&" | first -%}
+{%- else -%}
+  {%- assign yt_id = yt_id | split: "?" | first | split: "/" | last -%}
+{%- endif -%}

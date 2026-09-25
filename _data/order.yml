@@ -1,0 +1,90 @@
+# Order of items in each section, top to bottom (nav list and grid page).
+# Use the file name without .md. Move a line to reorder.
+# Items NOT listed here are shown at the top automatically.
+
+projects:
+  - composting-worlds
+  - elephant-in-the-room
+  - the-planet-after-geoengineering
+  - julia-the-submerged-volcano
+  - cosmorama
+  - trash-peaks
+  - blue-marble-circus
+  - of-oil-and-ice
+  - pacific-aquarium
+  - after-oil
+  - neck-of-the-moon-hyperreal
+  - a-space-oddity
+  - apart-we-are-together
+  - ocean-metabolism
+  - georama-of-trash
+  - santa-claus-planetary-garden
+  - sea-our-land
+  - the-atmosphere-is-dead-long-live-the-atmosphere
+  - cloud-culture-city
+  - towers-on-wire
+  - hassi-messaoud-oil-urbanism
+  - the-belly-of-a-mountain
+  - a-geographic-stroll-around-the-horizon
+
+publications:
+  - the-planet-after-geoengineering
+  - climate-inheritance--perspecta
+  - elephant-in-the-room--jae
+  - the-anthropocene-chamber--designing-landscape-architectural-education
+  - of-oil-and-ice--ambiguous-territory
+  - undermined-planet--architectural-review
+  - uncommon-planet--la
+  - a-flooded-thirsty-world
+  - carbon-re-form--log
+  - cosmorama--new-geographies
+  - geostories
+  - cosmorama--dimensions-of-citizenship
+  - trash-peaks--eco-visionaries
+  - design-earth--impermanence
+  - the-great-waste-state
+  - apart-we-are-together--thresholds
+  - leviathan-in-the-aquarium
+  - geography-and-oil-the-territory-of-externalities
+  - a-microcosm-on-a-sheet-of-paper
+  - georama-of-trash
+  - territories-of-oil-the-trans-arabian-pipeline
+  - neck-of-the-moon
+  - gaia-global-circus-a-climate-tragicomedy
+  - geographies-of-trash-book
+  - 8mile-baseline-a-dialectical-image-of-the-urban-c
+  - airpocalypse-a-short-geostory
+  - hassi-messaoud-oil-urbanism
+  - geographies-of-trash
+  - a-geographic-stroll-around-the-horizon--monu
+  - where-are-the-missing-spaces
+  - new-geographies-4
+  - new-geographies-02
+  - new-geographies
+
+exhibitions:
+  - volcano-dreams--eth-zuerich
+  - climate-inheritance--bauhaus-dessau
+  - planet-after-geoengineering--venice-biennale
+  - pacific-aquarium--milano-triennale
+  - cosmorama--wrightwood-659
+  - julia-the-submerged-volcano--le-lieu-unique
+  - pacific-aquarium--times-museum
+  - cosmorama--venice-architecture-biennale
+  - geostories--cooper-union
+  - trash-peaks
+  - geographic-leviathan--onassis-cultural-center
+  - pacific-aquarium--oslo-architecture-triennale
+  - after-oil--sursock-museum
+  - after-oil
+  - geostories
+  - geographies-of-trash
+
+animations:
+  - a-pas-de-loup
+  - a-whale-song
+  - elephant-in-the-room
+  - the-way-of-the-dinosaurs
+  - 800-pounds-gorilla
+  - crocodile-tears
+  - living-as-flamingo

@@ -1,0 +1,30 @@
+{%- for s in site.data.sections -%}
+{%- assign here = false -%}
+{%- assign on_section_page = false -%}
+{%- if s.collection -%}
+  {%- if page.collection == s.collection -%}{%- assign here = true -%}{%- endif -%}
+  {%- if page.section == s.collection -%}{%- assign here = true -%}{%- assign on_section_page = true -%}{%- endif -%}
+  {%- assign count = site[s.collection] | size -%}
+{%- else -%}
+  {%- if page.layout == "home" -%}{%- assign here = true -%}{%- assign on_section_page = true -%}{%- endif -%}
+  {%- assign count = 1 -%}
+{%- endif %}
+<ul class='section{% if here %} active_section{% endif %}' id='section_{{ s.id }}'>
+{% if count > 0 -%}
+<li><span id='section_title_{{ s.id }}' class='section_title{% if on_section_page %} active_section_title{% endif %}'><a href='{{ s.url | relative_url }}' id='section_link_{{ s.id }}'>{{ s.title }}</a></span>
+{%- else -%}
+<li id='section_title_{{ s.id }}'><span id='section_link_{{ s.id }}' class='section_title'>{{ s.title }}</span>
+{%- endif %}
+<ul>
+</ul>
+</li>
+</ul>
+{%- endfor %}
+{% if page.collection -%}
+{%- include ordered.html collection=page.collection %}
+<ul class='subsection'>
+{% for d in ordered -%}
+<li id='exhibit_{{ d.slug }}' class='exhibit_title{% if d.url == page.url %} active{% endif %}'><a href='{{ d.url | relative_url }}'>{{ d.title }}</a></li>
+{% endfor -%}
+</ul>
+{%- endif %}

@@ -1,0 +1,26 @@
+projects: 23 items
+MISSING image gimgs/122_GOT.jpg -> assets/images/publications/geographies-of-trash-book/01.jpg
+MISSING image gimgs/122_GOT-4.jpg -> assets/images/publications/geographies-of-trash-book/02.jpg
+MISSING image gimgs/122_GOT-5.jpg -> assets/images/publications/geographies-of-trash-book/03.jpg
+MISSING image gimgs/122_GOT-7.jpg -> assets/images/publications/geographies-of-trash-book/04.jpg
+MISSING image gimgs/122_GOT-17.jpg -> assets/images/publications/geographies-of-trash-book/05.jpg
+MISSING image gimgs/122_GOT-13.jpg -> assets/images/publications/geographies-of-trash-book/06.jpg
+MISSING image gimgs/122_GOT-6.jpg -> assets/images/publications/geographies-of-trash-book/07.jpg
+MISSING image gimgs/122_GOT-18.jpg -> assets/images/publications/geographies-of-trash-book/08.jpg
+MISSING image gimgs/122_GOT-23.jpg -> assets/images/publications/geographies-of-trash-book/09.jpg
+MISSING image gimgs/122_GOT-26.jpg -> assets/images/publications/geographies-of-trash-book/10.jpg
+MISSING image gimgs/122_GOT-27.jpg -> assets/images/publications/geographies-of-trash-book/11.jpg
+MISSING image gimgs/122_GOT-28.jpg -> assets/images/publications/geographies-of-trash-book/12.jpg
+MISSING image gimgs/122_GOT-33.jpg -> assets/images/publications/geographies-of-trash-book/13.jpg
+MISSING image gimgs/122_GOT-35.jpg -> assets/images/publications/geographies-of-trash-book/14.jpg
+MISSING image gimgs/122_GOT-37.jpg -> assets/images/publications/geographies-of-trash-book/15.jpg
+MISSING image gimgs/122_GOT-39.jpg -> assets/images/publications/geographies-of-trash-book/16.jpg
+MISSING image gimgs/122_GOT-42.jpg -> assets/images/publications/geographies-of-trash-book/17.jpg
+MISSING image gimgs/122_GOT-40.jpg -> assets/images/publications/geographies-of-trash-book/18.jpg
+MISSING image gimgs/122_GOT-46.jpg -> assets/images/publications/geographies-of-trash-book/19.jpg
+MISSING image gimgs/122_GOT-50.jpg -> assets/images/publications/geographies-of-trash-book/20.jpg
+MISSING image gimgs/122_GOT-53.jpg -> assets/images/publications/geographies-of-trash-book/21.jpg
+MISSING image gimgs/122_GOT-55.jpg -> assets/images/publications/geographies-of-trash-book/22.jpg
+publications: 33 items
+exhibitions: 16 items
+pdfs: 12

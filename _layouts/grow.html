@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{%- comment -%}
+  Publication page: small covers; click one to show it full size (assets/js/grow.js).
+  Each image may have its own `thumb`; without one the full image is scaled into the 300px box.
+{%- endcomment -%}
+{%- assign base = "/assets/images/" | append: page.collection | append: "/" | append: page.slug | append: "/" -%}
+{%- assign text = content | strip -%}
+{%- if page.images.size > 0 or text != "" -%}
+<div id='img-container'>
+{% for im in page.images -%}
+{%- assign th = im.thumb | default: im.file -%}
+{%- assign tw = im.thumb_width -%}{%- assign tht = im.thumb_height -%}
+{%- if tht == nil and im.width and im.height -%}
+  {%- comment -%} scale the full image to fit a 300x300 box {%- endcomment -%}
+  {%- if im.width >= im.height -%}{%- assign tw = 300 -%}{%- assign tht = im.height | times: 300 | divided_by: im.width -%}
+  {%- else -%}{%- assign tht = 300 -%}{%- assign tw = im.width | times: 300 | divided_by: im.height -%}{%- endif -%}
+{%- endif -%}
+{%- assign padtop = 300 | minus: tht -%}{%- if tht == nil -%}{%- assign padtop = 0 -%}{%- endif %}
+<div class='picture_holder' id='node{{ forloop.index }}' style='width: 325px; height: 310px;' data-full='{{ base | append: im.file | relative_url }}' data-width='{{ im.width }}' data-height='{{ im.height }}'>
+<div class='picture' style='width: 300px;'>
+<div style='padding-top: {{ padtop }}px;'>
+<a href='#' class='link' id='a{{ forloop.index }}'  onclick="$.fn.ndxz_grow.grower(this, true); return false;"><img style='margin-bottom:10px;{% unless tht %} max-width:300px; max-height:300px;{% endunless %}' src='{{ base | append: th | relative_url }}'{% if tht %} width='{{ tw }}' height='{{ tht }}'{% endif %} alt='' /></a>
+</div>
+</div>
+</div>
+{% endfor -%}
+<div style='clear: left;'><!-- --></div></div>
+{{ content }}
+{%- endif -%}
