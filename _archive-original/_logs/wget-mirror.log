@@ -1,0 +1,3260 @@
+--2026-09-25 11:53:37--  https://design-earth.org/
+Resolving design-earth.org (design-earth.org)... 192.124.249.15
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2455 (2.4K) [text/html]
+Saving to: 'mirror2/design-earth.org/index.html'
+
+     0K ..                                                    100%  544M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:37 (544 MB/s) - 'mirror2/design-earth.org/index.html' saved [6039]
+
+--2026-09-25 11:53:37--  https://design-earth.org/xml/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2455 (2.4K) [text/html]
+Saving to: 'mirror2/design-earth.org/xml/index.html'
+
+     0K ..                                                    100%  900M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:37 (900 MB/s) - 'mirror2/design-earth.org/xml/index.html' saved [6039]
+
+--2026-09-25 11:53:37--  https://design-earth.org/ndxzsite/designearth/reset.css?v=2.1.5
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: 'mirror2/design-earth.org/ndxzsite/designearth/reset.css@v=2.1.5.css'
+
+     0K                                                         154M=0s
+
+2026-09-25 11:53:37 (154 MB/s) - 'mirror2/design-earth.org/ndxzsite/designearth/reset.css@v=2.1.5.css' saved [1075]
+
+--2026-09-25 11:53:38--  https://design-earth.org/ndxzsite/designearth/base.css?v=2.1.5
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: 'mirror2/design-earth.org/ndxzsite/designearth/base.css@v=2.1.5.css'
+
+     0K .                                                       254M=0s
+
+2026-09-25 11:53:38 (254 MB/s) - 'mirror2/design-earth.org/ndxzsite/designearth/base.css@v=2.1.5.css' saved [3508]
+
+--2026-09-25 11:53:38--  https://design-earth.org/ndxzsite/designearth/style.css?v=2.1.5
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: 'mirror2/design-earth.org/ndxzsite/designearth/style.css@v=2.1.5.css'
+
+     0K .                                                       344M=0s
+
+2026-09-25 11:53:38 (344 MB/s) - 'mirror2/design-earth.org/ndxzsite/designearth/style.css@v=2.1.5.css' saved [6136]
+
+--2026-09-25 11:53:38--  https://design-earth.org/ndxzsite/css/slideshow.css?v=2.1.5
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: 'mirror2/design-earth.org/ndxzsite/css/slideshow.css@v=2.1.5.css'
+
+     0K                                                         140M=0s
+
+2026-09-25 11:53:38 (140 MB/s) - 'mirror2/design-earth.org/ndxzsite/css/slideshow.css@v=2.1.5.css' saved [1367]
+
+--2026-09-25 11:53:39--  https://design-earth.org/projects/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror2/design-earth.org/projects/index.html'
+
+     0K ..                                                      808M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:39 (808 MB/s) - 'mirror2/design-earth.org/projects/index.html' saved [17130]
+
+--2026-09-25 11:53:39--  https://design-earth.org/publications/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror2/design-earth.org/publications/index.html'
+
+     0K ...                                                     662M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:39 (662 MB/s) - 'mirror2/design-earth.org/publications/index.html' saved [22528]
+
+--2026-09-25 11:53:39--  https://design-earth.org/exhibitions/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/index.html'
+
+     0K ..                                                      422M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:39 (422 MB/s) - 'mirror2/design-earth.org/exhibitions/index.html' saved [13305]
+
+--2026-09-25 11:53:39--  https://design-earth.org/files/gimgs/1_Ghosn+Jazairy_2022_nomad_12_Design_Earth_2.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34872 (34K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/1_Ghosn+Jazairy_2022_nomad_12_Design_Earth_2.jpg'
+
+     0K .......... .......... .......... ....                 100% 3.18M=0.01s
+
+2026-09-25 11:53:39 (3.18 MB/s) - 'mirror2/design-earth.org/files/gimgs/1_Ghosn+Jazairy_2022_nomad_12_Design_Earth_2.jpg' saved [34872/34872]
+
+--2026-09-25 11:53:40--  https://design-earth.org/ndxzsite/img/next.gif
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 189 [image/gif]
+Saving to: 'mirror2/design-earth.org/ndxzsite/img/next.gif'
+
+     0K                                                       100% 46.2M=0s
+
+2026-09-25 11:53:40 (46.2 MB/s) - 'mirror2/design-earth.org/ndxzsite/img/next.gif' saved [189/189]
+
+--2026-09-25 11:53:40--  https://design-earth.org/ndxzsite/img/previous.gif
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 194 [image/gif]
+Saving to: 'mirror2/design-earth.org/ndxzsite/img/previous.gif'
+
+     0K                                                       100% 88.1M=0s
+
+2026-09-25 11:53:40 (88.1 MB/s) - 'mirror2/design-earth.org/ndxzsite/img/previous.gif' saved [194/194]
+
+--2026-09-25 11:53:41--  https://design-earth.org/ndxzsite/js/jquery.js?v=2.1.5
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: 'mirror2/design-earth.org/ndxzsite/js/jquery.js@v=2.1.5'
+
+     0K .......... .......... .......... ...                   9.60M=0.003s
+
+2026-09-25 11:53:41 (9.60 MB/s) - 'mirror2/design-earth.org/ndxzsite/js/jquery.js@v=2.1.5' saved [94839]
+
+--2026-09-25 11:53:41--  https://design-earth.org/ndxzsite/js/jquery.ndxz_grow.js?v=2.1.5
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: 'mirror2/design-earth.org/ndxzsite/js/jquery.ndxz_grow.js@v=2.1.5'
+
+     0K .                                                       293M=0s
+
+2026-09-25 11:53:41 (293 MB/s) - 'mirror2/design-earth.org/ndxzsite/js/jquery.ndxz_grow.js@v=2.1.5' saved [5512]
+
+--2026-09-25 11:53:41--  https://design-earth.org/projects/composting-worlds/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2874 (2.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/composting-worlds/index.html'
+
+     0K ..                                                    100% 1.27G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:42 (1.27 GB/s) - 'mirror2/design-earth.org/projects/composting-worlds/index.html' saved [6980]
+
+--2026-09-25 11:53:42--  https://design-earth.org/files/dimgs/thumb_1x200_2_237_1633.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9404 (9.2K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_237_1633.jpg'
+
+     0K .........                                             100% 24.6M=0s
+
+2026-09-25 11:53:42 (24.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_237_1633.jpg' saved [9404/9404]
+
+--2026-09-25 11:53:42--  https://design-earth.org/projects/elephant-in-the-room/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2305 (2.3K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/elephant-in-the-room/index.html'
+
+     0K ..                                                    100%  733M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:42 (733 MB/s) - 'mirror2/design-earth.org/projects/elephant-in-the-room/index.html' saved [5915]
+
+--2026-09-25 11:53:43--  https://design-earth.org/files/dimgs/thumb_1x200_2_236_1632.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14194 (14K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_236_1632.jpg'
+
+     0K .......... ...                                        100% 37.5M=0s
+
+2026-09-25 11:53:43 (37.5 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_236_1632.jpg' saved [14194/14194]
+
+--2026-09-25 11:53:43--  https://design-earth.org/projects/the-planet-after-geoengineering/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2720 (2.7K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/the-planet-after-geoengineering/index.html'
+
+     0K ..                                                    100%  786M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:43 (786 MB/s) - 'mirror2/design-earth.org/projects/the-planet-after-geoengineering/index.html' saved [7890]
+
+--2026-09-25 11:53:43--  https://design-earth.org/files/dimgs/thumb_1x200_2_228_1601.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18761 (18K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_228_1601.jpg'
+
+     0K .......... ........                                   100% 38.7M=0s
+
+2026-09-25 11:53:43 (38.7 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_228_1601.jpg' saved [18761/18761]
+
+--2026-09-25 11:53:43--  https://design-earth.org/projects/julia-the-submerged-volcano/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3208 (3.1K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/julia-the-submerged-volcano/index.html'
+
+     0K ...                                                   100% 1.42G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:44 (1.42 GB/s) - 'mirror2/design-earth.org/projects/julia-the-submerged-volcano/index.html' saved [9349]
+
+--2026-09-25 11:53:44--  https://design-earth.org/files/dimgs/thumb_1x200_2_222_1244.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11354 (11K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_222_1244.jpg'
+
+     0K .......... .                                          100% 25.2M=0s
+
+2026-09-25 11:53:44 (25.2 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_222_1244.jpg' saved [11354/11354]
+
+--2026-09-25 11:53:44--  https://design-earth.org/projects/cosmorama/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4689 (4.6K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/cosmorama/index.html'
+
+     0K ....                                                  100% 1.90G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:44 (1.90 GB/s) - 'mirror2/design-earth.org/projects/cosmorama/index.html' saved [12996]
+
+--2026-09-25 11:53:44--  https://design-earth.org/files/dimgs/thumb_1x200_2_210_1254.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13535 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_210_1254.jpg'
+
+     0K .......... ...                                        100% 18.6M=0.001s
+
+2026-09-25 11:53:44 (18.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_210_1254.jpg' saved [13535/13535]
+
+--2026-09-25 11:53:45--  https://design-earth.org/projects/trash-peaks/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3499 (3.4K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/trash-peaks/index.html'
+
+     0K ...                                                   100% 1.63G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:45 (1.63 GB/s) - 'mirror2/design-earth.org/projects/trash-peaks/index.html' saved [10295]
+
+--2026-09-25 11:53:45--  https://design-earth.org/files/dimgs/thumb_1x200_2_188_1333.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12623 (12K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_188_1333.jpg'
+
+     0K .......... ..                                         100% 32.4M=0s
+
+2026-09-25 11:53:45 (32.4 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_188_1333.jpg' saved [12623/12623]
+
+--2026-09-25 11:53:45--  https://design-earth.org/projects/blue-marble-circus/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3455 (3.4K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/blue-marble-circus/index.html'
+
+     0K ...                                                   100%  766M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:45 (766 MB/s) - 'mirror2/design-earth.org/projects/blue-marble-circus/index.html' saved [10008]
+
+--2026-09-25 11:53:46--  https://design-earth.org/files/dimgs/thumb_1x200_2_184_1338.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7795 (7.6K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_184_1338.jpg'
+
+     0K .......                                               100% 24.4M=0s
+
+2026-09-25 11:53:46 (24.4 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_184_1338.jpg' saved [7795/7795]
+
+--2026-09-25 11:53:46--  https://design-earth.org/projects/of-oil-and-ice/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3628 (3.5K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/of-oil-and-ice/index.html'
+
+     0K ...                                                   100% 1.17G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:46 (1.17 GB/s) - 'mirror2/design-earth.org/projects/of-oil-and-ice/index.html' saved [10517]
+
+--2026-09-25 11:53:46--  https://design-earth.org/files/dimgs/thumb_1x200_2_180_1288.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11426 (11K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_180_1288.jpg'
+
+     0K .......... .                                          100% 34.2M=0s
+
+2026-09-25 11:53:46 (34.2 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_180_1288.jpg' saved [11426/11426]
+
+--2026-09-25 11:53:46--  https://design-earth.org/projects/pacific-aquarium/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3229 (3.2K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/pacific-aquarium/index.html'
+
+     0K ...                                                   100% 1.50G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:47 (1.50 GB/s) - 'mirror2/design-earth.org/projects/pacific-aquarium/index.html' saved [9803]
+
+--2026-09-25 11:53:47--  https://design-earth.org/files/dimgs/thumb_1x200_2_148_1297.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12804 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_148_1297.jpg'
+
+     0K .......... ..                                         100% 48.9M=0s
+
+2026-09-25 11:53:47 (48.9 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_148_1297.jpg' saved [12804/12804]
+
+--2026-09-25 11:53:47--  https://design-earth.org/projects/after-oil/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2906 (2.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/after-oil/index.html'
+
+     0K ..                                                    100% 1.18G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:47 (1.18 GB/s) - 'mirror2/design-earth.org/projects/after-oil/index.html' saved [9112]
+
+--2026-09-25 11:53:47--  https://design-earth.org/files/dimgs/thumb_1x200_2_146_1276.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18656 (18K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_146_1276.jpg'
+
+     0K .......... ........                                   100% 21.8M=0.001s
+
+2026-09-25 11:53:47 (21.8 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_146_1276.jpg' saved [18656/18656]
+
+--2026-09-25 11:53:48--  https://design-earth.org/projects/neck-of-the-moon-hyperreal/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4042 (3.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/neck-of-the-moon-hyperreal/index.html'
+
+     0K ...                                                   100% 1.51G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:48 (1.51 GB/s) - 'mirror2/design-earth.org/projects/neck-of-the-moon-hyperreal/index.html' saved [11669]
+
+--2026-09-25 11:53:48--  https://design-earth.org/files/dimgs/thumb_1x200_2_137_1386.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8361 (8.2K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_137_1386.jpg'
+
+     0K ........                                              100% 23.3M=0s
+
+2026-09-25 11:53:48 (23.3 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_137_1386.jpg' saved [8361/8361]
+
+--2026-09-25 11:53:48--  https://design-earth.org/projects/a-space-oddity/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4883 (4.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/a-space-oddity/index.html'
+
+     0K ....                                                  100% 2.17G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:49 (2.17 GB/s) - 'mirror2/design-earth.org/projects/a-space-oddity/index.html' saved [13235]
+
+--2026-09-25 11:53:49--  https://design-earth.org/files/dimgs/thumb_1x200_2_139_1344.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18280 (18K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_139_1344.jpg'
+
+     0K .......... .......                                    100% 32.6M=0.001s
+
+2026-09-25 11:53:49 (32.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_139_1344.jpg' saved [18280/18280]
+
+--2026-09-25 11:53:49--  https://design-earth.org/projects/apart-we-are-together/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3827 (3.7K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/apart-we-are-together/index.html'
+
+     0K ...                                                   100% 1.78G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:49 (1.78 GB/s) - 'mirror2/design-earth.org/projects/apart-we-are-together/index.html' saved [10885]
+
+--2026-09-25 11:53:50--  https://design-earth.org/files/dimgs/thumb_1x200_2_131_1481.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 16014 (16K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_131_1481.jpg'
+
+     0K .......... .....                                      100% 26.0M=0.001s
+
+2026-09-25 11:53:50 (26.0 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_131_1481.jpg' saved [16014/16014]
+
+--2026-09-25 11:53:50--  https://design-earth.org/projects/ocean-metabolism/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2365 (2.3K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/ocean-metabolism/index.html'
+
+     0K ..                                                    100% 1.22G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:50 (1.22 GB/s) - 'mirror2/design-earth.org/projects/ocean-metabolism/index.html' saved [7731]
+
+--2026-09-25 11:53:51--  https://design-earth.org/files/dimgs/thumb_1x200_2_129_1488.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12747 (12K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_129_1488.jpg'
+
+     0K .......... ..                                         100% 38.5M=0s
+
+2026-09-25 11:53:51 (38.5 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_129_1488.jpg' saved [12747/12747]
+
+--2026-09-25 11:53:51--  https://design-earth.org/projects/georama-of-trash/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2839 (2.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/georama-of-trash/index.html'
+
+     0K ..                                                    100%  615M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:51 (615 MB/s) - 'mirror2/design-earth.org/projects/georama-of-trash/index.html' saved [8691]
+
+--2026-09-25 11:53:51--  https://design-earth.org/files/dimgs/thumb_1x200_2_126_1487.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 16005 (16K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_126_1487.jpg'
+
+     0K .......... .....                                      100% 30.3M=0.001s
+
+2026-09-25 11:53:51 (30.3 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_126_1487.jpg' saved [16005/16005]
+
+--2026-09-25 11:53:52--  https://design-earth.org/projects/santa-claus-planetary-garden/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3842 (3.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/santa-claus-planetary-garden/index.html'
+
+     0K ...                                                   100% 1.38G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:52 (1.38 GB/s) - 'mirror2/design-earth.org/projects/santa-claus-planetary-garden/index.html' saved [11315]
+
+--2026-09-25 11:53:52--  https://design-earth.org/files/dimgs/thumb_1x200_2_115_1428.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12492 (12K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_115_1428.jpg'
+
+     0K .......... ..                                         100% 38.0M=0s
+
+2026-09-25 11:53:52 (38.0 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_115_1428.jpg' saved [12492/12492]
+
+--2026-09-25 11:53:52--  https://design-earth.org/projects/sea-our-land/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3079 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/sea-our-land/index.html'
+
+     0K ...                                                   100%  816M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:53 (816 MB/s) - 'mirror2/design-earth.org/projects/sea-our-land/index.html' saved [9556]
+
+--2026-09-25 11:53:53--  https://design-earth.org/files/dimgs/thumb_1x200_2_109_1441.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12006 (12K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_109_1441.jpg'
+
+     0K .......... .                                          100% 39.5M=0s
+
+2026-09-25 11:53:53 (39.5 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_109_1441.jpg' saved [12006/12006]
+
+--2026-09-25 11:53:53--  https://design-earth.org/projects/the-atmosphere-is-dead-long-live-the-atmosphere/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3948 (3.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/the-atmosphere-is-dead-long-live-the-atmosphere/index.html'
+
+     0K ...                                                   100%  283M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:53 (283 MB/s) - 'mirror2/design-earth.org/projects/the-atmosphere-is-dead-long-live-the-atmosphere/index.html' saved [11236]
+
+--2026-09-25 11:53:53--  https://design-earth.org/files/dimgs/thumb_1x200_2_104_1404.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11771 (11K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_104_1404.jpg'
+
+     0K .......... .                                          100% 33.4M=0s
+
+2026-09-25 11:53:53 (33.4 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_104_1404.jpg' saved [11771/11771]
+
+--2026-09-25 11:53:54--  https://design-earth.org/projects/cloud-culture-city/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3655 (3.6K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/cloud-culture-city/index.html'
+
+     0K ...                                                   100% 1.62G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:54 (1.62 GB/s) - 'mirror2/design-earth.org/projects/cloud-culture-city/index.html' saved [10422]
+
+--2026-09-25 11:53:54--  https://design-earth.org/files/dimgs/thumb_1x200_2_102_1403.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12879 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_102_1403.jpg'
+
+     0K .......... ..                                         100% 36.3M=0s
+
+2026-09-25 11:53:54 (36.3 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_102_1403.jpg' saved [12879/12879]
+
+--2026-09-25 11:53:54--  https://design-earth.org/projects/towers-on-wire/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3705 (3.6K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/towers-on-wire/index.html'
+
+     0K ...                                                   100% 1.05G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:54 (1.05 GB/s) - 'mirror2/design-earth.org/projects/towers-on-wire/index.html' saved [10754]
+
+--2026-09-25 11:53:55--  https://design-earth.org/files/dimgs/thumb_1x200_2_94_1402.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13148 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_94_1402.jpg'
+
+     0K .......... ..                                         100% 35.3M=0s
+
+2026-09-25 11:53:55 (35.3 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_94_1402.jpg' saved [13148/13148]
+
+--2026-09-25 11:53:55--  https://design-earth.org/project/the-belly-of-a-mountain/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3590 (3.5K) [text/html]
+Saving to: 'mirror2/design-earth.org/project/the-belly-of-a-mountain/index.html'
+
+     0K ...                                                   100%  951M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:55 (951 MB/s) - 'mirror2/design-earth.org/project/the-belly-of-a-mountain/index.html' saved [10498]
+
+--2026-09-25 11:53:55--  https://design-earth.org/files/dimgs/thumb_1x200_2_14_1399.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12923 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_14_1399.jpg'
+
+     0K .......... ..                                         100% 38.6M=0s
+
+2026-09-25 11:53:55 (38.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_14_1399.jpg' saved [12923/12923]
+
+--2026-09-25 11:53:55--  https://design-earth.org/project/a-geographic-stroll-around-the-horizon/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3740 (3.7K) [text/html]
+Saving to: 'mirror2/design-earth.org/project/a-geographic-stroll-around-the-horizon/index.html'
+
+     0K ...                                                   100% 2.18G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:55 (2.18 GB/s) - 'mirror2/design-earth.org/project/a-geographic-stroll-around-the-horizon/index.html' saved [10843]
+
+--2026-09-25 11:53:56--  https://design-earth.org/files/dimgs/thumb_1x200_2_10_1398.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7075 (6.9K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_10_1398.jpg'
+
+     0K ......                                                100% 2.00G=0s
+
+2026-09-25 11:53:56 (2.00 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_2_10_1398.jpg' saved [7075/7075]
+
+--2026-09-25 11:53:56--  https://design-earth.org/publications/the-planet-after-geoengineering/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2063 (2.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/the-planet-after-geoengineering/index.html'
+
+     0K ..                                                    100%  518M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:56 (518 MB/s) - 'mirror2/design-earth.org/publications/the-planet-after-geoengineering/index.html' saved [5380]
+
+--2026-09-25 11:53:56--  https://design-earth.org/files/dimgs/thumb_0x200_6_243_1665.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11462 (11K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_243_1665.jpg'
+
+     0K .......... .                                          100% 32.7M=0s
+
+2026-09-25 11:53:56 (32.7 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_243_1665.jpg' saved [11462/11462]
+
+--2026-09-25 11:53:57--  https://design-earth.org/publications/elephant-in-the-room--jae/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1896 (1.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/elephant-in-the-room--jae/index.html'
+
+     0K .                                                     100%  565M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:57 (565 MB/s) - 'mirror2/design-earth.org/publications/elephant-in-the-room--jae/index.html' saved [5525]
+
+--2026-09-25 11:53:57--  https://design-earth.org/files/dimgs/thumb_0x200_6_238_1638.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13549 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_238_1638.jpg'
+
+     0K .......... ...                                        100% 37.8M=0s
+
+2026-09-25 11:53:57 (37.8 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_238_1638.jpg' saved [13549/13549]
+
+--2026-09-25 11:53:57--  https://design-earth.org/publications/the-anthropocene-chamber--designing-landscape-architectural-education/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1966 (1.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/the-anthropocene-chamber--designing-landscape-architectural-education/index.html'
+
+     0K .                                                     100%  647M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:57 (647 MB/s) - 'mirror2/design-earth.org/publications/the-anthropocene-chamber--designing-landscape-architectural-education/index.html' saved [5706]
+
+--2026-09-25 11:53:58--  https://design-earth.org/files/dimgs/thumb_0x200_6_235_1628.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7149 (7.0K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_235_1628.jpg'
+
+     0K ......                                                100% 2.38G=0s
+
+2026-09-25 11:53:58 (2.38 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_235_1628.jpg' saved [7149/7149]
+
+--2026-09-25 11:53:58--  https://design-earth.org/publications/of-oil-and-ice--ambiguous-territory/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1958 (1.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/of-oil-and-ice--ambiguous-territory/index.html'
+
+     0K .                                                     100%  778M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:58 (778 MB/s) - 'mirror2/design-earth.org/publications/of-oil-and-ice--ambiguous-territory/index.html' saved [5664]
+
+--2026-09-25 11:53:58--  https://design-earth.org/files/dimgs/thumb_0x200_6_234_1627.png
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40187 (39K) [image/png]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_234_1627.png'
+
+     0K .......... .......... .......... .........            100% 8.97M=0.004s
+
+2026-09-25 11:53:58 (8.97 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_234_1627.png' saved [40187/40187]
+
+--2026-09-25 11:53:59--  https://design-earth.org/publications/undermined-planet--architectural-review/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1929 (1.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/undermined-planet--architectural-review/index.html'
+
+     0K .                                                     100%  557M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:53:59 (557 MB/s) - 'mirror2/design-earth.org/publications/undermined-planet--architectural-review/index.html' saved [5612]
+
+--2026-09-25 11:53:59--  https://design-earth.org/files/dimgs/thumb_0x200_6_232_1626.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14219 (14K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_232_1626.jpg'
+
+     0K .......... ...                                        100% 40.2M=0s
+
+2026-09-25 11:53:59 (40.2 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_232_1626.jpg' saved [14219/14219]
+
+--2026-09-25 11:54:00--  https://design-earth.org/publications/uncommon-planet--la/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1871 (1.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/uncommon-planet--la/index.html'
+
+     0K .                                                     100%  425M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:00 (425 MB/s) - 'mirror2/design-earth.org/publications/uncommon-planet--la/index.html' saved [5477]
+
+--2026-09-25 11:54:00--  https://design-earth.org/files/dimgs/thumb_0x200_6_231_1625.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4818 (4.7K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_231_1625.jpg'
+
+     0K ....                                                  100% 2.64G=0s
+
+2026-09-25 11:54:00 (2.64 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_231_1625.jpg' saved [4818/4818]
+
+--2026-09-25 11:54:00--  https://design-earth.org/publications/a-flooded-thirsty-world/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1898 (1.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/a-flooded-thirsty-world/index.html'
+
+     0K .                                                     100%  646M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:01 (646 MB/s) - 'mirror2/design-earth.org/publications/a-flooded-thirsty-world/index.html' saved [5535]
+
+--2026-09-25 11:54:01--  https://design-earth.org/files/dimgs/thumb_0x200_6_230_1624.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10107 (9.9K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_230_1624.jpg'
+
+     0K .........                                             100% 31.4M=0s
+
+2026-09-25 11:54:01 (31.4 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_230_1624.jpg' saved [10107/10107]
+
+--2026-09-25 11:54:01--  https://design-earth.org/publications/carbon-re-form--log/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1874 (1.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/carbon-re-form--log/index.html'
+
+     0K .                                                     100%  638M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:01 (638 MB/s) - 'mirror2/design-earth.org/publications/carbon-re-form--log/index.html' saved [5486]
+
+--2026-09-25 11:54:01--  https://design-earth.org/files/dimgs/thumb_0x200_6_229_1623.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11356 (11K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_229_1623.jpg'
+
+     0K .......... .                                          100% 31.1M=0s
+
+2026-09-25 11:54:01 (31.1 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_229_1623.jpg' saved [11356/11356]
+
+--2026-09-25 11:54:02--  https://design-earth.org/publications/cosmorama--new-geographies/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1922 (1.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/cosmorama--new-geographies/index.html'
+
+     0K .                                                     100%  833M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:02 (833 MB/s) - 'mirror2/design-earth.org/publications/cosmorama--new-geographies/index.html' saved [5630]
+
+--2026-09-25 11:54:02--  https://design-earth.org/files/dimgs/thumb_0x200_6_227_1590.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12906 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_227_1590.jpg'
+
+     0K .......... ..                                         100% 50.9M=0s
+
+2026-09-25 11:54:02 (50.9 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_227_1590.jpg' saved [12906/12906]
+
+--2026-09-25 11:54:03--  https://design-earth.org/publications/geostories/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2269 (2.2K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/geostories/index.html'
+
+     0K ..                                                    100% 1.06G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:03 (1.06 GB/s) - 'mirror2/design-earth.org/publications/geostories/index.html' saved [5626]
+
+--2026-09-25 11:54:03--  https://design-earth.org/files/dimgs/thumb_0x200_6_215_1666.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7993 (7.8K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_215_1666.jpg'
+
+     0K .......                                               100% 21.6M=0s
+
+2026-09-25 11:54:03 (21.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_215_1666.jpg' saved [7993/7993]
+
+--2026-09-25 11:54:03--  https://design-earth.org/publications/cosmorama--dimensions-of-citizenship/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1865 (1.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/cosmorama--dimensions-of-citizenship/index.html'
+
+     0K .                                                     100%  711M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:04 (711 MB/s) - 'mirror2/design-earth.org/publications/cosmorama--dimensions-of-citizenship/index.html' saved [5463]
+
+--2026-09-25 11:54:04--  https://design-earth.org/files/dimgs/thumb_0x200_6_207_1622.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14392 (14K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_207_1622.jpg'
+
+     0K .......... ....                                       100% 41.8M=0s
+
+2026-09-25 11:54:04 (41.8 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_207_1622.jpg' saved [14392/14392]
+
+--2026-09-25 11:54:04--  https://design-earth.org/publications/trash-peaks--eco-visionaries/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1899 (1.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/trash-peaks--eco-visionaries/index.html'
+
+     0K .                                                     100% 1.04G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:04 (1.04 GB/s) - 'mirror2/design-earth.org/publications/trash-peaks--eco-visionaries/index.html' saved [5567]
+
+--2026-09-25 11:54:05--  https://design-earth.org/files/dimgs/thumb_0x200_6_206_1588.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14902 (15K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_206_1588.jpg'
+
+     0K .......... ....                                       100% 32.0M=0s
+
+2026-09-25 11:54:05 (32.0 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_206_1588.jpg' saved [14902/14902]
+
+--2026-09-25 11:54:05--  https://design-earth.org/publications/design-earth--impermanence/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1879 (1.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/design-earth--impermanence/index.html'
+
+     0K .                                                     100%  640M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:05 (640 MB/s) - 'mirror2/design-earth.org/publications/design-earth--impermanence/index.html' saved [5527]
+
+--2026-09-25 11:54:05--  https://design-earth.org/files/dimgs/thumb_0x200_6_204_1586.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10743 (10K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_204_1586.jpg'
+
+     0K ..........                                            100% 30.9M=0s
+
+2026-09-25 11:54:05 (30.9 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_204_1586.jpg' saved [10743/10743]
+
+--2026-09-25 11:54:06--  https://design-earth.org/publications/the-great-waste-state/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1915 (1.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/the-great-waste-state/index.html'
+
+     0K .                                                     100%  702M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:06 (702 MB/s) - 'mirror2/design-earth.org/publications/the-great-waste-state/index.html' saved [5584]
+
+--2026-09-25 11:54:06--  https://design-earth.org/files/dimgs/thumb_0x200_6_201_1585.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11467 (11K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_201_1585.jpg'
+
+     0K .......... .                                          100% 34.9M=0s
+
+2026-09-25 11:54:06 (34.9 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_201_1585.jpg' saved [11467/11467]
+
+--2026-09-25 11:54:07--  https://design-earth.org/publications/apart-we-are-together--thresholds/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3142 (3.1K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/apart-we-are-together--thresholds/index.html'
+
+     0K ...                                                   100%  967M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:07 (967 MB/s) - 'mirror2/design-earth.org/publications/apart-we-are-together--thresholds/index.html' saved [11209]
+
+--2026-09-25 11:54:07--  https://design-earth.org/files/dimgs/thumb_0x200_6_196_1584.png
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 36065 (35K) [image/png]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_196_1584.png'
+
+     0K .......... .......... .......... .....                100% 11.3M=0.003s
+
+2026-09-25 11:54:07 (11.3 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_196_1584.png' saved [36065/36065]
+
+--2026-09-25 11:54:07--  https://design-earth.org/publications/leviathan-in-the-aquarium/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3111 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/leviathan-in-the-aquarium/index.html'
+
+     0K ...                                                   100%  690M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:08 (690 MB/s) - 'mirror2/design-earth.org/publications/leviathan-in-the-aquarium/index.html' saved [11225]
+
+--2026-09-25 11:54:08--  https://design-earth.org/files/dimgs/thumb_0x200_6_192_1582.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13578 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_192_1582.jpg'
+
+     0K .......... ...                                        100% 34.5M=0s
+
+2026-09-25 11:54:08 (34.5 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_192_1582.jpg' saved [13578/13578]
+
+--2026-09-25 11:54:08--  https://design-earth.org/publications/geography-and-oil-the-territory-of-externalities/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2852 (2.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/geography-and-oil-the-territory-of-externalities/index.html'
+
+     0K ..                                                    100% 1007M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:08 (1007 MB/s) - 'mirror2/design-earth.org/publications/geography-and-oil-the-territory-of-externalities/index.html' saved [9973]
+
+--2026-09-25 11:54:08--  https://design-earth.org/files/dimgs/thumb_0x200_6_178_1583.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7178 (7.0K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_178_1583.jpg'
+
+     0K .......                                               100% 3.18G=0s
+
+2026-09-25 11:54:08 (3.18 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_178_1583.jpg' saved [7178/7178]
+
+--2026-09-25 11:54:09--  https://design-earth.org/publications/a-microcosm-on-a-sheet-of-paper/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1934 (1.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/a-microcosm-on-a-sheet-of-paper/index.html'
+
+     0K .                                                     100%  498M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:09 (498 MB/s) - 'mirror2/design-earth.org/publications/a-microcosm-on-a-sheet-of-paper/index.html' saved [5645]
+
+--2026-09-25 11:54:09--  https://design-earth.org/files/dimgs/thumb_0x200_6_168_1581.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7248 (7.1K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_168_1581.jpg'
+
+     0K .......                                               100% 1.41G=0s
+
+2026-09-25 11:54:09 (1.41 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_168_1581.jpg' saved [7248/7248]
+
+--2026-09-25 11:54:09--  https://design-earth.org/publications/georama-of-trash/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1885 (1.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/georama-of-trash/index.html'
+
+     0K .                                                     100%  999M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:10 (999 MB/s) - 'mirror2/design-earth.org/publications/georama-of-trash/index.html' saved [5514]
+
+--2026-09-25 11:54:10--  https://design-earth.org/files/dimgs/thumb_0x200_6_165_1580.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9821 (9.6K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_165_1580.jpg'
+
+     0K .........                                             100% 28.1M=0s
+
+2026-09-25 11:54:10 (28.1 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_165_1580.jpg' saved [9821/9821]
+
+--2026-09-25 11:54:10--  https://design-earth.org/publications/territories-of-oil-the-trans-arabian-pipeline/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3104 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/territories-of-oil-the-trans-arabian-pipeline/index.html'
+
+     0K ...                                                   100% 1.52G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:10 (1.52 GB/s) - 'mirror2/design-earth.org/publications/territories-of-oil-the-trans-arabian-pipeline/index.html' saved [11155]
+
+--2026-09-25 11:54:11--  https://design-earth.org/files/dimgs/thumb_0x200_6_150_1579.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12937 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_150_1579.jpg'
+
+     0K .......... ..                                         100% 37.2M=0s
+
+2026-09-25 11:54:11 (37.2 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_150_1579.jpg' saved [12937/12937]
+
+--2026-09-25 11:54:11--  https://design-earth.org/publications/neck-of-the-moon/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3055 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/neck-of-the-moon/index.html'
+
+     0K ..                                                    100%  728M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:11 (728 MB/s) - 'mirror2/design-earth.org/publications/neck-of-the-moon/index.html' saved [11049]
+
+--2026-09-25 11:54:11--  https://design-earth.org/files/dimgs/thumb_0x200_6_145_1578.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15633 (15K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_145_1578.jpg'
+
+     0K .......... .....                                      100% 45.6M=0s
+
+2026-09-25 11:54:11 (45.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_145_1578.jpg' saved [15633/15633]
+
+--2026-09-25 11:54:11--  https://design-earth.org/publications/gaia-global-circus-a-climate-tragicomedy/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3091 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/gaia-global-circus-a-climate-tragicomedy/index.html'
+
+     0K ...                                                   100% 1016M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:12 (1016 MB/s) - 'mirror2/design-earth.org/publications/gaia-global-circus-a-climate-tragicomedy/index.html' saved [11151]
+
+--2026-09-25 11:54:12--  https://design-earth.org/files/dimgs/thumb_0x200_6_143_1577.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12707 (12K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_143_1577.jpg'
+
+     0K .......... ..                                         100% 35.0M=0s
+
+2026-09-25 11:54:12 (35.0 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_143_1577.jpg' saved [12707/12707]
+
+--2026-09-25 11:54:12--  https://design-earth.org/publications/geographies-of-trash/2/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3548 (3.5K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/geographies-of-trash/2/index.html'
+
+     0K ...                                                   100%  967M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:12 (967 MB/s) - 'mirror2/design-earth.org/publications/geographies-of-trash/2/index.html' saved [11861]
+
+--2026-09-25 11:54:13--  https://design-earth.org/files/dimgs/thumb_0x200_6_122_548.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8569 (8.4K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_122_548.jpg'
+
+     0K ........                                              100% 11.5M=0.001s
+
+2026-09-25 11:54:13 (11.5 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_122_548.jpg' saved [8569/8569]
+
+--2026-09-25 11:54:13--  https://design-earth.org/publications/8mile-baseline-a-dialectical-image-of-the-urban-c/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3118 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/8mile-baseline-a-dialectical-image-of-the-urban-c/index.html'
+
+     0K ...                                                   100% 1.08G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:13 (1.08 GB/s) - 'mirror2/design-earth.org/publications/8mile-baseline-a-dialectical-image-of-the-urban-c/index.html' saved [11177]
+
+--2026-09-25 11:54:13--  https://design-earth.org/files/dimgs/thumb_0x200_6_121_1576.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6422 (6.3K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_121_1576.jpg'
+
+     0K ......                                                100% 2.49G=0s
+
+2026-09-25 11:54:13 (2.49 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_121_1576.jpg' saved [6422/6422]
+
+--2026-09-25 11:54:13--  https://design-earth.org/publications/airpocalypse-a-short-geostory/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3099 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/airpocalypse-a-short-geostory/index.html'
+
+     0K ...                                                   100% 1019M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:14 (1019 MB/s) - 'mirror2/design-earth.org/publications/airpocalypse-a-short-geostory/index.html' saved [11150]
+
+--2026-09-25 11:54:14--  https://design-earth.org/files/dimgs/thumb_0x200_6_117_1575.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7581 (7.4K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_117_1575.jpg'
+
+     0K .......                                               100% 3.07G=0s
+
+2026-09-25 11:54:14 (3.07 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_117_1575.jpg' saved [7581/7581]
+
+--2026-09-25 11:54:14--  https://design-earth.org/publications/hassi-messaoud-oil-urbanism/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror2/design-earth.org/publications/hassi-messaoud-oil-urbanism/index.html'
+
+     0K ...                                                     722M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:14 (722 MB/s) - 'mirror2/design-earth.org/publications/hassi-messaoud-oil-urbanism/index.html' saved [11195]
+
+--2026-09-25 11:54:14--  https://design-earth.org/files/dimgs/thumb_0x200_6_108_1573.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7248 (7.1K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_108_1573.jpg'
+
+     0K .......                                               100% 2.81G=0s
+
+2026-09-25 11:54:14 (2.81 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_108_1573.jpg' saved [7248/7248]
+
+--2026-09-25 11:54:15--  https://design-earth.org/publications/geographies-of-trash/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3079 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/geographies-of-trash/index.html'
+
+     0K ...                                                   100% 1.25G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:15 (1.25 GB/s) - 'mirror2/design-earth.org/publications/geographies-of-trash/index.html' saved [11154]
+
+--2026-09-25 11:54:15--  https://design-earth.org/files/dimgs/thumb_0x200_6_107_1572.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15962 (16K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_107_1572.jpg'
+
+     0K .......... .....                                      100% 20.0M=0.001s
+
+2026-09-25 11:54:15 (20.0 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_107_1572.jpg' saved [15962/15962]
+
+--2026-09-25 11:54:15--  https://design-earth.org/publications/a-geographic-stroll-around-the-horizon--monu/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3097 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/a-geographic-stroll-around-the-horizon--monu/index.html'
+
+     0K ...                                                   100%  615M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:16 (615 MB/s) - 'mirror2/design-earth.org/publications/a-geographic-stroll-around-the-horizon--monu/index.html' saved [11208]
+
+--2026-09-25 11:54:16--  https://design-earth.org/files/dimgs/thumb_0x200_6_106_1548.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13060 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_106_1548.jpg'
+
+     0K .......... ..                                         100% 38.3M=0s
+
+2026-09-25 11:54:16 (38.3 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_106_1548.jpg' saved [13060/13060]
+
+--2026-09-25 11:54:16--  https://design-earth.org/publications/where-are-the-missing-spaces/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3082 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/where-are-the-missing-spaces/index.html'
+
+     0K ...                                                   100%  948M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:17 (948 MB/s) - 'mirror2/design-earth.org/publications/where-are-the-missing-spaces/index.html' saved [11127]
+
+--2026-09-25 11:54:17--  https://design-earth.org/files/dimgs/thumb_0x200_6_67_1592.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5013 (4.9K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_67_1592.jpg'
+
+     0K ....                                                  100% 2.12G=0s
+
+2026-09-25 11:54:17 (2.12 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_67_1592.jpg' saved [5013/5013]
+
+--2026-09-25 11:54:17--  https://design-earth.org/publications/new-geographies-4/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4095 (4.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/new-geographies-4/index.html'
+
+     0K ...                                                   100% 1.66G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:17 (1.66 GB/s) - 'mirror2/design-earth.org/publications/new-geographies-4/index.html' saved [13121]
+
+--2026-09-25 11:54:18--  https://design-earth.org/files/dimgs/thumb_0x200_6_70_1571.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4581 (4.5K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_70_1571.jpg'
+
+     0K ....                                                  100% 2.67G=0s
+
+2026-09-25 11:54:18 (2.67 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_70_1571.jpg' saved [4581/4581]
+
+--2026-09-25 11:54:18--  https://design-earth.org/publications/new-geographies-02/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3719 (3.6K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/new-geographies-02/index.html'
+
+     0K ...                                                   100% 1.39G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:18 (1.39 GB/s) - 'mirror2/design-earth.org/publications/new-geographies-02/index.html' saved [12352]
+
+--2026-09-25 11:54:18--  https://design-earth.org/files/dimgs/thumb_0x200_6_49_1568.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5597 (5.5K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_49_1568.jpg'
+
+     0K .....                                                 100% 2.48G=0s
+
+2026-09-25 11:54:18 (2.48 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_49_1568.jpg' saved [5597/5597]
+
+--2026-09-25 11:54:19--  https://design-earth.org/publications/new-geographies/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3148 (3.1K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/new-geographies/index.html'
+
+     0K ...                                                   100% 1.05G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:19 (1.05 GB/s) - 'mirror2/design-earth.org/publications/new-geographies/index.html' saved [11781]
+
+--2026-09-25 11:54:19--  https://design-earth.org/files/dimgs/thumb_0x200_6_17_1570.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3051 (3.0K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_17_1570.jpg'
+
+     0K ..                                                    100% 1.50G=0s
+
+2026-09-25 11:54:19 (1.50 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_0x200_6_17_1570.jpg' saved [3051/3051]
+
+--2026-09-25 11:54:19--  https://design-earth.org/exhibitions/volcano-dreams--eth-zuerich/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1661 (1.6K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/volcano-dreams--eth-zuerich/index.html'
+
+     0K .                                                     100%  754M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:20 (754 MB/s) - 'mirror2/design-earth.org/exhibitions/volcano-dreams--eth-zuerich/index.html' saved [4401]
+
+--2026-09-25 11:54:20--  https://design-earth.org/files/dimgs/thumb_1x200_9_242_1661.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15908 (16K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_242_1661.jpg'
+
+     0K .......... .....                                      100% 20.6M=0.001s
+
+2026-09-25 11:54:20 (20.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_242_1661.jpg' saved [15908/15908]
+
+--2026-09-25 11:54:20--  https://design-earth.org/exhibitions/climate-inheritance--bauhaus-dessau/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2352 (2.3K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/climate-inheritance--bauhaus-dessau/index.html'
+
+     0K ..                                                    100%  701M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:20 (701 MB/s) - 'mirror2/design-earth.org/exhibitions/climate-inheritance--bauhaus-dessau/index.html' saved [5854]
+
+--2026-09-25 11:54:20--  https://design-earth.org/files/dimgs/thumb_1x200_9_241_1658.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 16471 (16K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_241_1658.jpg'
+
+     0K .......... ......                                     100% 27.4M=0.001s
+
+2026-09-25 11:54:20 (27.4 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_241_1658.jpg' saved [16471/16471]
+
+--2026-09-25 11:54:21--  https://design-earth.org/exhibitions/planet-after-geoengineering--venice-biennale/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2541 (2.5K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/planet-after-geoengineering--venice-biennale/index.html'
+
+     0K ..                                                    100%  898M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:21 (898 MB/s) - 'mirror2/design-earth.org/exhibitions/planet-after-geoengineering--venice-biennale/index.html' saved [6283]
+
+--2026-09-25 11:54:21--  https://design-earth.org/files/dimgs/thumb_1x200_9_240_1640.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11219 (11K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_240_1640.jpg'
+
+     0K ..........                                            100% 33.0M=0s
+
+2026-09-25 11:54:21 (33.0 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_240_1640.jpg' saved [11219/11219]
+
+--2026-09-25 11:54:21--  https://design-earth.org/exhibitions/pacific-aquarium--milano-triennale/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3042 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/pacific-aquarium--milano-triennale/index.html'
+
+     0K ..                                                    100%  763M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:22 (763 MB/s) - 'mirror2/design-earth.org/exhibitions/pacific-aquarium--milano-triennale/index.html' saved [8811]
+
+--2026-09-25 11:54:22--  https://design-earth.org/files/dimgs/thumb_1x200_9_225_1489.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11965 (12K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_225_1489.jpg'
+
+     0K .......... .                                          100% 36.0M=0s
+
+2026-09-25 11:54:22 (36.0 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_225_1489.jpg' saved [11965/11965]
+
+--2026-09-25 11:54:22--  https://design-earth.org/exhibitions/cosmorama--wrightwood-659/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4806 (4.7K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/cosmorama--wrightwood-659/index.html'
+
+     0K ....                                                  100% 1.36G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:22 (1.36 GB/s) - 'mirror2/design-earth.org/exhibitions/cosmorama--wrightwood-659/index.html' saved [12861]
+
+--2026-09-25 11:54:23--  https://design-earth.org/files/dimgs/thumb_1x200_9_224_1491.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8550 (8.3K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_224_1491.jpg'
+
+     0K ........                                              100% 29.4M=0s
+
+2026-09-25 11:54:23 (29.4 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_224_1491.jpg' saved [8550/8550]
+
+--2026-09-25 11:54:23--  https://design-earth.org/exhibitions/julia-the-submerged-volcano--le-lieu-unique/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3210 (3.1K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/julia-the-submerged-volcano--le-lieu-unique/index.html'
+
+     0K ...                                                   100%  765M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:23 (765 MB/s) - 'mirror2/design-earth.org/exhibitions/julia-the-submerged-volcano--le-lieu-unique/index.html' saved [9129]
+
+--2026-09-25 11:54:23--  https://design-earth.org/files/dimgs/thumb_1x200_9_223_1494.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6668 (6.5K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_223_1494.jpg'
+
+     0K ......                                                100% 2.22G=0s
+
+2026-09-25 11:54:23 (2.22 GB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_223_1494.jpg' saved [6668/6668]
+
+--2026-09-25 11:54:24--  https://design-earth.org/exhibitions/pacific-aquarium--times-museum/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2566 (2.5K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/pacific-aquarium--times-museum/index.html'
+
+     0K ..                                                    100%  569M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:24 (569 MB/s) - 'mirror2/design-earth.org/exhibitions/pacific-aquarium--times-museum/index.html' saved [6564]
+
+--2026-09-25 11:54:24--  https://design-earth.org/files/dimgs/thumb_1x200_9_219_1498.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8769 (8.6K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_219_1498.jpg'
+
+     0K ........                                              100% 27.1M=0s
+
+2026-09-25 11:54:24 (27.1 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_219_1498.jpg' saved [8769/8769]
+
+--2026-09-25 11:54:24--  https://design-earth.org/exhibitions/cosmorama--venice-architecture-biennale/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4316 (4.2K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/cosmorama--venice-architecture-biennale/index.html'
+
+     0K ....                                                  100% 1.34G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:25 (1.34 GB/s) - 'mirror2/design-earth.org/exhibitions/cosmorama--venice-architecture-biennale/index.html' saved [10305]
+
+--2026-09-25 11:54:25--  https://design-earth.org/files/dimgs/thumb_1x200_9_211_1503.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13229 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_211_1503.jpg'
+
+     0K .......... ..                                         100% 53.5M=0s
+
+2026-09-25 11:54:25 (53.5 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_211_1503.jpg' saved [13229/13229]
+
+--2026-09-25 11:54:25--  https://design-earth.org/exhibitions/geostories--cooper-union/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2925 (2.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/geostories--cooper-union/index.html'
+
+     0K ..                                                    100%  820M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:25 (820 MB/s) - 'mirror2/design-earth.org/exhibitions/geostories--cooper-union/index.html' saved [7319]
+
+--2026-09-25 11:54:26--  https://design-earth.org/files/dimgs/thumb_1x200_9_193_1516.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8152 (8.0K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_193_1516.jpg'
+
+     0K .......                                               100% 23.6M=0s
+
+2026-09-25 11:54:26 (23.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_193_1516.jpg' saved [8152/8152]
+
+--2026-09-25 11:54:26--  https://design-earth.org/exhibitions/trash-peaks/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3041 (3.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/trash-peaks/index.html'
+
+     0K ..                                                    100% 1.57G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:26 (1.57 GB/s) - 'mirror2/design-earth.org/exhibitions/trash-peaks/index.html' saved [7498]
+
+--2026-09-25 11:54:27--  https://design-earth.org/files/dimgs/thumb_1x200_9_189_1521.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13738 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_189_1521.jpg'
+
+     0K .......... ...                                        100% 32.6M=0s
+
+2026-09-25 11:54:27 (32.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_189_1521.jpg' saved [13738/13738]
+
+--2026-09-25 11:54:27--  https://design-earth.org/exhibitions/geographic-leviathan--onassis-cultural-center/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2487 (2.4K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/geographic-leviathan--onassis-cultural-center/index.html'
+
+     0K ..                                                    100%  505M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:27 (505 MB/s) - 'mirror2/design-earth.org/exhibitions/geographic-leviathan--onassis-cultural-center/index.html' saved [6482]
+
+--2026-09-25 11:54:27--  https://design-earth.org/files/dimgs/thumb_1x200_9_181_1526.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9002 (8.8K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_181_1526.jpg'
+
+     0K ........                                              100% 24.1M=0s
+
+2026-09-25 11:54:27 (24.1 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_181_1526.jpg' saved [9002/9002]
+
+--2026-09-25 11:54:28--  https://design-earth.org/exhibitions/pacific-aquarium--oslo-architecture-triennale/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2702 (2.6K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/pacific-aquarium--oslo-architecture-triennale/index.html'
+
+     0K ..                                                    100%  991M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:28 (991 MB/s) - 'mirror2/design-earth.org/exhibitions/pacific-aquarium--oslo-architecture-triennale/index.html' saved [6862]
+
+--2026-09-25 11:54:28--  https://design-earth.org/files/dimgs/thumb_1x200_9_154_1528.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10573 (10K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_154_1528.jpg'
+
+     0K ..........                                            100% 32.6M=0s
+
+2026-09-25 11:54:28 (32.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_154_1528.jpg' saved [10573/10573]
+
+--2026-09-25 11:54:28--  https://design-earth.org/exhibitions/after-oil--sursock-museum/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2069 (2.0K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/after-oil--sursock-museum/index.html'
+
+     0K ..                                                    100%  429M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:29 (429 MB/s) - 'mirror2/design-earth.org/exhibitions/after-oil--sursock-museum/index.html' saved [5125]
+
+--2026-09-25 11:54:29--  https://design-earth.org/files/dimgs/thumb_1x200_9_153_1529.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8499 (8.3K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_153_1529.jpg'
+
+     0K ........                                              100% 23.9M=0s
+
+2026-09-25 11:54:29 (23.9 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_153_1529.jpg' saved [8499/8499]
+
+--2026-09-25 11:54:29--  https://design-earth.org/exhibitions/after-oil/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/after-oil/index.html'
+
+     0K ..                                                      408M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:29 (408 MB/s) - 'mirror2/design-earth.org/exhibitions/after-oil/index.html' saved [6012]
+
+--2026-09-25 11:54:29--  https://design-earth.org/files/dimgs/thumb_1x200_9_152_1530.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13418 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_152_1530.jpg'
+
+     0K .......... ...                                        100% 38.2M=0s
+
+2026-09-25 11:54:29 (38.2 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_152_1530.jpg' saved [13418/13418]
+
+--2026-09-25 11:54:29--  https://design-earth.org/exhibitions/geostories/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2589 (2.5K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/geostories/index.html'
+
+     0K ..                                                    100%  914M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:30 (914 MB/s) - 'mirror2/design-earth.org/exhibitions/geostories/index.html' saved [6626]
+
+--2026-09-25 11:54:30--  https://design-earth.org/files/dimgs/thumb_1x200_9_151_1536.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10157 (9.9K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_151_1536.jpg'
+
+     0K .........                                             100% 28.5M=0s
+
+2026-09-25 11:54:30 (28.5 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_151_1536.jpg' saved [10157/10157]
+
+--2026-09-25 11:54:30--  https://design-earth.org/exhibitions/geographies-of-trash/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2905 (2.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/exhibitions/geographies-of-trash/index.html'
+
+     0K ..                                                    100%  729M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:30 (729 MB/s) - 'mirror2/design-earth.org/exhibitions/geographies-of-trash/index.html' saved [8868]
+
+--2026-09-25 11:54:31--  https://design-earth.org/files/dimgs/thumb_1x200_9_37_1541.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15323 (15K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_37_1541.jpg'
+
+     0K .......... ....                                       100% 39.6M=0s
+
+2026-09-25 11:54:31 (39.6 MB/s) - 'mirror2/design-earth.org/files/dimgs/thumb_1x200_9_37_1541.jpg' saved [15323/15323]
+
+--2026-09-25 11:54:31--  https://design-earth.org/ndxzsite/js/jquery.slideshow.js?v=2.1.5
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/javascript]
+Saving to: 'mirror2/design-earth.org/ndxzsite/js/jquery.slideshow.js@v=2.1.5'
+
+     0K                                                         187M=0s
+
+2026-09-25 11:54:31 (187 MB/s) - 'mirror2/design-earth.org/ndxzsite/js/jquery.slideshow.js@v=2.1.5' saved [3019]
+
+--2026-09-25 11:54:31--  https://design-earth.org/files/gimgs/237_Filling%20Islands.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 151619 (148K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/237_Filling Islands.jpg'
+
+     0K .......... .......... .......... .......... .......... 33%  735K 0s
+    50K .......... .......... .......... .......... .......... 67%  795K 0s
+   100K .......... .......... .......... .......... ........  100% 4.83M=0.1s
+
+2026-09-25 11:54:31 (1.03 MB/s) - 'mirror2/design-earth.org/files/gimgs/237_Filling Islands.jpg' saved [151619/151619]
+
+--2026-09-25 11:54:32--  https://design-earth.org/files/gimgs/236_DE_ElephantintheRoom2_sm.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 130944 (128K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/236_DE_ElephantintheRoom2_sm.jpg'
+
+     0K .......... .......... .......... .......... .......... 39%  801K 0s
+    50K .......... .......... .......... .......... .......... 78%  807K 0s
+   100K .......... .......... .......                         100% 14.1M=0.1s
+
+2026-09-25 11:54:32 (1012 KB/s) - 'mirror2/design-earth.org/files/gimgs/236_DE_ElephantintheRoom2_sm.jpg' saved [130944/130944]
+
+--2026-09-25 11:54:32--  https://design-earth.org/files/gimgs/228_20210107_DE_VNC_compilation_70cm_high%20res9.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 159967 (156K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/228_20210107_DE_VNC_compilation_70cm_high res9.jpg'
+
+     0K .......... .......... .......... .......... .......... 32%  783K 0s
+    50K .......... .......... .......... .......... .......... 64%  788K 0s
+   100K .......... .......... .......... .......... .......... 96%  805K 0s
+   150K ......                                                100% 30.7M=0.2s
+
+2026-09-25 11:54:33 (824 KB/s) - 'mirror2/design-earth.org/files/gimgs/228_20210107_DE_VNC_compilation_70cm_high res9.jpg' saved [159967/159967]
+
+--2026-09-25 11:54:33--  https://design-earth.org/projects/hassi-messaoud-oil-urbanism/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1955 (1.9K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/hassi-messaoud-oil-urbanism/index.html'
+
+     0K .                                                     100%  518M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:33 (518 MB/s) - 'mirror2/design-earth.org/projects/hassi-messaoud-oil-urbanism/index.html' saved [6774]
+
+--2026-09-25 11:54:33--  https://design-earth.org/files/gimgs/222_DE_Julia_v2.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 30850 (30K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/222_DE_Julia_v2.jpg'
+
+     0K .......... .......... ..........                      100% 35.8M=0.001s
+
+2026-09-25 11:54:34 (35.8 MB/s) - 'mirror2/design-earth.org/files/gimgs/222_DE_Julia_v2.jpg' saved [30850/30850]
+
+--2026-09-25 11:54:34--  https://design-earth.org/files/gimgs/210_DE_Cosmorama_1.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96030 (94K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/210_DE_Cosmorama_1.jpg'
+
+     0K .......... .......... .......... .......... .......... 53%  788K 0s
+    50K .......... .......... .......... .......... ...       100% 16.4M=0.07s
+
+2026-09-25 11:54:34 (1.39 MB/s) - 'mirror2/design-earth.org/files/gimgs/210_DE_Cosmorama_1.jpg' saved [96030/96030]
+
+--2026-09-25 11:54:34--  https://design-earth.org/files/gimgs/188_DE_SEOUL_dwgs_Page_6_v6.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71621 (70K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/188_DE_SEOUL_dwgs_Page_6_v6.jpg'
+
+     0K .......... .......... .......... .......... .......... 71%  793K 0s
+    50K .......... .........                                  100% 26.8M=0.06s
+
+2026-09-25 11:54:35 (1.07 MB/s) - 'mirror2/design-earth.org/files/gimgs/188_DE_SEOUL_dwgs_Page_6_v6.jpg' saved [71621/71621]
+
+--2026-09-25 11:54:35--  https://design-earth.org/files/gimgs/184_BMC_1_elevation_plan.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 50425 (49K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/184_BMC_1_elevation_plan.jpg'
+
+     0K .......... .......... .......... .......... ......... 100% 30.8M=0.002s
+
+2026-09-25 11:54:35 (30.8 MB/s) - 'mirror2/design-earth.org/files/gimgs/184_BMC_1_elevation_plan.jpg' saved [50425/50425]
+
+--2026-09-25 11:54:36--  https://design-earth.org/files/gimgs/180_DE_SB_01.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 118927 (116K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/180_DE_SB_01.jpg'
+
+     0K .......... .......... .......... .......... .......... 43%  795K 0s
+    50K .......... .......... .......... .......... .......... 86%  786K 0s
+   100K .......... ......                                     100% 19.6M=0.1s
+
+2026-09-25 11:54:36 (912 KB/s) - 'mirror2/design-earth.org/files/gimgs/180_DE_SB_01.jpg' saved [118927/118927]
+
+--2026-09-25 11:54:36--  https://design-earth.org/files/gimgs/148_Parliament%20of%20Refuges-01.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 128240 (125K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/148_Parliament of Refuges-01.jpg'
+
+     0K .......... .......... .......... .......... .......... 39%  779K 0s
+    50K .......... .......... .......... .......... .......... 79%  813K 0s
+   100K .......... .......... .....                           100% 15.9M=0.1s
+
+2026-09-25 11:54:37 (984 KB/s) - 'mirror2/design-earth.org/files/gimgs/148_Parliament of Refuges-01.jpg' saved [128240/128240]
+
+--2026-09-25 11:54:37--  https://design-earth.org/files/gimgs/146_AO_Das%20Island%2001.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 161555 (158K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/146_AO_Das Island 01.jpg'
+
+     0K .......... .......... .......... .......... .......... 31%  791K 0s
+    50K .......... .......... .......... .......... .......... 63%  803K 0s
+   100K .......... .......... .......... .......... .......... 95% 15.9M 0s
+   150K .......                                               100% 84.8M=0.1s
+
+2026-09-25 11:54:37 (1.20 MB/s) - 'mirror2/design-earth.org/files/gimgs/146_AO_Das Island 01.jpg' saved [161555/161555]
+
+--2026-09-25 11:54:37--  https://design-earth.org/files/gimgs/137_00_Neck%20of%20the%20Moon_v5.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 44404 (43K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/137_00_Neck of the Moon_v5.jpg'
+
+     0K .......... .......... .......... .......... ...       100% 36.1M=0.001s
+
+2026-09-25 11:54:38 (36.1 MB/s) - 'mirror2/design-earth.org/files/gimgs/137_00_Neck of the Moon_v5.jpg' saved [44404/44404]
+
+--2026-09-25 11:54:38--  https://design-earth.org/files/gimgs/139_40370_4.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83675 (82K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/139_40370_4.jpg'
+
+     0K .......... .......... .......... .......... .......... 61%  773K 0s
+    50K .......... .......... .......... .                    100% 13.5M=0.07s
+
+2026-09-25 11:54:38 (1.19 MB/s) - 'mirror2/design-earth.org/files/gimgs/139_40370_4.jpg' saved [83675/83675]
+
+--2026-09-25 11:54:38--  https://design-earth.org/files/gimgs/131_view3.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 146672 (143K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/131_view3.jpg'
+
+     0K .......... .......... .......... .......... .......... 34%  795K 0s
+    50K .......... .......... .......... .......... .......... 69%  762K 0s
+   100K .......... .......... .......... .......... ...       100% 11.3M=0.1s
+
+2026-09-25 11:54:39 (1.06 MB/s) - 'mirror2/design-earth.org/files/gimgs/131_view3.jpg' saved [146672/146672]
+
+--2026-09-25 11:54:39--  https://design-earth.org/files/gimgs/129_Ocean%20Metabolism_sm.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85132 (83K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/129_Ocean Metabolism_sm.jpg'
+
+     0K .......... .......... .......... .......... .......... 60%  771K 0s
+    50K .......... .......... .......... ...                  100% 21.0M=0.07s
+
+2026-09-25 11:54:39 (1.22 MB/s) - 'mirror2/design-earth.org/files/gimgs/129_Ocean Metabolism_sm.jpg' saved [85132/85132]
+
+--2026-09-25 11:54:40--  https://design-earth.org/files/gimgs/126_Georama%20of%20Trash_sm.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 170219 (166K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/126_Georama of Trash_sm.jpg'
+
+     0K .......... .......... .......... .......... .......... 30%  793K 0s
+    50K .......... .......... .......... .......... .......... 60%  801K 0s
+   100K .......... .......... .......... .......... .......... 90% 14.3M 0s
+   150K .......... ......                                     100% 15.7M=0.1s
+
+2026-09-25 11:54:40 (1.25 MB/s) - 'mirror2/design-earth.org/files/gimgs/126_Georama of Trash_sm.jpg' saved [170219/170219]
+
+--2026-09-25 11:54:40--  https://design-earth.org/files/gimgs/109_02_Sea%20Our%20Land.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75546 (74K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/109_02_Sea Our Land.jpg'
+
+     0K .......... .......... .......... .......... .......... 67%  790K 0s
+    50K .......... .......... ...                             100% 22.2M=0.06s
+
+2026-09-25 11:54:41 (1.12 MB/s) - 'mirror2/design-earth.org/files/gimgs/109_02_Sea Our Land.jpg' saved [75546/75546]
+
+--2026-09-25 11:54:41--  https://design-earth.org/files/gimgs/104_Design%20Earth_The%20atmosphere%20is%20Dead_1.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 65271 (64K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/104_Design Earth_The atmosphere is Dead_1.jpg'
+
+     0K .......... .......... .......... .......... .......... 78%  805K 0s
+    50K .......... ...                                        100% 25.9M=0.06s
+
+2026-09-25 11:54:41 (1018 KB/s) - 'mirror2/design-earth.org/files/gimgs/104_Design Earth_The atmosphere is Dead_1.jpg' saved [65271/65271]
+
+--2026-09-25 11:54:41--  https://design-earth.org/files/gimgs/102_CCC%20TEAM%20BOARD_UPDATED_sm.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78591 (77K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/102_CCC TEAM BOARD_UPDATED_sm.jpg'
+
+     0K .......... .......... .......... .......... .......... 65%  788K 0s
+    50K .......... .......... ......                          100% 34.4M=0.06s
+
+2026-09-25 11:54:42 (1.17 MB/s) - 'mirror2/design-earth.org/files/gimgs/102_CCC TEAM BOARD_UPDATED_sm.jpg' saved [78591/78591]
+
+--2026-09-25 11:54:42--  https://design-earth.org/files/gimgs/94_0777-1.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 76234 (74K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/94_0777-1.jpg'
+
+     0K .......... .......... .......... .......... .......... 67%  791K 0s
+    50K .......... .......... ....                            100% 23.1M=0.06s
+
+2026-09-25 11:54:42 (1.13 MB/s) - 'mirror2/design-earth.org/files/gimgs/94_0777-1.jpg' saved [76234/76234]
+
+--2026-09-25 11:54:42--  https://design-earth.org/files/gimgs/14_The%20Belly%20Of%20A%20Mountain_01_72dpi.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78925 (77K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/14_The Belly Of A Mountain_01_72dpi.jpg'
+
+     0K .......... .......... .......... .......... .......... 64%  794K 0s
+    50K .......... .......... .......                         100% 21.8M=0.06s
+
+2026-09-25 11:54:43 (1.17 MB/s) - 'mirror2/design-earth.org/files/gimgs/14_The Belly Of A Mountain_01_72dpi.jpg' saved [78925/78925]
+
+--2026-09-25 11:54:43--  https://design-earth.org/files/gimgs/10_Rio_Render.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34697 (34K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/10_Rio_Render.jpg'
+
+     0K .......... .......... .......... ...                  100% 49.8M=0.001s
+
+2026-09-25 11:54:43 (49.8 MB/s) - 'mirror2/design-earth.org/files/gimgs/10_Rio_Render.jpg' saved [34697/34697]
+
+--2026-09-25 11:54:44--  https://design-earth.org/files/gimgs/243_245065058_10159729410352662_4855490852743795253_n%20copy.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 149062 (146K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/243_245065058_10159729410352662_4855490852743795253_n copy.jpg'
+
+     0K .......... .......... .......... .......... .......... 34%  748K 0s
+    50K .......... .......... .......... .......... .......... 68%  789K 0s
+   100K .......... .......... .......... .......... .....     100% 17.2M=0.1s
+
+2026-09-25 11:54:44 (1.07 MB/s) - 'mirror2/design-earth.org/files/gimgs/243_245065058_10159729410352662_4855490852743795253_n copy.jpg' saved [149062/149062]
+
+--2026-09-25 11:54:44--  https://design-earth.org/files/gimgs/th-238_JAE75-2.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26059 (25K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-238_JAE75-2.jpg'
+
+     0K .......... .......... .....                           100% 40.0M=0.001s
+
+2026-09-25 11:54:44 (40.0 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-238_JAE75-2.jpg' saved [26059/26059]
+
+--2026-09-25 11:54:45--  https://design-earth.org/files/gimgs/th-235_9780367703660.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13222 (13K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-235_9780367703660.jpg'
+
+     0K .......... ..                                         100% 38.4M=0s
+
+2026-09-25 11:54:45 (38.4 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-235_9780367703660.jpg' saved [13222/13222]
+
+--2026-09-25 11:54:45--  https://design-earth.org/files/gimgs/th-234_Ambiguous_Territory_final_RGB.png
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90822 (89K) [image/png]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-234_Ambiguous_Territory_final_RGB.png'
+
+     0K .......... .......... .......... .......... .......... 56%  792K 0s
+    50K .......... .......... .......... ........             100%  625K=0.1s
+
+2026-09-25 11:54:46 (709 KB/s) - 'mirror2/design-earth.org/files/gimgs/th-234_Ambiguous_Territory_final_RGB.png' saved [90822/90822]
+
+--2026-09-25 11:54:46--  https://design-earth.org/files/gimgs/th-232_AR-APR21-UNDERGROUND-xcover.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 30384 (30K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-232_AR-APR21-UNDERGROUND-xcover.jpg'
+
+     0K .......... .......... .........                       100% 41.2M=0.001s
+
+2026-09-25 11:54:46 (41.2 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-232_AR-APR21-UNDERGROUND-xcover.jpg' saved [30384/30384]
+
+--2026-09-25 11:54:47--  https://design-earth.org/files/gimgs/th-231_LA+.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8542 (8.3K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-231_LA+.jpg'
+
+     0K ........                                              100% 27.0M=0s
+
+2026-09-25 11:54:47 (27.0 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-231_LA+.jpg' saved [8542/8542]
+
+--2026-09-25 11:54:47--  https://design-earth.org/files/gimgs/th-230_JAE%2074_1.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 20089 (20K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-230_JAE 74_1.jpg'
+
+     0K .......... .........                                  100% 30.6M=0.001s
+
+2026-09-25 11:54:47 (30.6 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-230_JAE 74_1.jpg' saved [20089/20089]
+
+--2026-09-25 11:54:48--  https://design-earth.org/files/gimgs/th-229_Log.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11356 (11K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-229_Log.jpg'
+
+     0K .......... .                                          100% 22.0M=0s
+
+2026-09-25 11:54:48 (22.0 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-229_Log.jpg' saved [11356/11356]
+
+--2026-09-25 11:54:48--  https://design-earth.org/files/gimgs/th-227_NewGeographies11_cover_1000px-1200x0-c-default.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 27614 (27K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-227_NewGeographies11_cover_1000px-1200x0-c-default.jpg'
+
+     0K .......... .......... ......                          100% 44.1M=0.001s
+
+2026-09-25 11:54:48 (44.1 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-227_NewGeographies11_cover_1000px-1200x0-c-default.jpg' saved [27614/27614]
+
+--2026-09-25 11:54:49--  https://design-earth.org/files/gimgs/215_Geostories_cover_photo%20copy.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71470 (70K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/215_Geostories_cover_photo copy.jpg'
+
+     0K .......... .......... .......... .......... .......... 71%  790K 0s
+    50K .......... .........                                  100% 37.1M=0.06s
+
+2026-09-25 11:54:49 (1.07 MB/s) - 'mirror2/design-earth.org/files/gimgs/215_Geostories_cover_photo copy.jpg' saved [71470/71470]
+
+--2026-09-25 11:54:49--  https://design-earth.org/files/gimgs/th-207_Domus_v2.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31877 (31K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-207_Domus_v2.jpg'
+
+     0K .......... .......... .......... .                    100% 47.7M=0.001s
+
+2026-09-25 11:54:50 (47.7 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-207_Domus_v2.jpg' saved [31877/31877]
+
+--2026-09-25 11:54:50--  https://design-earth.org/files/gimgs/th-206_Landscapists.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31545 (31K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-206_Landscapists.jpg'
+
+     0K .......... .......... ..........                      100% 46.2M=0.001s
+
+2026-09-25 11:54:50 (46.2 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-206_Landscapists.jpg' saved [31545/31545]
+
+--2026-09-25 11:54:50--  https://design-earth.org/files/gimgs/th-204_AL.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 20404 (20K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-204_AL.jpg'
+
+     0K .......... .........                                  100% 37.0M=0.001s
+
+2026-09-25 11:54:51 (37.0 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-204_AL.jpg' saved [20404/20404]
+
+--2026-09-25 11:54:51--  https://design-earth.org/files/gimgs/th-201_third-coast-atlas.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22681 (22K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-201_third-coast-atlas.jpg'
+
+     0K .......... .......... ..                              100% 43.0M=0.001s
+
+2026-09-25 11:54:51 (43.0 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-201_third-coast-atlas.jpg' saved [22681/22681]
+
+--2026-09-25 11:54:51--  https://design-earth.org/publications/climate-inheritance--perspecta/
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1241 (1.2K) [text/html]
+Saving to: 'mirror2/design-earth.org/publications/climate-inheritance--perspecta/index.html'
+
+     0K .                                                     100%  455M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:54:52 (455 MB/s) - 'mirror2/design-earth.org/publications/climate-inheritance--perspecta/index.html' saved [3440]
+
+--2026-09-25 11:54:52--  https://design-earth.org/files/gimgs/th-196_Thresholds_FrontCover_670.png
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 85395 (83K) [image/png]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-196_Thresholds_FrontCover_670.png'
+
+     0K .......... .......... .......... .......... .......... 59%  797K 0s
+    50K .......... .......... .......... ...                  100% 31.2M=0.06s
+
+2026-09-25 11:54:52 (1.28 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-196_Thresholds_FrontCover_670.png' saved [85395/85395]
+
+--2026-09-25 11:54:52--  https://design-earth.org/files/gimgs/th-192_Ghosn+Jazairy_2017_Leviathan%20in%20the%20Aquarium.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26663 (26K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-192_Ghosn+Jazairy_2017_Leviathan in the Aquarium.jpg'
+
+     0K .......... .......... ......                          100% 26.7M=0.001s
+
+2026-09-25 11:54:53 (26.7 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-192_Ghosn+Jazairy_2017_Leviathan in the Aquarium.jpg' saved [26663/26663]
+
+--2026-09-25 11:54:53--  https://design-earth.org/files/gimgs/178_s-l400.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18217 (18K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/178_s-l400.jpg'
+
+     0K .......... .......                                    100% 31.4M=0.001s
+
+2026-09-25 11:54:53 (31.4 MB/s) - 'mirror2/design-earth.org/files/gimgs/178_s-l400.jpg' saved [18217/18217]
+
+--2026-09-25 11:54:53--  https://design-earth.org/files/gimgs/th-168_NewGeographies08_cover_web-1200x0-c-default_v2.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14716 (14K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-168_NewGeographies08_cover_web-1200x0-c-default_v2.jpg'
+
+     0K .......... ....                                       100% 39.4M=0s
+
+2026-09-25 11:54:54 (39.4 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-168_NewGeographies08_cover_web-1200x0-c-default_v2.jpg' saved [14716/14716]
+
+--2026-09-25 11:54:54--  https://design-earth.org/files/gimgs/th-165_ARQ.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22459 (22K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-165_ARQ.jpg'
+
+     0K .......... .......... .                               100% 34.9M=0.001s
+
+2026-09-25 11:54:54 (34.9 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-165_ARQ.jpg' saved [22459/22459]
+
+--2026-09-25 11:54:54--  https://design-earth.org/files/gimgs/th-150_ArabCity.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22573 (22K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-150_ArabCity.jpg'
+
+     0K .......... .......... ..                              100% 51.9M=0s
+
+2026-09-25 11:54:55 (51.9 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-150_ArabCity.jpg' saved [22573/22573]
+
+--2026-09-25 11:54:55--  http://design-earth.org/files/download/Ghosn_2016_Territories%20of%20Oil_The%20Arab%20City.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/files/download/Ghosn_2016_Territories%20of%20Oil_The%20Arab%20City.pdf [following]
+--2026-09-25 11:54:55--  https://design-earth.org/files/download/Ghosn_2016_Territories%20of%20Oil_The%20Arab%20City.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8945215 (8.5M) [application/pdf]
+Saving to: 'mirror2/design-earth.org/files/download/Ghosn_2016_Territories of Oil_The Arab City.pdf'
+
+     0K .......... .......... .......... .......... ..........  0%  722K 12s
+    50K .......... .......... .......... .......... ..........  1%  768K 12s
+   100K .......... .......... .......... .......... ..........  1%  960K 11s
+   150K .......... .......... .......... .......... ..........  2% 8.95M 8s
+   200K .......... .......... .......... .......... ..........  2% 5.32M 7s
+   250K .......... .......... .......... .......... ..........  3% 1.05M 7s
+   300K .......... .......... .......... .......... ..........  4% 21.3M 6s
+   350K .......... .......... .......... .......... ..........  4% 18.1M 5s
+   400K .......... .......... .......... .......... ..........  5% 25.9M 5s
+   450K .......... .......... .......... .......... ..........  5% 24.9M 4s
+   500K .......... .......... .......... .......... ..........  6%  926K 5s
+   550K .......... .......... .......... .......... ..........  6% 38.2M 4s
+   600K .......... .......... .......... .......... ..........  7% 97.5M 4s
+   650K .......... .......... .......... .......... ..........  8% 57.5M 4s
+   700K .......... .......... .......... .......... ..........  8% 45.0M 3s
+   750K .......... .......... .......... .......... ..........  9% 45.2M 3s
+   800K .......... .......... .......... .......... ..........  9% 58.1M 3s
+   850K .......... .......... .......... .......... .......... 10% 53.4M 3s
+   900K .......... .......... .......... .......... .......... 10% 50.0M 3s
+   950K .......... .......... .......... .......... .......... 11% 9.83M 2s
+  1000K .......... .......... .......... .......... .......... 12%  978K 3s
+  1050K .......... .......... .......... .......... .......... 12% 44.2M 3s
+  1100K .......... .......... .......... .......... .......... 13% 84.0M 2s
+  1150K .......... .......... .......... .......... .......... 13%  141M 2s
+  1200K .......... .......... .......... .......... .......... 14% 99.3M 2s
+  1250K .......... .......... .......... .......... .......... 14%  163M 2s
+  1300K .......... .......... .......... .......... .......... 15%  111M 2s
+  1350K .......... .......... .......... .......... .......... 16% 67.8M 2s
+  1400K .......... .......... .......... .......... .......... 16%  279M 2s
+  1450K .......... .......... .......... .......... .......... 17%  246M 2s
+  1500K .......... .......... .......... .......... .......... 17% 6.21M 2s
+  1550K .......... .......... .......... .......... .......... 18% 69.5M 2s
+  1600K .......... .......... .......... .......... .......... 18%  271M 2s
+  1650K .......... .......... .......... .......... .......... 19% 94.6M 2s
+  1700K .......... .......... .......... .......... .......... 20% 1020K 2s
+  1750K .......... .......... .......... .......... .......... 20%  111M 2s
+  1800K .......... .......... .......... .......... .......... 21%  104M 2s
+  1850K .......... .......... .......... .......... .......... 21%  102M 2s
+  1900K .......... .......... .......... .......... .......... 22%  138M 2s
+  1950K .......... .......... .......... .......... .......... 22% 99.2M 1s
+  2000K .......... .......... .......... .......... .......... 23%  137M 1s
+  2050K .......... .......... .......... .......... .......... 24%  140M 1s
+  2100K .......... .......... .......... .......... .......... 24%  127M 1s
+  2150K .......... .......... .......... .......... .......... 25% 96.7M 1s
+  2200K .......... .......... .......... .......... .......... 25%  151M 1s
+  2250K .......... .......... .......... .......... .......... 26%  140M 1s
+  2300K .......... .......... .......... .......... .......... 26% 18.4M 1s
+  2350K .......... .......... .......... .......... .......... 27% 93.2M 1s
+  2400K .......... .......... .......... .......... .......... 28%  115M 1s
+  2450K .......... .......... .......... .......... .......... 28%  139M 1s
+  2500K .......... .......... .......... .......... .......... 29%  118M 1s
+  2550K .......... .......... .......... .......... .......... 29%  107M 1s
+  2600K .......... .......... .......... .......... .......... 30%  928K 1s
+  2650K .......... .......... .......... .......... .......... 30% 94.2M 1s
+  2700K .......... .......... .......... .......... .......... 31% 74.0M 1s
+  2750K .......... .......... .......... .......... .......... 32% 92.9M 1s
+  2800K .......... .......... .......... .......... .......... 32%  184M 1s
+  2850K .......... .......... .......... .......... .......... 33% 15.1M 1s
+  2900K .......... .......... .......... .......... .......... 33%  153M 1s
+  2950K .......... .......... .......... .......... .......... 34%  102M 1s
+  3000K .......... .......... .......... .......... .......... 34% 47.1M 1s
+  3050K .......... .......... .......... .......... .......... 35% 54.9M 1s
+  3100K .......... .......... .......... .......... .......... 36% 94.7M 1s
+  3150K .......... .......... .......... .......... .......... 36%  107M 1s
+  3200K .......... .......... .......... .......... .......... 37%  136M 1s
+  3250K .......... .......... .......... .......... .......... 37%  165M 1s
+  3300K .......... .......... .......... .......... .......... 38% 81.1M 1s
+  3350K .......... .......... .......... .......... .......... 38% 83.6M 1s
+  3400K .......... .......... .......... .......... .......... 39%  151M 1s
+  3450K .......... .......... .......... .......... .......... 40%  211M 1s
+  3500K .......... .......... .......... .......... .......... 40%  209M 1s
+  3550K .......... .......... .......... .......... .......... 41%  184M 1s
+  3600K .......... .......... .......... .......... .......... 41%  230M 1s
+  3650K .......... .......... .......... .......... .......... 42%  156M 1s
+  3700K .......... .......... .......... .......... .......... 42%  225M 1s
+  3750K .......... .......... .......... .......... .......... 43%  142M 1s
+  3800K .......... .......... .......... .......... .......... 44%  199M 1s
+  3850K .......... .......... .......... .......... .......... 44%  237M 1s
+  3900K .......... .......... .......... .......... .......... 45%  101M 1s
+  3950K .......... .......... .......... .......... .......... 45% 73.1M 1s
+  4000K .......... .......... .......... .......... .......... 46%  124M 1s
+  4050K .......... .......... .......... .......... .......... 46%  138M 1s
+  4100K .......... .......... .......... .......... .......... 47%  111M 1s
+  4150K .......... .......... .......... .......... .......... 48%  165M 1s
+  4200K .......... .......... .......... .......... .......... 48%  101M 1s
+  4250K .......... .......... .......... .......... .......... 49%  106M 1s
+  4300K .......... .......... .......... .......... .......... 49%  164M 1s
+  4350K .......... .......... .......... .......... .......... 50%  102M 1s
+  4400K .......... .......... .......... .......... .......... 50%  130M 0s
+  4450K .......... .......... .......... .......... .......... 51% 82.6M 0s
+  4500K .......... .......... .......... .......... .......... 52%  112M 0s
+  4550K .......... .......... .......... .......... .......... 52%  122M 0s
+  4600K .......... .......... .......... .......... .......... 53% 79.7M 0s
+  4650K .......... .......... .......... .......... .......... 53%  114M 0s
+  4700K .......... .......... .......... .......... .......... 54% 99.4M 0s
+  4750K .......... .......... .......... .......... .......... 54%  121M 0s
+  4800K .......... .......... .......... .......... .......... 55%  124M 0s
+  4850K .......... .......... .......... .......... .......... 56% 63.8M 0s
+  4900K .......... .......... .......... .......... .......... 56%  132M 0s
+  4950K .......... .......... .......... .......... .......... 57%  113M 0s
+  5000K .......... .......... .......... .......... .......... 57%  184M 0s
+  5050K .......... .......... .......... .......... .......... 58%  131M 0s
+  5100K .......... .......... .......... .......... .......... 58%  120M 0s
+  5150K .......... .......... .......... .......... .......... 59% 89.5M 0s
+  5200K .......... .......... .......... .......... .......... 60%  121M 0s
+  5250K .......... .......... .......... .......... .......... 60%  137M 0s
+  5300K .......... .......... .......... .......... .......... 61%  109M 0s
+  5350K .......... .......... .......... .......... .......... 61%  114M 0s
+  5400K .......... .......... .......... .......... .......... 62%  120M 0s
+  5450K .......... .......... .......... .......... .......... 62%  106M 0s
+  5500K .......... .......... .......... .......... .......... 63% 92.1M 0s
+  5550K .......... .......... .......... .......... .......... 64% 70.2M 0s
+  5600K .......... .......... .......... .......... .......... 64%  282M 0s
+  5650K .......... .......... .......... .......... .......... 65%  104M 0s
+  5700K .......... .......... .......... .......... .......... 65%  142M 0s
+  5750K .......... .......... .......... .......... .......... 66%  118M 0s
+  5800K .......... .......... .......... .......... .......... 66%  127M 0s
+  5850K .......... .......... .......... .......... .......... 67%  123M 0s
+  5900K .......... .......... .......... .......... .......... 68%  108M 0s
+  5950K .......... .......... .......... .......... .......... 68% 98.5M 0s
+  6000K .......... .......... .......... .......... .......... 69%  124M 0s
+  6050K .......... .......... .......... .......... .......... 69%  122M 0s
+  6100K .......... .......... .......... .......... .......... 70%  106M 0s
+  6150K .......... .......... .......... .......... .......... 70%  129M 0s
+  6200K .......... .......... .......... .......... .......... 71%  126M 0s
+  6250K .......... .......... .......... .......... .......... 72% 77.2M 0s
+  6300K .......... .......... .......... .......... .......... 72%  146M 0s
+  6350K .......... .......... .......... .......... .......... 73% 95.8M 0s
+  6400K .......... .......... .......... .......... .......... 73%  123M 0s
+  6450K .......... .......... .......... .......... .......... 74%  126M 0s
+  6500K .......... .......... .......... .......... .......... 74%  107M 0s
+  6550K .......... .......... .......... .......... .......... 75% 63.8M 0s
+  6600K .......... .......... .......... .......... .......... 76%  117M 0s
+  6650K .......... .......... .......... .......... .......... 76%  188M 0s
+  6700K .......... .......... .......... .......... .......... 77%  131M 0s
+  6750K .......... .......... .......... .......... .......... 77%  150M 0s
+  6800K .......... .......... .......... .......... .......... 78%  115M 0s
+  6850K .......... .......... .......... .......... .......... 78% 95.1M 0s
+  6900K .......... .......... .......... .......... .......... 79%  142M 0s
+  6950K .......... .......... .......... .......... .......... 80% 85.5M 0s
+  7000K .......... .......... .......... .......... .......... 80%  174M 0s
+  7050K .......... .......... .......... .......... .......... 81% 87.8M 0s
+  7100K .......... .......... .......... .......... .......... 81% 96.3M 0s
+  7150K .......... .......... .......... .......... .......... 82%  108M 0s
+  7200K .......... .......... .......... .......... .......... 82%  143M 0s
+  7250K .......... .......... .......... .......... .......... 83%  130M 0s
+  7300K .......... .......... .......... .......... .......... 84%  107M 0s
+  7350K .......... .......... .......... .......... .......... 84%  113M 0s
+  7400K .......... .......... .......... .......... .......... 85%  131M 0s
+  7450K .......... .......... .......... .......... .......... 85% 99.2M 0s
+  7500K .......... .......... .......... .......... .......... 86% 96.6M 0s
+  7550K .......... .......... .......... .......... .......... 87%  182M 0s
+  7600K .......... .......... .......... .......... .......... 87%  102M 0s
+  7650K .......... .......... .......... .......... .......... 88%  139M 0s
+  7700K .......... .......... .......... .......... .......... 88% 98.6M 0s
+  7750K .......... .......... .......... .......... .......... 89% 97.0M 0s
+  7800K .......... .......... .......... .......... .......... 89%  126M 0s
+  7850K .......... .......... .......... .......... .......... 90%  116M 0s
+  7900K .......... .......... .......... .......... .......... 91%  135M 0s
+  7950K .......... .......... .......... .......... .......... 91% 79.0M 0s
+  8000K .......... .......... .......... .......... .......... 92%  119M 0s
+  8050K .......... .......... .......... .......... .......... 92%  160M 0s
+  8100K .......... .......... .......... .......... .......... 93%  110M 0s
+  8150K .......... .......... .......... .......... .......... 93%  108M 0s
+  8200K .......... .......... .......... .......... .......... 94%  138M 0s
+  8250K .......... .......... .......... .......... .......... 95% 92.0M 0s
+  8300K .......... .......... .......... .......... .......... 95%  113M 0s
+  8350K .......... .......... .......... .......... .......... 96% 76.4M 0s
+  8400K .......... .......... .......... .......... .......... 96%  102M 0s
+  8450K .......... .......... .......... .......... .......... 97%  176M 0s
+  8500K .......... .......... .......... .......... .......... 97%  115M 0s
+  8550K .......... .......... .......... .......... .......... 98%  103M 0s
+  8600K .......... .......... .......... .......... .......... 99% 99.3M 0s
+  8650K .......... .......... .......... .......... .......... 99% 89.6M 0s
+  8700K .......... .......... .......... .....                100%  226M=0.6s
+
+2026-09-25 11:54:56 (15.4 MB/s) - 'mirror2/design-earth.org/files/download/Ghosn_2016_Territories of Oil_The Arab City.pdf' saved [8945215/8945215]
+
+--2026-09-25 11:54:57--  https://design-earth.org/files/gimgs/th-145_Volume.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 32323 (32K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-145_Volume.jpg'
+
+     0K .......... .......... .......... .                    100% 23.7M=0.001s
+
+2026-09-25 11:54:57 (23.7 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-145_Volume.jpg' saved [32323/32323]
+
+--2026-09-25 11:54:57--  http://design-earth.org/files/download/V47_Design%20Earth.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/files/download/V47_Design%20Earth.pdf [following]
+--2026-09-25 11:54:57--  https://design-earth.org/files/download/V47_Design%20Earth.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 677181 (661K) [application/pdf]
+Saving to: 'mirror2/design-earth.org/files/download/V47_Design Earth.pdf'
+
+     0K .......... .......... .......... .......... ..........  7%  772K 1s
+    50K .......... .......... .......... .......... .......... 15%  721K 1s
+   100K .......... .......... .......... .......... .......... 22%  887K 1s
+   150K .......... .......... .......... .......... .......... 30% 9.69M 0s
+   200K .......... .......... .......... .......... .......... 37% 7.39M 0s
+   250K .......... .......... .......... .......... .......... 45% 10.9M 0s
+   300K .......... .......... .......... .......... .......... 52% 1.03M 0s
+   350K .......... .......... .......... .......... .......... 60% 23.6M 0s
+   400K .......... .......... .......... .......... .......... 68% 24.8M 0s
+   450K .......... .......... .......... .......... .......... 75% 29.8M 0s
+   500K .......... .......... .......... .......... .......... 83% 37.8M 0s
+   550K .......... .......... .......... .......... .......... 90% 8.49M 0s
+   600K .......... .......... .......... .......... .......... 98% 1.57M 0s
+   650K .......... .                                          100% 46.8M=0.3s
+
+2026-09-25 11:54:58 (2.17 MB/s) - 'mirror2/design-earth.org/files/download/V47_Design Earth.pdf' saved [677181/677181]
+
+--2026-09-25 11:54:58--  https://design-earth.org/files/gimgs/th-143_Climates-cover_856.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26986 (26K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-143_Climates-cover_856.jpg'
+
+     0K .......... .......... ......                          100% 37.5M=0.001s
+
+2026-09-25 11:54:59 (37.5 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-143_Climates-cover_856.jpg' saved [26986/26986]
+
+--2026-09-25 11:54:59--  http://design-earth.org/files/download/Ghosn+jazairy_2015_Gaia%20GlobalCircus_AveryReview.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/files/download/Ghosn+jazairy_2015_Gaia%20GlobalCircus_AveryReview.pdf [following]
+--2026-09-25 11:54:59--  https://design-earth.org/files/download/Ghosn+jazairy_2015_Gaia%20GlobalCircus_AveryReview.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1266415 (1.2M) [application/pdf]
+Saving to: 'mirror2/design-earth.org/files/download/Ghosn+jazairy_2015_Gaia GlobalCircus_AveryReview.pdf'
+
+     0K .......... .......... .......... .......... ..........  4%  773K 2s
+    50K .......... .......... .......... .......... ..........  8%  840K 1s
+   100K .......... .......... .......... .......... .......... 12% 10.4M 1s
+   150K .......... .......... .......... .......... .......... 16%  839K 1s
+   200K .......... .......... .......... .......... .......... 20% 13.1M 1s
+   250K .......... .......... .......... .......... .......... 24% 8.42M 1s
+   300K .......... .......... .......... .......... .......... 28% 1007K 1s
+   350K .......... .......... .......... .......... .......... 32% 28.8M 1s
+   400K .......... .......... .......... .......... .......... 36% 41.2M 0s
+   450K .......... .......... .......... .......... .......... 40% 24.7M 0s
+   500K .......... .......... .......... .......... .......... 44% 29.5M 0s
+   550K .......... .......... .......... .......... .......... 48% 9.00M 0s
+   600K .......... .......... .......... .......... .......... 52% 25.2M 0s
+   650K .......... .......... .......... .......... .......... 56% 1013K 0s
+   700K .......... .......... .......... .......... .......... 60% 54.6M 0s
+   750K .......... .......... .......... .......... .......... 64% 74.1M 0s
+   800K .......... .......... .......... .......... .......... 68% 52.4M 0s
+   850K .......... .......... .......... .......... .......... 72% 71.3M 0s
+   900K .......... .......... .......... .......... .......... 76%  121M 0s
+   950K .......... .......... .......... .......... .......... 80% 48.7M 0s
+  1000K .......... .......... .......... .......... .......... 84% 43.9M 0s
+  1050K .......... .......... .......... .......... .......... 88% 73.5M 0s
+  1100K .......... .......... .......... .......... .......... 92% 85.5M 0s
+  1150K .......... .......... .......... .......... .......... 97% 8.99M 0s
+  1200K .......... .......... .......... ......               100% 82.0M=0.3s
+
+2026-09-25 11:55:00 (3.73 MB/s) - 'mirror2/design-earth.org/files/download/Ghosn+jazairy_2015_Gaia GlobalCircus_AveryReview.pdf' saved [1266415/1266415]
+
+--2026-09-25 11:55:00--  https://design-earth.org/files/gimgs/122_GOT.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-09-25 11:55:00 ERROR 404: Not Found.
+
+--2026-09-25 11:55:00--  https://design-earth.org/files/gimgs/th-121_JAE_Crisis.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11919 (12K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-121_JAE_Crisis.jpg'
+
+     0K .......... .                                          100% 37.2M=0s
+
+2026-09-25 11:55:01 (37.2 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-121_JAE_Crisis.jpg' saved [11919/11919]
+
+--2026-09-25 11:55:01--  http://design-earth.org/files/download/Ghosn_2015_8Mile%20Baseline_JAE.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/files/download/Ghosn_2015_8Mile%20Baseline_JAE.pdf [following]
+--2026-09-25 11:55:01--  https://design-earth.org/files/download/Ghosn_2015_8Mile%20Baseline_JAE.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1985306 (1.9M) [application/pdf]
+Saving to: 'mirror2/design-earth.org/files/download/Ghosn_2015_8Mile Baseline_JAE.pdf'
+
+     0K .......... .......... .......... .......... ..........  2%  717K 3s
+    50K .......... .......... .......... .......... ..........  5%  851K 2s
+   100K .......... .......... .......... .......... ..........  7% 4.16M 2s
+   150K .......... .......... .......... .......... .......... 10%  945K 2s
+   200K .......... .......... .......... .......... .......... 12% 17.2M 1s
+   250K .......... .......... .......... .......... .......... 15% 6.51M 1s
+   300K .......... .......... .......... .......... .......... 18%  987K 1s
+   350K .......... .......... .......... .......... .......... 20% 20.7M 1s
+   400K .......... .......... .......... .......... .......... 23% 33.8M 1s
+   450K .......... .......... .......... .......... .......... 25% 31.4M 1s
+   500K .......... .......... .......... .......... .......... 28% 37.2M 1s
+   550K .......... .......... .......... .......... .......... 30% 6.47M 1s
+   600K .......... .......... .......... .......... .......... 33% 60.6M 1s
+   650K .......... .......... .......... .......... .......... 36% 9.05M 0s
+   700K .......... .......... .......... .......... .......... 38% 1.14M 1s
+   750K .......... .......... .......... .......... .......... 41% 31.4M 0s
+   800K .......... .......... .......... .......... .......... 43% 24.7M 0s
+   850K .......... .......... .......... .......... .......... 46% 47.0M 0s
+   900K .......... .......... .......... .......... .......... 49% 71.4M 0s
+   950K .......... .......... .......... .......... .......... 51% 48.3M 0s
+  1000K .......... .......... .......... .......... .......... 54% 12.8M 0s
+  1050K .......... .......... .......... .......... .......... 56%  132M 0s
+  1100K .......... .......... .......... .......... .......... 59% 53.0M 0s
+  1150K .......... .......... .......... .......... .......... 61% 58.3M 0s
+  1200K .......... .......... .......... .......... .......... 64% 29.8M 0s
+  1250K .......... .......... .......... .......... .......... 67% 8.03M 0s
+  1300K .......... .......... .......... .......... .......... 69% 64.3M 0s
+  1350K .......... .......... .......... .......... .......... 72% 44.3M 0s
+  1400K .......... .......... .......... .......... .......... 74% 51.5M 0s
+  1450K .......... .......... .......... .......... .......... 77% 1.21M 0s
+  1500K .......... .......... .......... .......... .......... 79% 61.2M 0s
+  1550K .......... .......... .......... .......... .......... 82% 88.0M 0s
+  1600K .......... .......... .......... .......... .......... 85%  109M 0s
+  1650K .......... .......... .......... .......... .......... 87% 56.0M 0s
+  1700K .......... .......... .......... .......... .......... 90%  107M 0s
+  1750K .......... .......... .......... .......... .......... 92% 75.9M 0s
+  1800K .......... .......... .......... .......... .......... 95%  104M 0s
+  1850K .......... .......... .......... .......... .......... 98%  135M 0s
+  1900K .......... .......... .......... ........             100%  113M=0.4s
+
+2026-09-25 11:55:02 (4.91 MB/s) - 'mirror2/design-earth.org/files/download/Ghosn_2015_8Mile Baseline_JAE.pdf' saved [1985306/1985306]
+
+--2026-09-25 11:55:02--  https://design-earth.org/files/gimgs/th-117_san_rocco_10_ecology_motto.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15243 (15K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-117_san_rocco_10_ecology_motto.jpg'
+
+     0K .......... ....                                       100% 21.1M=0.001s
+
+2026-09-25 11:55:03 (21.1 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-117_san_rocco_10_ecology_motto.jpg' saved [15243/15243]
+
+--2026-09-25 11:55:03--  http://design-earth.org/files/download/Ghosn+Jazairy_2014_Airpocalypse_SanRocco.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/files/download/Ghosn+Jazairy_2014_Airpocalypse_SanRocco.pdf [following]
+--2026-09-25 11:55:03--  https://design-earth.org/files/download/Ghosn+Jazairy_2014_Airpocalypse_SanRocco.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1200755 (1.1M) [application/pdf]
+Saving to: 'mirror2/design-earth.org/files/download/Ghosn+Jazairy_2014_Airpocalypse_SanRocco.pdf'
+
+     0K .......... .......... .......... .......... ..........  4%  717K 2s
+    50K .......... .......... .......... .......... ..........  8%  875K 1s
+   100K .......... .......... .......... .......... .......... 12% 4.22M 1s
+   150K .......... .......... .......... .......... .......... 17%  957K 1s
+   200K .......... .......... .......... .......... .......... 21% 17.5M 1s
+   250K .......... .......... .......... .......... .......... 25% 5.51M 1s
+   300K .......... .......... .......... .......... .......... 29% 1.04M 1s
+   350K .......... .......... .......... .......... .......... 34% 27.2M 0s
+   400K .......... .......... .......... .......... .......... 38% 24.9M 0s
+   450K .......... .......... .......... .......... .......... 42% 27.6M 0s
+   500K .......... .......... .......... .......... .......... 46% 25.0M 0s
+   550K .......... .......... .......... .......... .......... 51% 8.15M 0s
+   600K .......... .......... .......... .......... .......... 55% 29.5M 0s
+   650K .......... .......... .......... .......... .......... 59% 1.02M 0s
+   700K .......... .......... .......... .......... .......... 63% 64.7M 0s
+   750K .......... .......... .......... .......... .......... 68% 47.0M 0s
+   800K .......... .......... .......... .......... .......... 72% 67.2M 0s
+   850K .......... .......... .......... .......... .......... 76% 51.8M 0s
+   900K .......... .......... .......... .......... .......... 81% 51.8M 0s
+   950K .......... .......... .......... .......... .......... 85% 44.1M 0s
+  1000K .......... .......... .......... .......... .......... 89% 60.8M 0s
+  1050K .......... .......... .......... .......... .......... 93% 92.9M 0s
+  1100K .......... .......... .......... .......... .......... 98% 45.6M 0s
+  1150K .......... .......... ..                              100% 5.08M=0.3s
+
+2026-09-25 11:55:04 (3.53 MB/s) - 'mirror2/design-earth.org/files/download/Ghosn+Jazairy_2014_Airpocalypse_SanRocco.pdf' saved [1200755/1200755]
+
+--2026-09-25 11:55:04--  https://design-earth.org/files/gimgs/th-108_NewGeographies08_cover_web-1200x0-c-default.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14716 (14K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-108_NewGeographies08_cover_web-1200x0-c-default.jpg'
+
+     0K .......... ....                                       100% 40.7M=0s
+
+2026-09-25 11:55:04 (40.7 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-108_NewGeographies08_cover_web-1200x0-c-default.jpg' saved [14716/14716]
+
+--2026-09-25 11:55:05--  http://design-earth.org/files/download/Ghosn+Jazairy_Hassi%20Messaoud_NG6.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/files/download/Ghosn+Jazairy_Hassi%20Messaoud_NG6.pdf [following]
+--2026-09-25 11:55:05--  https://design-earth.org/files/download/Ghosn+Jazairy_Hassi%20Messaoud_NG6.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8693931 (8.3M) [application/pdf]
+Saving to: 'mirror2/design-earth.org/files/download/Ghosn+Jazairy_Hassi Messaoud_NG6.pdf'
+
+     0K .......... .......... .......... .......... ..........  0%  720K 12s
+    50K .......... .......... .......... .......... ..........  1%  760K 11s
+   100K .......... .......... .......... .......... ..........  1%  783K 11s
+   150K .......... .......... .......... .......... ..........  2% 3.54M 9s
+   200K .......... .......... .......... .......... ..........  2% 1.28M 8s
+   250K .......... .......... .......... .......... ..........  3% 17.0M 7s
+   300K .......... .......... .......... .......... ..........  4% 16.6M 6s
+   350K .......... .......... .......... .......... ..........  4% 13.6M 5s
+   400K .......... .......... .......... .......... ..........  5%  976K 6s
+   450K .......... .......... .......... .......... ..........  5% 65.3M 5s
+   500K .......... .......... .......... .......... ..........  6% 27.3M 5s
+   550K .......... .......... .......... .......... ..........  7% 51.5M 4s
+   600K .......... .......... .......... .......... ..........  7% 51.2M 4s
+   650K .......... .......... .......... .......... ..........  8% 6.29M 4s
+   700K .......... .......... .......... .......... ..........  8% 26.0M 3s
+   750K .......... .......... .......... .......... ..........  9% 33.3M 3s
+   800K .......... .......... .......... .......... .......... 10% 76.2M 3s
+   850K .......... .......... .......... .......... .......... 10% 1.04M 3s
+   900K .......... .......... .......... .......... .......... 11% 56.5M 3s
+   950K .......... .......... .......... .......... .......... 11% 60.1M 3s
+  1000K .......... .......... .......... .......... .......... 12% 50.3M 3s
+  1050K .......... .......... .......... .......... .......... 12% 60.1M 3s
+  1100K .......... .......... .......... .......... .......... 13%  108M 2s
+  1150K .......... .......... .......... .......... .......... 14% 50.1M 2s
+  1200K .......... .......... .......... .......... .......... 14% 54.8M 2s
+  1250K .......... .......... .......... .......... .......... 15% 61.2M 2s
+  1300K .......... .......... .......... .......... .......... 15% 60.0M 2s
+  1350K .......... .......... .......... .......... .......... 16% 9.02M 2s
+  1400K .......... .......... .......... .......... .......... 17% 84.7M 2s
+  1450K .......... .......... .......... .......... .......... 17% 63.6M 2s
+  1500K .......... .......... .......... .......... .......... 18% 1.00M 2s
+  1550K .......... .......... .......... .......... .......... 18%  212M 2s
+  1600K .......... .......... .......... .......... .......... 19% 90.1M 2s
+  1650K .......... .......... .......... .......... .......... 20% 95.3M 2s
+  1700K .......... .......... .......... .......... .......... 20% 84.5M 2s
+  1750K .......... .......... .......... .......... .......... 21% 79.9M 2s
+  1800K .......... .......... .......... .......... .......... 21% 78.8M 2s
+  1850K .......... .......... .......... .......... .......... 22% 94.2M 2s
+  1900K .......... .......... .......... .......... .......... 22%  228M 1s
+  1950K .......... .......... .......... .......... .......... 23%  134M 1s
+  2000K .......... .......... .......... .......... .......... 24% 86.8M 1s
+  2050K .......... .......... .......... .......... .......... 24% 62.5M 1s
+  2100K .......... .......... .......... .......... .......... 25%  137M 1s
+  2150K .......... .......... .......... .......... .......... 25%  156M 1s
+  2200K .......... .......... .......... .......... .......... 26%  152M 1s
+  2250K .......... .......... .......... .......... .......... 27%  142M 1s
+  2300K .......... .......... .......... .......... .......... 27% 61.3M 1s
+  2350K .......... .......... .......... .......... .......... 28%  112M 1s
+  2400K .......... .......... .......... .......... .......... 28%  212M 1s
+  2450K .......... .......... .......... .......... .......... 29% 12.9M 1s
+  2500K .......... .......... .......... .......... .......... 30%  156M 1s
+  2550K .......... .......... .......... .......... .......... 30% 50.4M 1s
+  2600K .......... .......... .......... .......... .......... 31%  120M 1s
+  2650K .......... .......... .......... .......... .......... 31% 1024K 1s
+  2700K .......... .......... .......... .......... .......... 32%  124M 1s
+  2750K .......... .......... .......... .......... .......... 32% 45.4M 1s
+  2800K .......... .......... .......... .......... .......... 33% 81.3M 1s
+  2850K .......... .......... .......... .......... .......... 34% 80.0M 1s
+  2900K .......... .......... .......... .......... .......... 34%  156M 1s
+  2950K .......... .......... .......... .......... .......... 35% 45.4M 1s
+  3000K .......... .......... .......... .......... .......... 35%  121M 1s
+  3050K .......... .......... .......... .......... .......... 36% 89.8M 1s
+  3100K .......... .......... .......... .......... .......... 37% 82.7M 1s
+  3150K .......... .......... .......... .......... .......... 37%  161M 1s
+  3200K .......... .......... .......... .......... .......... 38%  115M 1s
+  3250K .......... .......... .......... .......... .......... 38%  112M 1s
+  3300K .......... .......... .......... .......... .......... 39%  128M 1s
+  3350K .......... .......... .......... .......... .......... 40%  112M 1s
+  3400K .......... .......... .......... .......... .......... 40% 64.2M 1s
+  3450K .......... .......... .......... .......... .......... 41%  125M 1s
+  3500K .......... .......... .......... .......... .......... 41%  325M 1s
+  3550K .......... .......... .......... .......... .......... 42% 96.2M 1s
+  3600K .......... .......... .......... .......... .......... 42%  462M 1s
+  3650K .......... .......... .......... .......... .......... 43%  173M 1s
+  3700K .......... .......... .......... .......... .......... 44% 61.1M 1s
+  3750K .......... .......... .......... .......... .......... 44%  219M 1s
+  3800K .......... .......... .......... .......... .......... 45%  123M 1s
+  3850K .......... .......... .......... .......... .......... 45%  174M 1s
+  3900K .......... .......... .......... .......... .......... 46% 88.9M 1s
+  3950K .......... .......... .......... .......... .......... 47% 87.5M 1s
+  4000K .......... .......... .......... .......... .......... 47%  134M 1s
+  4050K .......... .......... .......... .......... .......... 48%  164M 1s
+  4100K .......... .......... .......... .......... .......... 48% 91.1M 1s
+  4150K .......... .......... .......... .......... .......... 49%  112M 1s
+  4200K .......... .......... .......... .......... .......... 50%  168M 1s
+  4250K .......... .......... .......... .......... .......... 50%  266M 1s
+  4300K .......... .......... .......... .......... .......... 51%  203M 0s
+  4350K .......... .......... .......... .......... .......... 51%  107M 0s
+  4400K .......... .......... .......... .......... .......... 52% 77.4M 0s
+  4450K .......... .......... .......... .......... .......... 53% 63.1M 0s
+  4500K .......... .......... .......... .......... .......... 53% 69.1M 0s
+  4550K .......... .......... .......... .......... .......... 54% 84.3M 0s
+  4600K .......... .......... .......... .......... .......... 54% 84.4M 0s
+  4650K .......... .......... .......... .......... .......... 55%  145M 0s
+  4700K .......... .......... .......... .......... .......... 55%  164M 0s
+  4750K .......... .......... .......... .......... .......... 56%  218M 0s
+  4800K .......... .......... .......... .......... .......... 57%  203M 0s
+  4850K .......... .......... .......... .......... .......... 57%  116K 1s
+  4900K .......... .......... .......... .......... .......... 58% 61.3M 1s
+  4950K .......... .......... .......... .......... .......... 58% 62.7M 1s
+  5000K .......... .......... .......... .......... .......... 59% 96.1M 1s
+  5050K .......... .......... .......... .......... .......... 60% 55.3M 1s
+  5100K .......... .......... .......... .......... .......... 60%  145M 1s
+  5150K .......... .......... .......... .......... .......... 61% 96.9M 1s
+  5200K .......... .......... .......... .......... .......... 61% 94.9M 1s
+  5250K .......... .......... .......... .......... .......... 62% 88.6M 1s
+  5300K .......... .......... .......... .......... .......... 63%  271M 1s
+  5350K .......... .......... .......... .......... .......... 63% 71.7M 1s
+  5400K .......... .......... .......... .......... .......... 64%  119M 1s
+  5450K .......... .......... .......... .......... .......... 64%  118M 1s
+  5500K .......... .......... .......... .......... .......... 65%  136M 1s
+  5550K .......... .......... .......... .......... .......... 65%  225M 0s
+  5600K .......... .......... .......... .......... .......... 66%  419K 1s
+  5650K .......... .......... .......... .......... .......... 67% 96.8M 1s
+  5700K .......... .......... .......... .......... .......... 67% 99.8M 1s
+  5750K .......... .......... .......... .......... .......... 68% 64.9M 1s
+  5800K .......... .......... .......... .......... .......... 68% 81.6M 0s
+  5850K .......... .......... .......... .......... .......... 69%  127M 0s
+  5900K .......... .......... .......... .......... .......... 70%  128M 0s
+  5950K .......... .......... .......... .......... .......... 70%  133M 0s
+  6000K .......... .......... .......... .......... .......... 71% 91.9M 0s
+  6050K .......... .......... .......... .......... .......... 71%  134M 0s
+  6100K .......... .......... .......... .......... .......... 72%  119M 0s
+  6150K .......... .......... .......... .......... .......... 73% 78.2M 0s
+  6200K .......... .......... .......... .......... .......... 73% 61.5M 0s
+  6250K .......... .......... .......... .......... .......... 74% 95.9M 0s
+  6300K .......... .......... .......... .......... .......... 74%  165M 0s
+  6350K .......... .......... .......... .......... .......... 75%  888K 0s
+  6400K .......... .......... .......... .......... .......... 75% 86.4M 0s
+  6450K .......... .......... .......... .......... .......... 76% 91.2M 0s
+  6500K .......... .......... .......... .......... .......... 77% 85.8M 0s
+  6550K .......... .......... .......... .......... .......... 77%  121M 0s
+  6600K .......... .......... .......... .......... .......... 78% 90.2M 0s
+  6650K .......... .......... .......... .......... .......... 78%  104M 0s
+  6700K .......... .......... .......... .......... .......... 79%  115M 0s
+  6750K .......... .......... .......... .......... .......... 80% 88.7M 0s
+  6800K .......... .......... .......... .......... .......... 80%  121M 0s
+  6850K .......... .......... .......... .......... .......... 81% 91.3M 0s
+  6900K .......... .......... .......... .......... .......... 81%  105M 0s
+  6950K .......... .......... .......... .......... .......... 82%  111M 0s
+  7000K .......... .......... .......... .......... .......... 83% 86.9M 0s
+  7050K .......... .......... .......... .......... .......... 83%  861K 0s
+  7100K .......... .......... .......... .......... .......... 84%  122M 0s
+  7150K .......... .......... .......... .......... .......... 84%  190M 0s
+  7200K .......... .......... .......... .......... .......... 85%  152M 0s
+  7250K .......... .......... .......... .......... .......... 85%  110M 0s
+  7300K .......... .......... .......... .......... .......... 86%  113M 0s
+  7350K .......... .......... .......... .......... .......... 87% 60.4M 0s
+  7400K .......... .......... .......... .......... .......... 87%  193M 0s
+  7450K .......... .......... .......... .......... .......... 88%  142M 0s
+  7500K .......... .......... .......... .......... .......... 88%  112M 0s
+  7550K .......... .......... .......... .......... .......... 89%  158M 0s
+  7600K .......... .......... .......... .......... .......... 90% 67.8M 0s
+  7650K .......... .......... .......... .......... .......... 90%  161M 0s
+  7700K .......... .......... .......... .......... .......... 91%  104M 0s
+  7750K .......... .......... .......... .......... .......... 91%  115M 0s
+  7800K .......... .......... .......... .......... .......... 92%  109M 0s
+  7850K .......... .......... .......... .......... .......... 93% 58.4M 0s
+  7900K .......... .......... .......... .......... .......... 93% 62.1M 0s
+  7950K .......... .......... .......... .......... .......... 94%  910K 0s
+  8000K .......... .......... .......... .......... .......... 94%  236M 0s
+  8050K .......... .......... .......... .......... .......... 95%  101M 0s
+  8100K .......... .......... .......... .......... .......... 95%  158M 0s
+  8150K .......... .......... .......... .......... .......... 96% 62.1M 0s
+  8200K .......... .......... .......... .......... .......... 97%  116M 0s
+  8250K .......... .......... .......... .......... .......... 97%  171M 0s
+  8300K .......... .......... .......... .......... .......... 98% 63.4M 0s
+  8350K .......... .......... .......... .......... .......... 98% 94.6M 0s
+  8400K .......... .......... .......... .......... .......... 99%  116M 0s
+  8450K .......... .......... .......... ..........           100%  137M=1.3s
+
+2026-09-25 11:55:07 (6.51 MB/s) - 'mirror2/design-earth.org/files/download/Ghosn+Jazairy_Hassi Messaoud_NG6.pdf' saved [8693931/8693931]
+
+--2026-09-25 11:55:07--  https://design-earth.org/files/gimgs/th-107_2011_Geographies%20of%20Trash_JAE.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 32518 (32K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-107_2011_Geographies of Trash_JAE.jpg'
+
+     0K .......... .......... .......... .                    100% 31.0M=0.001s
+
+2026-09-25 11:55:07 (31.0 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-107_2011_Geographies of Trash_JAE.jpg' saved [32518/32518]
+
+--2026-09-25 11:55:07--  http://design-earth.org/files/download/Ghosn+Jazairy_Geographies%20of%20Trash_JAE.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/files/download/Ghosn+Jazairy_Geographies%20of%20Trash_JAE.pdf [following]
+--2026-09-25 11:55:07--  https://design-earth.org/files/download/Ghosn+Jazairy_Geographies%20of%20Trash_JAE.pdf
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5323555 (5.1M) [application/pdf]
+Saving to: 'mirror2/design-earth.org/files/download/Ghosn+Jazairy_Geographies of Trash_JAE.pdf'
+
+     0K .......... .......... .......... .......... ..........  0%  734K 7s
+    50K .......... .......... .......... .......... ..........  1%  750K 7s
+   100K .......... .......... .......... .......... ..........  2%  962K 6s
+   150K .......... .......... .......... .......... ..........  3% 8.57M 5s
+   200K .......... .......... .......... .......... ..........  4% 5.75M 4s
+   250K .......... .......... .......... .......... ..........  5% 10.3M 3s
+   300K .......... .......... .......... .......... ..........  6% 1.12M 3s
+   350K .......... .......... .......... .......... ..........  7% 16.5M 3s
+   400K .......... .......... .......... .......... ..........  8% 25.3M 3s
+   450K .......... .......... .......... .......... ..........  9% 25.6M 2s
+   500K .......... .......... .......... .......... .......... 10% 11.4M 2s
+   550K .......... .......... .......... .......... .......... 11%  992K 2s
+   600K .......... .......... .......... .......... .......... 12% 98.0M 2s
+   650K .......... .......... .......... .......... .......... 13% 72.2M 2s
+   700K .......... .......... .......... .......... .......... 14% 55.1M 2s
+   750K .......... .......... .......... .......... .......... 15% 36.8M 2s
+   800K .......... .......... .......... .......... .......... 16% 87.2M 2s
+   850K .......... .......... .......... .......... .......... 17% 54.2M 2s
+   900K .......... .......... .......... .......... .......... 18%  125M 1s
+   950K .......... .......... .......... .......... .......... 19% 49.7M 1s
+  1000K .......... .......... .......... .......... .......... 20% 8.55M 1s
+  1050K .......... .......... .......... .......... .......... 21%  987K 1s
+  1100K .......... .......... .......... .......... .......... 22%  124M 1s
+  1150K .......... .......... .......... .......... .......... 23% 66.7M 1s
+  1200K .......... .......... .......... .......... .......... 24%  186M 1s
+  1250K .......... .......... .......... .......... .......... 25% 54.5M 1s
+  1300K .......... .......... .......... .......... .......... 25%  102M 1s
+  1350K .......... .......... .......... .......... .......... 26%  136M 1s
+  1400K .......... .......... .......... .......... .......... 27%  179M 1s
+  1450K .......... .......... .......... .......... .......... 28%  110M 1s
+  1500K .......... .......... .......... .......... .......... 29% 97.2M 1s
+  1550K .......... .......... .......... .......... .......... 30%  124M 1s
+  1600K .......... .......... .......... .......... .......... 31% 94.9M 1s
+  1650K .......... .......... .......... .......... .......... 32%  106M 1s
+  1700K .......... .......... .......... .......... .......... 33% 94.9M 1s
+  1750K .......... .......... .......... .......... .......... 34%  204M 1s
+  1800K .......... .......... .......... .......... .......... 35%  241M 1s
+  1850K .......... .......... .......... .......... .......... 36% 1.27M 1s
+  1900K .......... .......... .......... .......... .......... 37% 77.9M 1s
+  1950K .......... .......... .......... .......... .......... 38%  103M 1s
+  2000K .......... .......... .......... .......... .......... 39%  124M 1s
+  2050K .......... .......... .......... .......... .......... 40%  126M 1s
+  2100K .......... .......... .......... .......... .......... 41% 3.05M 1s
+  2150K .......... .......... .......... .......... .......... 42% 64.7M 1s
+  2200K .......... .......... .......... .......... .......... 43%  102M 1s
+  2250K .......... .......... .......... .......... .......... 44%  225M 1s
+  2300K .......... .......... .......... .......... .......... 45%  143M 1s
+  2350K .......... .......... .......... .......... .......... 46%  184M 1s
+  2400K .......... .......... .......... .......... .......... 47%  100M 0s
+  2450K .......... .......... .......... .......... .......... 48%  130M 0s
+  2500K .......... .......... .......... .......... .......... 49%  114M 0s
+  2550K .......... .......... .......... .......... .......... 50% 80.4M 0s
+  2600K .......... .......... .......... .......... .......... 50%  231M 0s
+  2650K .......... .......... .......... .......... .......... 51%  120M 0s
+  2700K .......... .......... .......... .......... .......... 52%  144M 0s
+  2750K .......... .......... .......... .......... .......... 53% 95.2M 0s
+  2800K .......... .......... .......... .......... .......... 54%  162M 0s
+  2850K .......... .......... .......... .......... .......... 55% 84.5M 0s
+  2900K .......... .......... .......... .......... .......... 56%  132M 0s
+  2950K .......... .......... .......... .......... .......... 57%  134M 0s
+  3000K .......... .......... .......... .......... .......... 58%  138M 0s
+  3050K .......... .......... .......... .......... .......... 59%  921K 0s
+  3100K .......... .......... .......... .......... .......... 60% 54.9M 0s
+  3150K .......... .......... .......... .......... .......... 61% 92.6M 0s
+  3200K .......... .......... .......... .......... .......... 62% 85.2M 0s
+  3250K .......... .......... .......... .......... .......... 63%  102M 0s
+  3300K .......... .......... .......... .......... .......... 64%  206M 0s
+  3350K .......... .......... .......... .......... .......... 65% 67.1M 0s
+  3400K .......... .......... .......... .......... .......... 66% 42.7M 0s
+  3450K .......... .......... .......... .......... .......... 67%  113M 0s
+  3500K .......... .......... .......... .......... .......... 68%  106M 0s
+  3550K .......... .......... .......... .......... .......... 69% 86.3M 0s
+  3600K .......... .......... .......... .......... .......... 70%  142M 0s
+  3650K .......... .......... .......... .......... .......... 71%  119M 0s
+  3700K .......... .......... .......... .......... .......... 72% 80.3M 0s
+  3750K .......... .......... .......... .......... .......... 73% 86.5M 0s
+  3800K .......... .......... .......... .......... .......... 74%  143M 0s
+  3850K .......... .......... .......... .......... .......... 75%  165M 0s
+  3900K .......... .......... .......... .......... .......... 75%  221M 0s
+  3950K .......... .......... .......... .......... .......... 76%  168M 0s
+  4000K .......... .......... .......... .......... .......... 77%  174M 0s
+  4050K .......... .......... .......... .......... .......... 78% 19.5M 0s
+  4100K .......... .......... .......... .......... .......... 79% 64.1M 0s
+  4150K .......... .......... .......... .......... .......... 80% 78.3M 0s
+  4200K .......... .......... .......... .......... .......... 81%  117M 0s
+  4250K .......... .......... .......... .......... .......... 82%  133M 0s
+  4300K .......... .......... .......... .......... .......... 83% 81.5M 0s
+  4350K .......... .......... .......... .......... .......... 84% 58.7M 0s
+  4400K .......... .......... .......... .......... .......... 85%  174M 0s
+  4450K .......... .......... .......... .......... .......... 86%  170M 0s
+  4500K .......... .......... .......... .......... .......... 87%  107M 0s
+  4550K .......... .......... .......... .......... .......... 88% 74.5M 0s
+  4600K .......... .......... .......... .......... .......... 89%  100M 0s
+  4650K .......... .......... .......... .......... .......... 90% 78.2M 0s
+  4700K .......... .......... .......... .......... .......... 91% 88.5M 0s
+  4750K .......... .......... .......... .......... .......... 92% 88.9M 0s
+  4800K .......... .......... .......... .......... .......... 93% 23.1M 0s
+  4850K .......... .......... .......... .......... .......... 94% 93.2M 0s
+  4900K .......... .......... .......... .......... .......... 95%  225M 0s
+  4950K .......... .......... .......... .......... .......... 96%  209M 0s
+  5000K .......... .......... .......... .......... .......... 97% 1.50M 0s
+  5050K .......... .......... .......... .......... .......... 98% 52.5M 0s
+  5100K .......... .......... .......... .......... .......... 99%  151M 0s
+  5150K .......... .......... .......... .......... ........  100%  143M=0.6s
+
+2026-09-25 11:55:08 (9.15 MB/s) - 'mirror2/design-earth.org/files/download/Ghosn+Jazairy_Geographies of Trash_JAE.pdf' saved [5323555/5323555]
+
+--2026-09-25 11:55:09--  https://design-earth.org/files/gimgs/th-106_Ghosn+Jazairy_2014_A%20Geographic%20Stroll_MONU_Page_1.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26079 (25K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-106_Ghosn+Jazairy_2014_A Geographic Stroll_MONU_Page_1.jpg'
+
+     0K .......... .......... .....                           100% 36.4M=0.001s
+
+2026-09-25 11:55:09 (36.4 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-106_Ghosn+Jazairy_2014_A Geographic Stroll_MONU_Page_1.jpg' saved [26079/26079]
+
+--2026-09-25 11:55:09--  https://design-earth.org/files/gimgs/th-67_perspecta.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8224 (8.0K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-67_perspecta.jpg'
+
+     0K ........                                              100% 25.7M=0s
+
+2026-09-25 11:55:09 (25.7 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-67_perspecta.jpg' saved [8224/8224]
+
+--2026-09-25 11:55:10--  https://design-earth.org/files/gimgs/th-70_2011_ScalesoftheEarth.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8833 (8.6K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-70_2011_ScalesoftheEarth.jpg'
+
+     0K ........                                              100% 28.3M=0s
+
+2026-09-25 11:55:10 (28.3 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-70_2011_ScalesoftheEarth.jpg' saved [8833/8833]
+
+--2026-09-25 11:55:10--  https://design-earth.org/files/gimgs/th-49_2010_Energy%20as%20Spatial%20Project_NG2.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10503 (10K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-49_2010_Energy as Spatial Project_NG2.jpg'
+
+     0K ..........                                            100% 35.2M=0s
+
+2026-09-25 11:55:11 (35.2 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-49_2010_Energy as Spatial Project_NG2.jpg' saved [10503/10503]
+
+--2026-09-25 11:55:11--  https://design-earth.org/files/gimgs/th-17_2009_An%20Interview%20with%20Bruno%20Latour_NG0_Page_1.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4793 (4.7K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-17_2009_An Interview with Bruno Latour_NG0_Page_1.jpg'
+
+     0K ....                                                  100% 2.03G=0s
+
+2026-09-25 11:55:11 (2.03 GB/s) - 'mirror2/design-earth.org/files/gimgs/th-17_2009_An Interview with Bruno Latour_NG0_Page_1.jpg' saved [4793/4793]
+
+--2026-09-25 11:55:11--  https://design-earth.org/files/gimgs/th-17_Ghosn_2009_An%20Interview%20with%20Bruno%20Latour_NG0_Page_2_v2.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12712 (12K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/th-17_Ghosn_2009_An Interview with Bruno Latour_NG0_Page_2_v2.jpg'
+
+     0K .......... ..                                         100% 29.7M=0s
+
+2026-09-25 11:55:12 (29.7 MB/s) - 'mirror2/design-earth.org/files/gimgs/th-17_Ghosn_2009_An Interview with Bruno Latour_NG0_Page_2_v2.jpg' saved [12712/12712]
+
+--2026-09-25 11:55:12--  https://design-earth.org/files/gimgs/242_PHOTO-2020-10-30-10-50-09.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 114060 (111K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/242_PHOTO-2020-10-30-10-50-09.jpg'
+
+     0K .......... .......... .......... .......... .......... 44%  816K 0s
+    50K .......... .......... .......... .......... .......... 89%  807K 0s
+   100K .......... .                                          100% 71.1M=0.1s
+
+2026-09-25 11:55:12 (903 KB/s) - 'mirror2/design-earth.org/files/gimgs/242_PHOTO-2020-10-30-10-50-09.jpg' saved [114060/114060]
+
+--2026-09-25 11:55:12--  https://design-earth.org/files/gimgs/241_8f5caacbb0e9bbb6a9c04bbf9562844a.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 272745 (266K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/241_8f5caacbb0e9bbb6a9c04bbf9562844a.jpg'
+
+     0K .......... .......... .......... .......... .......... 18%  804K 0s
+    50K .......... .......... .......... .......... .......... 37%  791K 0s
+   100K .......... .......... .......... .......... .......... 56% 65.9M 0s
+   150K .......... .......... .......... .......... .......... 75%  816K 0s
+   200K .......... .......... .......... .......... .......... 93% 43.8M 0s
+   250K .......... ......                                     100% 63.9M=0.2s
+
+2026-09-25 11:55:13 (1.38 MB/s) - 'mirror2/design-earth.org/files/gimgs/241_8f5caacbb0e9bbb6a9c04bbf9562844a.jpg' saved [272745/272745]
+
+--2026-09-25 11:55:13--  https://design-earth.org/files/gimgs/240_ISF-1888_HR.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 78614 (77K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/240_ISF-1888_HR.jpg'
+
+     0K .......... .......... .......... .......... .......... 65%  796K 0s
+    50K .......... .......... ......                          100% 70.8M=0.06s
+
+2026-09-25 11:55:13 (1.19 MB/s) - 'mirror2/design-earth.org/files/gimgs/240_ISF-1888_HR.jpg' saved [78614/78614]
+
+--2026-09-25 11:55:14--  https://design-earth.org/files/gimgs/225_DE_Pacific%20Aquarium%202016%20-%20%C3%82%C2%A9%20Triennale%20Milano_sm.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-09-25 11:55:14 ERROR 404: Not Found.
+
+--2026-09-25 11:55:14--  http://design-earth.org/projects/pacific-aquarium/
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/projects/pacific-aquarium/ [following]
+--2026-09-25 11:55:14--  https://design-earth.org/projects/pacific-aquarium/
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3229 (3.2K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/pacific-aquarium/index.html'
+
+     0K ...                                                   100% 1.67G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:55:15 (1.67 GB/s) - 'mirror2/design-earth.org/projects/pacific-aquarium/index.html' saved [9803]
+
+--2026-09-25 11:55:15--  https://design-earth.org/files/gimgs/224_00296_042.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 60644 (59K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/224_00296_042.jpg'
+
+     0K .......... .......... .......... .......... .......... 84%  747K 0s
+    50K .........                                             100% 11.4M=0.07s
+
+2026-09-25 11:55:15 (875 KB/s) - 'mirror2/design-earth.org/files/gimgs/224_00296_042.jpg' saved [60644/60644]
+
+--2026-09-25 11:55:15--  http://design-earth.org/projects/cosmorama/
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/projects/cosmorama/ [following]
+--2026-09-25 11:55:16--  https://design-earth.org/projects/cosmorama/
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4689 (4.6K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/cosmorama/index.html'
+
+     0K ....                                                  100%  932M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:55:16 (932 MB/s) - 'mirror2/design-earth.org/projects/cosmorama/index.html' saved [12996]
+
+--2026-09-25 11:55:16--  https://design-earth.org/files/gimgs/223_20190324_152051.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 36564 (36K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/223_20190324_152051.jpg'
+
+     0K .......... .......... .......... .....                100% 2.66M=0.01s
+
+2026-09-25 11:55:16 (2.66 MB/s) - 'mirror2/design-earth.org/files/gimgs/223_20190324_152051.jpg' saved [36564/36564]
+
+--2026-09-25 11:55:17--  http://design-earth.org/projects/julia-the-submerged-volcano/
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/projects/julia-the-submerged-volcano/ [following]
+--2026-09-25 11:55:17--  https://design-earth.org/projects/julia-the-submerged-volcano/
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3208 (3.1K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/julia-the-submerged-volcano/index.html'
+
+     0K ...                                                   100% 1.24G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:55:17 (1.24 GB/s) - 'mirror2/design-earth.org/projects/julia-the-submerged-volcano/index.html' saved [9349]
+
+--2026-09-25 11:55:17--  https://design-earth.org/files/gimgs/219_C60A4653.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 56934 (56K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/219_C60A4653.jpg'
+
+     0K .......... .......... .......... .......... .......... 89%  756K 0s
+    50K .....                                                 100% 21.6M=0.07s
+
+2026-09-25 11:55:18 (837 KB/s) - 'mirror2/design-earth.org/files/gimgs/219_C60A4653.jpg' saved [56934/56934]
+
+--2026-09-25 11:55:18--  https://design-earth.org/files/gimgs/211_24_%20US%20Pavilion%202018.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84454 (82K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/211_24_ US Pavilion 2018.jpg'
+
+     0K .......... .......... .......... .......... .......... 60%  724K 0s
+    50K .......... .......... .......... ..                   100% 6.49M=0.07s
+
+2026-09-25 11:55:18 (1.09 MB/s) - 'mirror2/design-earth.org/files/gimgs/211_24_ US Pavilion 2018.jpg' saved [84454/84454]
+
+--2026-09-25 11:55:18--  https://design-earth.org/files/gimgs/193_056B8804.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 56524 (55K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/193_056B8804.jpg'
+
+     0K .......... .......... .......... .......... .......... 90%  776K 0s
+    50K .....                                                 100% 99.2G=0.06s
+
+2026-09-25 11:55:19 (856 KB/s) - 'mirror2/design-earth.org/files/gimgs/193_056B8804.jpg' saved [56524/56524]
+
+--2026-09-25 11:55:19--  https://design-earth.org/files/gimgs/189_img-(6).jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 86583 (85K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/189_img-(6).jpg'
+
+     0K .......... .......... .......... .......... .......... 59%  740K 0s
+    50K .......... .......... .......... ....                 100% 7.39M=0.07s
+
+2026-09-25 11:55:19 (1.14 MB/s) - 'mirror2/design-earth.org/files/gimgs/189_img-(6).jpg' saved [86583/86583]
+
+--2026-09-25 11:55:20--  https://design-earth.org/files/gimgs/181_DE_PA_Athens_2.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57123 (56K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/181_DE_PA_Athens_2.jpg'
+
+     0K .......... .......... .......... .......... .......... 89%  801K 0s
+    50K .....                                                 100% 28.7M=0.06s
+
+2026-09-25 11:55:20 (891 KB/s) - 'mirror2/design-earth.org/files/gimgs/181_DE_PA_Athens_2.jpg' saved [57123/57123]
+
+--2026-09-25 11:55:20--  https://design-earth.org/files/gimgs/154_OAT2016_OnResidence_Contribution_33_HighRes-137.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75463 (74K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/154_OAT2016_OnResidence_Contribution_33_HighRes-137.jpg'
+
+     0K .......... .......... .......... .......... .......... 67%  782K 0s
+    50K .......... .......... ...                             100% 11.6M=0.07s
+
+2026-09-25 11:55:21 (1.09 MB/s) - 'mirror2/design-earth.org/files/gimgs/154_OAT2016_OnResidence_Contribution_33_HighRes-137.jpg' saved [75463/75463]
+
+--2026-09-25 11:55:21--  https://design-earth.org/files/gimgs/153_NSM_HE_00-111.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 56395 (55K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/153_NSM_HE_00-111.jpg'
+
+     0K .......... .......... .......... .......... .......... 90%  784K 0s
+    50K .....                                                 100% 96.8G=0.06s
+
+2026-09-25 11:55:21 (864 KB/s) - 'mirror2/design-earth.org/files/gimgs/153_NSM_HE_00-111.jpg' saved [56395/56395]
+
+--2026-09-25 11:55:21--  http://design-earth.org/projects/after-oil/
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/projects/after-oil/ [following]
+--2026-09-25 11:55:22--  https://design-earth.org/projects/after-oil/
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2906 (2.8K) [text/html]
+Saving to: 'mirror2/design-earth.org/projects/after-oil/index.html'
+
+     0K ..                                                    100% 1.13G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2026-09-25 11:55:22 (1.13 GB/s) - 'mirror2/design-earth.org/projects/after-oil/index.html' saved [9112]
+
+--2026-09-25 11:55:22--  https://design-earth.org/files/gimgs/152_Kuwait-Pavilion_Biennale2016_MED_08.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 106377 (104K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/152_Kuwait-Pavilion_Biennale2016_MED_08.jpg'
+
+     0K .......... .......... .......... .......... .......... 48%  734K 0s
+    50K .......... .......... .......... .......... .......... 96%  762K 0s
+   100K ...                                                   100% 44.9M=0.1s
+
+2026-09-25 11:55:23 (776 KB/s) - 'mirror2/design-earth.org/files/gimgs/152_Kuwait-Pavilion_Biennale2016_MED_08.jpg' saved [106377/106377]
+
+--2026-09-25 11:55:23--  https://design-earth.org/files/gimgs/151_DE_NeckoftheMoon_%C3%82%C2%A9%20David%20Sundberg%20:Esto.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-09-25 11:55:23 ERROR 404: Not Found.
+
+--2026-09-25 11:55:23--  http://design-earth.org/projects/neck-of-the-moon/
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://design-earth.org/projects/neck-of-the-moon/ [following]
+--2026-09-25 11:55:24--  https://design-earth.org/projects/neck-of-the-moon/
+Connecting to design-earth.org (design-earth.org)|192.124.249.15|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-09-25 11:55:24 ERROR 404: Not Found.
+
+--2026-09-25 11:55:24--  https://design-earth.org/files/gimgs/37_Christina%20Kull_4.jpg
+Reusing existing connection to design-earth.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 111272 (109K) [image/jpeg]
+Saving to: 'mirror2/design-earth.org/files/gimgs/37_Christina Kull_4.jpg'
+
+     0K .......... .......... .......... .......... .......... 46%  744K 0s
+    50K .......... .......... .......... .......... .......... 92% 3.95M 0s
+   100K ........                                              100% 4.23M=0.08s
+
+2026-09-25 11:55:25 (1.30 MB/s) - 'mirror2/design-earth.org/files/gimgs/37_Christina Kull_4.jpg' saved [111272/111272]
+
+FINISHED --2026-09-25 11:55:25--
+Total wall clock time: 1m 48s
+Downloaded: 235 files, 32M in 7.0s (4.57 MB/s)
+Converting links in mirror2/design-earth.org/publications/cosmorama--dimensions-of-citizenship/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/publications/leviathan-in-the-aquarium/index.html... 46.
+46-0
+Converting links in mirror2/design-earth.org/projects/neck-of-the-moon-hyperreal/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/publications/uncommon-planet--la/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/publications/geographies-of-trash/index.html... 47.
+47-0
+Converting links in mirror2/design-earth.org/publications/new-geographies/index.html... 48.
+48-0
+Converting links in mirror2/design-earth.org/exhibitions/cosmorama--wrightwood-659/index.html... 33.
+33-0
+Converting links in mirror2/design-earth.org/exhibitions/trash-peaks/index.html... 16.
+16-0
+Converting links in mirror2/design-earth.org/projects/hassi-messaoud-oil-urbanism/index.html... 32.
+32-0
+Converting links in mirror2/design-earth.org/publications/the-great-waste-state/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/publications/apart-we-are-together--thresholds/index.html... 46.
+46-0
+Converting links in mirror2/design-earth.org/publications/the-anthropocene-chamber--designing-landscape-architectural-education/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/projects/apart-we-are-together/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/publications/gaia-global-circus-a-climate-tragicomedy/index.html... 46.
+46-0
+Converting links in mirror2/design-earth.org/publications/new-geographies-02/index.html... 46.
+46-0
+Converting links in mirror2/design-earth.org/exhibitions/pacific-aquarium--oslo-architecture-triennale/index.html... 17.
+17-0
+Converting links in mirror2/design-earth.org/publications/carbon-re-form--log/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/projects/after-oil/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/exhibitions/geostories--cooper-union/index.html... 16.
+16-0
+Converting links in mirror2/design-earth.org/publications/undermined-planet--architectural-review/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/projects/the-planet-after-geoengineering/index.html... 16.
+16-0
+Converting links in mirror2/design-earth.org/publications/a-flooded-thirsty-world/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/exhibitions/after-oil--sursock-museum/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/publications/where-are-the-missing-spaces/index.html... 46.
+46-0
+Converting links in mirror2/design-earth.org/exhibitions/geographies-of-trash/index.html... 32.
+32-0
+Converting links in mirror2/design-earth.org/projects/cloud-culture-city/index.html... 35.
+35-0
+Converting links in mirror2/design-earth.org/projects/a-space-oddity/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/publications/index.html... 73.
+73-0
+Converting links in mirror2/design-earth.org/publications/geographies-of-trash/2/index.html... 48.
+48-0
+Converting links in mirror2/design-earth.org/publications/of-oil-and-ice--ambiguous-territory/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/publications/georama-of-trash/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/publications/airpocalypse-a-short-geostory/index.html... 47.
+47-0
+Converting links in mirror2/design-earth.org/exhibitions/geostories/index.html... 15.
+15-0
+Converting links in mirror2/design-earth.org/publications/8mile-baseline-a-dialectical-image-of-the-urban-c/index.html... 47.
+47-0
+Converting links in mirror2/design-earth.org/projects/georama-of-trash/index.html... 35.
+35-0
+Converting links in mirror2/design-earth.org/projects/towers-on-wire/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/exhibitions/climate-inheritance--bauhaus-dessau/index.html... 14.
+14-0
+Converting links in mirror2/design-earth.org/publications/cosmorama--new-geographies/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/projects/sea-our-land/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/publications/neck-of-the-moon/index.html... 47.
+47-0
+Converting links in mirror2/design-earth.org/projects/composting-worlds/index.html... 15.
+15-0
+Converting links in mirror2/design-earth.org/publications/trash-peaks--eco-visionaries/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/publications/a-geographic-stroll-around-the-horizon--monu/index.html... 46.
+46-0
+Converting links in mirror2/design-earth.org/exhibitions/volcano-dreams--eth-zuerich/index.html... 12.
+12-0
+Converting links in mirror2/design-earth.org/publications/hassi-messaoud-oil-urbanism/index.html... 47.
+47-0
+Converting links in mirror2/design-earth.org/projects/pacific-aquarium/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/exhibitions/geographic-leviathan--onassis-cultural-center/index.html... 17.
+17-0
+Converting links in mirror2/design-earth.org/publications/climate-inheritance--perspecta/index.html... 9.
+9-0
+Converting links in mirror2/design-earth.org/projects/trash-peaks/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/exhibitions/cosmorama--venice-architecture-biennale/index.html... 17.
+17-0
+Converting links in mirror2/design-earth.org/exhibitions/index.html... 41.
+41-0
+Converting links in mirror2/design-earth.org/xml/index.html... 12.
+12-0
+Converting links in mirror2/design-earth.org/projects/santa-claus-planetary-garden/index.html... 4.
+4-0
+Converting links in mirror2/design-earth.org/project/the-belly-of-a-mountain/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/project/a-geographic-stroll-around-the-horizon/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/projects/elephant-in-the-room/index.html... 16.
+16-0
+Converting links in mirror2/design-earth.org/publications/elephant-in-the-room--jae/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/exhibitions/pacific-aquarium--milano-triennale/index.html... 28.
+28-0
+Converting links in mirror2/design-earth.org/publications/the-planet-after-geoengineering/index.html... 14.
+14-0
+Converting links in mirror2/design-earth.org/exhibitions/pacific-aquarium--times-museum/index.html... 17.
+17-0
+Converting links in mirror2/design-earth.org/index.html... 12.
+12-0
+Converting links in mirror2/design-earth.org/exhibitions/after-oil/index.html... 17.
+17-0
+Converting links in mirror2/design-earth.org/projects/blue-marble-circus/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/publications/territories-of-oil-the-trans-arabian-pipeline/index.html... 47.
+47-0
+Converting links in mirror2/design-earth.org/exhibitions/julia-the-submerged-volcano--le-lieu-unique/index.html... 29.
+29-0
+Converting links in mirror2/design-earth.org/publications/design-earth--impermanence/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/projects/ocean-metabolism/index.html... 35.
+35-0
+Converting links in mirror2/design-earth.org/publications/new-geographies-4/index.html... 46.
+46-0
+Converting links in mirror2/design-earth.org/exhibitions/planet-after-geoengineering--venice-biennale/index.html... 14.
+14-0
+Converting links in mirror2/design-earth.org/projects/the-atmosphere-is-dead-long-live-the-atmosphere/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/publications/geography-and-oil-the-territory-of-externalities/index.html... 45.
+45-0
+Converting links in mirror2/design-earth.org/projects/cosmorama/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/publications/a-microcosm-on-a-sheet-of-paper/index.html... 13.
+13-0
+Converting links in mirror2/design-earth.org/projects/julia-the-submerged-volcano/index.html... 35.
+35-0
+Converting links in mirror2/design-earth.org/projects/of-oil-and-ice/index.html... 39.
+39-0
+Converting links in mirror2/design-earth.org/publications/geostories/index.html... 12.
+12-0
+Converting links in mirror2/design-earth.org/projects/index.html... 55.
+55-0
+Converting links in mirror2/design-earth.org/ndxzsite/designearth/base.css@v=2.1.5.css... nothing to do.
+Converting links in mirror2/design-earth.org/ndxzsite/designearth/reset.css@v=2.1.5.css... nothing to do.
+Converting links in mirror2/design-earth.org/ndxzsite/designearth/style.css@v=2.1.5.css... nothing to do.
+Converting links in mirror2/design-earth.org/ndxzsite/css/slideshow.css@v=2.1.5.css... 2.
+2-0
+Converted links in 81 files in 0.2 seconds.

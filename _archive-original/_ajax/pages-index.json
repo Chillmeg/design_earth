@@ -1,0 +1,670 @@
+{
+ "exhibitions/after-oil/index.html": {
+  "ids": [
+   "1530",
+   "1532",
+   "1534",
+   "1533",
+   "1531"
+  ],
+  "preload": [
+   "152_Kuwait-Pavilion_Biennale2016_MED_08.jpg",
+   "152_Kuwait-Pavilion_Biennale2016_MED_19.jpg",
+   "152_Kuwait-Pavilion_Biennale2016_PRINT_22_PSedit.jpg",
+   "152_Kuwait-Pavilion_Biennale2016_MED_20.jpg",
+   "152_Kuwait-Pavilion_Biennale2016_MED_14.jpg"
+  ]
+ },
+ "exhibitions/after-oil--sursock-museum/index.html": {
+  "preload": [
+   "153_NSM_HE_00-111.jpg"
+  ]
+ },
+ "exhibitions/climate-inheritance--bauhaus-dessau/index.html": {
+  "ids": [
+   "1658",
+   "1659",
+   "1657"
+  ],
+  "preload": [
+   "241_8f5caacbb0e9bbb6a9c04bbf9562844a.jpg",
+   "241_73cc3e96e7297762bb1129dc650c9341.jpg",
+   "241_3c05a9eed343c81108f22826ec36161d.jpg"
+  ]
+ },
+ "exhibitions/cosmorama--venice-architecture-biennale/index.html": {
+  "ids": [
+   "1503",
+   "1505",
+   "1504",
+   "1506",
+   "1502"
+  ],
+  "preload": [
+   "211_24_ US Pavilion 2018.jpg",
+   "211_00219_052.jpg",
+   "211_00219_055.jpg",
+   "211_DSC_5644.jpg",
+   "211_00219_053.jpg"
+  ]
+ },
+ "exhibitions/cosmorama--wrightwood-659/index.html": {
+  "ids": [
+   "1491",
+   "1492",
+   "1493",
+   "1490"
+  ],
+  "preload": [
+   "224_00296_042.jpg",
+   "224_00296_040.jpg",
+   "224_00296_041.jpg",
+   "224_00296_052.jpg"
+  ]
+ },
+ "exhibitions/geographic-leviathan--onassis-cultural-center/index.html": {
+  "ids": [
+   "1526",
+   "1525"
+  ],
+  "preload": [
+   "181_DE_PA_Athens_2.jpg",
+   "181_DE_PA_Athens_1.jpg"
+  ]
+ },
+ "exhibitions/geographies-of-trash/index.html": {
+  "ids": [
+   "1541",
+   "1544",
+   "1542",
+   "1540",
+   "1543",
+   "1539"
+  ],
+  "preload": [
+   "37_Christina Kull_4.jpg",
+   "37_Christina Kull_O.jpg",
+   "37_Christina Kull_6.jpg",
+   "37_Christina Kull_3.jpg",
+   "37_Christina Kull_7.jpg",
+   "37_2012-11-11 20_09_45 HDR.jpg"
+  ]
+ },
+ "exhibitions/geostories/index.html": {
+  "ids": [
+   "1536",
+   "1538",
+   "1537",
+   "1535"
+  ],
+  "preload": [
+   "151_DE_NeckoftheMoon_© David Sundberg :Esto.jpg",
+   "151_DESIGNEARTH_NeckoftheMoon_TwoCosmograms.jpg",
+   "151_IMG_4115.jpg",
+   "151_11.jpg"
+  ]
+ },
+ "exhibitions/geostories--cooper-union/index.html": {
+  "ids": [
+   "1516",
+   "1515",
+   "1513",
+   "1514",
+   "1512",
+   "1511",
+   "1510",
+   "1509",
+   "1508",
+   "1507"
+  ],
+  "preload": [
+   "193_056B8804.jpg",
+   "193_056B8796.jpg",
+   "193_056B8803.jpg",
+   "193_056B8792.jpg",
+   "193_056B8785.jpg",
+   "193_056B8781.jpg",
+   "193_056B8761.jpg",
+   "193_056B8664.jpg",
+   "193_056B8629.jpg",
+   "193_056B8615.jpg"
+  ]
+ },
+ "exhibitions/julia-the-submerged-volcano--le-lieu-unique/index.html": {
+  "preload": [
+   "223_20190324_152051.jpg"
+  ]
+ },
+ "exhibitions/pacific-aquarium--milano-triennale/index.html": {
+  "preload": [
+   "225_DE_Pacific Aquarium 2016 - © Triennale Milano_sm.jpg"
+  ]
+ },
+ "exhibitions/pacific-aquarium--oslo-architecture-triennale/index.html": {
+  "ids": [
+   "1528",
+   "1527"
+  ],
+  "preload": [
+   "154_OAT2016_OnResidence_Contribution_33_HighRes-137.jpg",
+   "154_OAT2016_OnResidence_Contribution_33_HighRes-135.jpg"
+  ]
+ },
+ "exhibitions/pacific-aquarium--times-museum/index.html": {
+  "ids": [
+   "1498",
+   "1499",
+   "1500",
+   "1497"
+  ],
+  "preload": [
+   "219_C60A4653.jpg",
+   "219_C60A4818.jpg",
+   "219_C60A4827.jpg",
+   "219_C60A4579.jpg"
+  ]
+ },
+ "exhibitions/planet-after-geoengineering--venice-biennale/index.html": {
+  "ids": [
+   "1640",
+   "1651",
+   "1652"
+  ],
+  "preload": [
+   "240_ISF-1888_HR.jpg",
+   "240_ISF-1884_HR.jpg",
+   "240_ISF-1908_HR.jpg"
+  ]
+ },
+ "exhibitions/trash-peaks/index.html": {
+  "ids": [
+   "1521",
+   "1518",
+   "1517",
+   "1519",
+   "1524",
+   "1522",
+   "1520"
+  ],
+  "preload": [
+   "189_img-(6).jpg",
+   "189_img-(2).jpg",
+   "189_img-(1).jpg",
+   "189_img-(3).jpg",
+   "189_img-(8).jpg",
+   "189_img-(7).jpg",
+   "189_img-(4).jpg"
+  ]
+ },
+ "exhibitions/volcano-dreams--eth-zuerich/index.html": {
+  "preload": [
+   "242_PHOTO-2020-10-30-10-50-09.jpg"
+  ]
+ },
+ "index.html": {
+  "preload": [
+   "1_Ghosn+Jazairy_2022_nomad_12_Design_Earth_2.jpg"
+  ]
+ },
+ "project/a-geographic-stroll-around-the-horizon/index.html": {
+  "ids": [
+   "1398",
+   "1397",
+   "1396",
+   "1395"
+  ],
+  "preload": [
+   "10_Rio_Render.jpg",
+   "10_Rio_Compass drawing.jpg",
+   "10_Rio_2.jpg",
+   "10_Rio_1.jpg"
+  ]
+ },
+ "project/the-belly-of-a-mountain/index.html": {
+  "ids": [
+   "1399",
+   "1400"
+  ],
+  "preload": [
+   "14_The Belly Of A Mountain_01_72dpi.jpg",
+   "14_The Belly Of a Mountain_02_72dpi.jpg"
+  ]
+ },
+ "projects/a-space-oddity/index.html": {
+  "ids": [
+   "1344",
+   "1343",
+   "1342",
+   "1341",
+   "1340"
+  ],
+  "preload": [
+   "139_40370_4.jpg",
+   "139_40370_3.jpg",
+   "139_40370_5.jpg",
+   "139_40370_2.jpg",
+   "139_40370_1.jpg"
+  ]
+ },
+ "projects/after-oil/index.html": {
+  "ids": [
+   "1276",
+   "1277",
+   "1273",
+   "1278",
+   "1279",
+   "1275",
+   "1274",
+   "1272",
+   "1271"
+  ],
+  "preload": [
+   "146_AO_Das Island 01.jpg",
+   "146_AO_Das Island 03.jpg",
+   "146_AO_Das island 02 copy.jpg",
+   "146_AO_Hormuz_3.jpg",
+   "146_AO_Hormuz_1.jpg",
+   "146_AO_Hormuz_2.jpg",
+   "146_AO_BUB_updated plan.jpg",
+   "146_AO_BUB_160326_Section.jpg",
+   "146_AO_BUB_160326_Axon.jpg"
+  ]
+ },
+ "projects/apart-we-are-together/index.html": {
+  "ids": [
+   "1481",
+   "1485",
+   "1480",
+   "1484",
+   "1478",
+   "1475",
+   "1474",
+   "1473",
+   "1471",
+   "1477",
+   "1482",
+   "1479",
+   "1476",
+   "1483"
+  ],
+  "preload": [
+   "131_view3.jpg",
+   "131_Plan_All_5-07.jpg",
+   "131_Plan_All_5-04.jpg",
+   "131_underwater 2.jpg",
+   "131_pacific coast with big snake.jpg",
+   "131_creation.jpg",
+   "131_broken diagram finally final neveragain ever.jpg",
+   "131_Drop city for final_final.jpg",
+   "131_eco VILLAGE ADDED TREE.jpg",
+   "131_view2.jpg",
+   "131_view1.jpg",
+   "131_Perspective_New3-01.jpg",
+   "131_Final Section.jpg",
+   "131_view4.jpg"
+  ]
+ },
+ "projects/blue-marble-circus/index.html": {
+  "ids": [
+   "1338",
+   "1337",
+   "1339"
+  ],
+  "preload": [
+   "184_BMC_1_elevation_plan.jpg",
+   "184_BMC_2_SECTION.jpg",
+   "184_BMC_3_WORMSEYE.jpg"
+  ]
+ },
+ "projects/cloud-culture-city/index.html": {
+  "preload": [
+   "102_CCC TEAM BOARD_UPDATED_sm.jpg"
+  ]
+ },
+ "projects/composting-worlds/index.html": {
+  "ids": [
+   "1633",
+   "1637",
+   "1634",
+   "1635",
+   "1636"
+  ],
+  "preload": [
+   "237_Filling Islands.jpg",
+   "237_Mouth of the River.jpg",
+   "237_Grounding Logan.jpg",
+   "237_Ghost Kitchens.jpg",
+   "237_Livestock.jpg"
+  ]
+ },
+ "projects/cosmorama/index.html": {
+  "ids": [
+   "1254",
+   "1247",
+   "1246",
+   "1249",
+   "1253",
+   "1248",
+   "1250",
+   "1251",
+   "1252"
+  ],
+  "preload": [
+   "210_DE_Cosmorama_1.jpg",
+   "210_DE_Cosmorama_2.jpg",
+   "210_DE_Cosmorama_3.jpg",
+   "210_DE_Cosmorama_4.jpg",
+   "210_DE_Cosmorama_5.jpg",
+   "210_DE_Cosmorama_6.jpg",
+   "210_DE_Cosmorama_7.jpg",
+   "210_DE_Cosmorama_8.jpg",
+   "210_DE_Cosmorama_9.jpg"
+  ]
+ },
+ "projects/elephant-in-the-room/index.html": {
+  "ids": [
+   "1632",
+   "1631"
+  ],
+  "preload": [
+   "236_DE_ElephantintheRoom2_sm.jpg",
+   "236_DE_ElephantintheRoom1_sm.jpg"
+  ]
+ },
+ "projects/georama-of-trash/index.html": {
+  "preload": [
+   "126_Georama of Trash_sm.jpg"
+  ]
+ },
+ "projects/julia-the-submerged-volcano/index.html": {
+  "preload": [
+   "222_DE_Julia_v2.jpg"
+  ]
+ },
+ "projects/neck-of-the-moon-hyperreal/index.html": {
+  "ids": [
+   "1386",
+   "1394",
+   "1393",
+   "1392",
+   "1391",
+   "1385",
+   "1389",
+   "1388",
+   "1387",
+   "1390"
+  ],
+  "preload": [
+   "137_00_Neck of the Moon_v5.jpg",
+   "137_06_Neck of the Moon_v5.jpg",
+   "137_07_Neck of the Moon_v5.jpg",
+   "137_08_Neck of the Moon_v5.jpg",
+   "137_09_Neck of the Moon_v5.jpg",
+   "137_02_Neck of the Moon_v5.jpg",
+   "137_04_Neck of the Moon_v5.jpg",
+   "137_05_Neck of the Moon_v5.jpg",
+   "137_01_Neck of the Moon_v5.jpg",
+   "137_10_Neck of the Moon_v5.jpg"
+  ]
+ },
+ "projects/ocean-metabolism/index.html": {
+  "preload": [
+   "129_Ocean Metabolism_sm.jpg"
+  ]
+ },
+ "projects/of-oil-and-ice/index.html": {
+  "ids": [
+   "1287",
+   "1288",
+   "1280",
+   "1281",
+   "1283",
+   "1282",
+   "1284",
+   "1285",
+   "1286"
+  ],
+  "preload": [
+   "180_DE_SB_01.jpg",
+   "180_DE_SB_05.jpg",
+   "180_DE_SB_02.jpg",
+   "180_DE_SB_03.jpg",
+   "180_DE_SB_06.jpg",
+   "180_DE_SB_04.jpg",
+   "180_DE_SB_07.jpg",
+   "180_DE_SB_08.jpg",
+   "180_DE_SB_09.jpg"
+  ]
+ },
+ "projects/pacific-aquarium/index.html": {
+  "ids": [
+   "1297",
+   "1290",
+   "1296",
+   "1295",
+   "1293",
+   "1292",
+   "1291",
+   "1294",
+   "1289"
+  ],
+  "preload": [
+   "148_Parliament of Refuges-01.jpg",
+   "148_Classified sediments_V4 2.jpg",
+   "148_Over-mining_v3.jpg",
+   "148_Robot Fish Colony-01.jpg",
+   "148_R1.jpg",
+   "148_Jellyfish.jpg",
+   "148_Deacidification_v2 copy.jpg",
+   "148_Marine Landfill.jpg",
+   "148_Below the Water Towers.jpg"
+  ]
+ },
+ "projects/santa-claus-planetary-garden/index.html": {
+  "ids": [
+   "1428",
+   "1430",
+   "1429"
+  ],
+  "preload": [
+   "115_EXTERNAL VIEW copy.jpg",
+   "115_FINAL PANEL 02 copy.jpg",
+   "115_FINAL PANEL 03 copy.jpg"
+  ]
+ },
+ "projects/sea-our-land/index.html": {
+  "ids": [
+   "1441",
+   "1438",
+   "1449",
+   "1450",
+   "1453",
+   "1457",
+   "1442",
+   "1439"
+  ],
+  "preload": [
+   "109_02_Sea Our Land.jpg",
+   "109_01_Sea Our Land.jpg",
+   "109_10_Sea Our Land.jpg",
+   "109_09_Sea Our Land.jpg",
+   "109_06_Sea Our Land.jpg",
+   "109_39_Sea Our Land.jpg",
+   "109_04_Sea Our Land.jpg",
+   "109_03_Sea Our Land.jpg"
+  ]
+ },
+ "projects/the-atmosphere-is-dead-long-live-the-atmosphere/index.html": {
+  "ids": [
+   "1404",
+   "1405"
+  ],
+  "preload": [
+   "104_Design Earth_The atmosphere is Dead_1.jpg",
+   "104_Design Earth_The Atmosphere is Dead_2_a.jpg"
+  ]
+ },
+ "projects/the-planet-after-geoengineering/index.html": {
+  "ids": [
+   "1601",
+   "1600",
+   "1599",
+   "1614",
+   "1604",
+   "1617",
+   "1618",
+   "1613",
+   "1615",
+   "1612",
+   "1610",
+   "1611",
+   "1619",
+   "1609",
+   "1605",
+   "1596",
+   "1597",
+   "1598",
+   "1603",
+   "1602",
+   "1616",
+   "1607",
+   "1606",
+   "1608",
+   "1620"
+  ],
+  "preload": [
+   "228_20210107_DE_VNC_compilation_70cm_high res9.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res6.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res7.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res8.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res10.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res11.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res13.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res12.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res14.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res15.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res16.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res17.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res18.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res20.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res19.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res2.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res3.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res4.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res5.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res23.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res21.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res22.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res24.jpg",
+   "228_20210107_DE_VNC_compilation_70cm_high res25.jpg"
+  ]
+ },
+ "projects/towers-on-wire/index.html": {
+  "ids": [
+   "1402",
+   "1401"
+  ],
+  "preload": [
+   "94_0777-1.jpg",
+   "94_0777-2.jpg"
+  ]
+ },
+ "projects/trash-peaks/index.html": {
+  "ids": [
+   "1333",
+   "1332",
+   "1331",
+   "1330",
+   "1329",
+   "1328"
+  ],
+  "preload": [
+   "188_DE_SEOUL_dwgs_Page_6_v6.jpg",
+   "188_DE_SEOUL_dwgs_Page_5_v6.jpg",
+   "188_DE_SEOUL_dwgs_Page_3_v6.jpg",
+   "188_DE_SEOUL_dwgs_Page_4_v6.jpg",
+   "188_DE_SEOUL_dwgs_Page_2_v6.jpg",
+   "188_DE_SEOUL_dwgs_Page_1_v3.jpg"
+  ]
+ },
+ "publications/geographies-of-trash/2/index.html": {
+  "ids": [
+   "549",
+   "532",
+   "534",
+   "530",
+   "551",
+   "550",
+   "553",
+   "533",
+   "540",
+   "535",
+   "536",
+   "538",
+   "542",
+   "555",
+   "539",
+   "556",
+   "543",
+   "554",
+   "547",
+   "544",
+   "545",
+   "546"
+  ],
+  "preload": [
+   "122_GOT.jpg",
+   "122_GOT-4.jpg",
+   "122_GOT-5.jpg",
+   "122_GOT-7.jpg",
+   "122_GOT-17.jpg",
+   "122_GOT-13.jpg",
+   "122_GOT-6.jpg",
+   "122_GOT-18.jpg",
+   "122_GOT-23.jpg",
+   "122_GOT-26.jpg",
+   "122_GOT-27.jpg",
+   "122_GOT-28.jpg",
+   "122_GOT-33.jpg",
+   "122_GOT-35.jpg",
+   "122_GOT-37.jpg",
+   "122_GOT-39.jpg",
+   "122_GOT-42.jpg",
+   "122_GOT-40.jpg",
+   "122_GOT-46.jpg",
+   "122_GOT-50.jpg",
+   "122_GOT-53.jpg",
+   "122_GOT-55.jpg"
+  ]
+ },
+ "publications/geography-and-oil-the-territory-of-externalities/index.html": {
+  "preload": [
+   "178_s-l400.jpg"
+  ]
+ },
+ "publications/geostories/index.html": {
+  "preload": [
+   "215_Geostories_cover_photo copy.jpg"
+  ]
+ },
+ "publications/the-planet-after-geoengineering/index.html": {
+  "ids": [
+   "1665",
+   "1663",
+   "1664",
+   "1662"
+  ],
+  "preload": [
+   "243_245065058_10159729410352662_4855490852743795253_n copy.jpg",
+   "243_245118101_10159729410412662_829343195932489814_n.jpg",
+   "243_245069151_10159729410472662_8409995654615046669_n.jpg",
+   "243_245075597_10159729410407662_2382000474505677456_n.jpg"
+  ]
+ },
+ "xml/index.html": {
+  "preload": [
+   "1_Ghosn+Jazairy_2022_nomad_12_Design_Earth_2.jpg"
+  ]
+ }
+}
