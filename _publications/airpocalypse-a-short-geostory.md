@@ -13,4 +13,4 @@ images:
 ---
 **Airpocalypse: A Short Geostory**<br>
 *San Rocco, Ecology, 2014*<br>
-<u>**[Download](../../files/download/Ghosn+Jazairy_2014_Airpocalypse_SanRocco.pdf)**</u>
+<u><strong><a href="../../files/download/Ghosn+Jazairy_2014_Airpocalypse_SanRocco.pdf">Download</a></strong></u>

@@ -70,6 +70,17 @@ function rewriteHref(href, permalink) {
 }
 
 function convertInline(html, permalink) {
+  // kramdown won't read markdown inside <u>...</u>, so keep those as HTML (only fixing their links)
+  const kept = [];
+  html = html.replace(/<u>[\s\S]*?<\/u>/gi, (m) => {
+    kept.push(m.replace(/href=(["'])(.*?)\1/g, (x, qt, h) => `href="${rewriteHref(h, permalink)}"`));
+    return `\u0000${kept.length - 1}\u0000`;
+  });
+  html = convertInlineMd(html, permalink);
+  return html.replace(/\u0000(\d+)\u0000/g, (m, i) => kept[+i]);
+}
+
+function convertInlineMd(html, permalink) {
   // links
   html = html.replace(/<a\s+([^>]*)>([\s\S]*?)<\/a>/gi, (m, attrs, text) => {
     const at = {};
