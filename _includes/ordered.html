@@ -1,8 +1,9 @@
 {%- comment -%}
   Sets `ordered` to the items of include.collection in display order:
   items missing from _data/order.yml first (newest year first), then the listed ones in list order.
+  Items with `hidden: true` are left out (their pages still work). Items with `book: true` come first.
 {%- endcomment -%}
-{%- assign coll = site[include.collection] -%}
+{%- assign coll = site[include.collection] | where_exp: "doc", "doc.hidden != true" -%}
 {%- assign listed = site.data.order[include.collection] -%}
 {%- unless listed -%}{%- assign listed = "" | split: "" -%}{%- endunless -%}
 {%- assign ordered = "" | split: "" -%}
@@ -14,3 +15,6 @@
   {%- assign d = coll | where: "slug", s | first -%}
   {%- if d -%}{%- assign ordered = ordered | push: d -%}{%- endif -%}
 {%- endfor -%}
+{%- assign books = ordered | where: "book", true -%}
+{%- assign not_books = ordered | where_exp: "doc", "doc.book != true" -%}
+{%- assign ordered = books | concat: not_books -%}

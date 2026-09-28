@@ -1,5 +1,6 @@
 ---
 title: "Geographies of Trash"
+book: true  # shown under BOOKS on the PUBLISH page
 permalink: /publications/geographies-of-trash/2/
 year: 2015  # guessed from the text - please check
 layout: slideshow

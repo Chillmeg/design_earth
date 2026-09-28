@@ -1,5 +1,6 @@
 ---
 title: "The Planet After Geoengineering"
+book: true  # shown under BOOKS on the PUBLISH page
 year: 2021  # guessed from the text - please check
 layout: slideshow
 nav_list: false  # the old page did not list the other items in the left nav

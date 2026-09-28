@@ -6,3 +6,6 @@ vendor/
 Thumbs.db
 .DS_Store
 Gemfile.lock
+
+# Private working documents (not part of the website)
+files/reference/

@@ -1,5 +1,6 @@
 ---
 title: "The Belly of a Mountain"
+hidden: true  # not in the list or grid; the page still works
 permalink: /project/the-belly-of-a-mountain/
 year: 2013  # guessed from the text - please check
 thumbnail: thumb.jpg

@@ -41,6 +41,7 @@ plugins:
   - jekyll-redirect-from
 
 exclude:
+  - files/reference
   - README.md
   - CLAUDE.md
   - Gemfile

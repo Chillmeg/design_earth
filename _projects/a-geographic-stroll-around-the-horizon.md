@@ -1,5 +1,6 @@
 ---
 title: "4.7: A Geographic Stroll Around the Horizon"
+hidden: true  # not in the list or grid; the page still works
 permalink: /project/a-geographic-stroll-around-the-horizon/
 year: 2013  # guessed from the text - please check
 thumbnail: thumb.jpg

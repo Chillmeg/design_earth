@@ -1,5 +1,6 @@
 ---
 title: "Towers on Wire"
+hidden: true  # not in the list or grid; the page still works
 year: 2014  # guessed from the text - please check
 thumbnail: thumb.jpg
 images:
