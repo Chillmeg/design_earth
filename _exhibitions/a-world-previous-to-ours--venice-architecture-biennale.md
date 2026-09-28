@@ -21,6 +21,7 @@ images:
 **A World Previous to Ours**<br>
 *The Perimeter of Architecture: Amid the Elements, James Stirling book pavilion, Giardini*<br>
 *19th International Architecture Exhibition, La Biennale di Venezia, 2025*<br>
-Curator: Sylvia Lavin
+Curator: Sylvia Lavin<br>
+May 10 – November 23, 2025
 
 Click for more information about the <a href="../../projects/a-world-previous-to-ours/" title="A World Previous to Ours">A World Previous to Ours</a> project.

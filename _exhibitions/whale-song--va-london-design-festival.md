@@ -19,6 +19,7 @@ images:
     height: 537
 ---
 **Whale Song**<br>
-*V&A, London Design Festival, 2022*
+*London Design Festival, V&A Museum, London*<br>
+September 17–25, 2022
 
 Click for more information about the <a href="../../projects/whale-song/" title="Whale Song">Whale Song</a> project.

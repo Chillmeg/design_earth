@@ -29,6 +29,8 @@ images:
     height: 533
 ---
 **Climate Inheritance**<br>
-*Shenzhen Bi-City Biennale of Urbanism\Architecture, 2022*
+*9th Shenzhen Bi-city Biennale of Urbanism\Architecture: Urban Cosmologies, Shenzhen*<br>
+Curators: Lu Andong, Prince Gong<br>
+December 20, 2022 – March 12, 2023
 
 Click for more information about the <a href="../../projects/climate-inheritance/" title="Climate Inheritance">Climate Inheritance</a> project.

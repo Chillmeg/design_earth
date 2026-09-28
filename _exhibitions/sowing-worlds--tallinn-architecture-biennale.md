@@ -14,7 +14,9 @@ images:
 ---
 **Sowing Worlds**<br>
 *Tallinn Architecture Biennale 2022: Edible*<br>
-Curators: Lydia Kallipoliti &#38; Areti Markopoulou
+Estonian Museum of Architecture, Tallinn<br>
+Curators: Lydia Kallipoliti &#38; Areti Markopoulou<br>
+September 7 – November 20, 2022
 
 Photos: P. Pattakos
 
