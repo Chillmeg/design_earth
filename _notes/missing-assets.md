@@ -30,12 +30,13 @@ No files were deleted. The only things removed were folders left empty by the mo
 | exhibitions/sowing-worlds--tallinn-architecture-biennale | 2 photos (P. Pattakos) | curators, from the Sowing Worlds text |
 | exhibitions/after-oil--museum-of-modern-art | 1 photo (max 600 px, per MoMA's terms) | credit line only. **Unpublished** (`published: false`) until we have MoMA's caption |
 | exhibitions/climate-inheritance--shenzhen-bi-city-biennale | 7 photos (see guesses) | title/venue only |
+| projects/a-world-previous-to-ours | 9 (Cuvier tooth drawing, the model, 7 niches with their names as captions) | from the Word file in the Dropbox |
+| exhibitions/a-world-previous-to-ours--venice-architecture-biennale | 4 photos (2 from the files `3_Profeta.jpg`, `5_Selby.jpg`, 2 iPhone photos) | venue/curator from the Word file. **No photo credit** (only surnames in the file names) |
 | publications/climate-inheritance-book | **missing cover photo** | from the Word file in the Dropbox. The page exists but is `published: false` until the cover photo arrives |
 
 ## Missing (nothing in the Dropbox)
 
 **Projects** (no images, no text; no page created):
-- A World Previous to Ours (2025)
 - Flag the Earth (2019)
 - Fables: Living as Flamingo, Crocodile Tears, A Pas de Loup, 800-Pounds Gorilla, The Way of the Dinosaurs
 - Text for Whale Song, Love Your Monsters, Act as if Our House Is on Fire
@@ -62,7 +63,6 @@ No files were deleted. The only things removed were folders left empty by the mo
 **Exhibitions** (no photos, no text; no page created):
 - The Planet After Geoengineering | Diriyah Art Futures (2026)
 - Speculative Fiction for the Climate | NTU CCA Singapore (2025)
-- A World Previous to Ours | Venice Architecture Biennale (2025)
 - Elephant in the Room Talkbox | Palazzo Diedo, Venice (2025)
 - The Planet After Geoengineering | Aedes Architecture Forum (2025)
 - Cosmograph | MIT Museum (2024)

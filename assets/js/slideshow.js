@@ -3,10 +3,29 @@
 // `slides` list the page writes out, and the same HTML is built in the browser.
 // Behaviour kept: fade, "1 of N" counter, Previous | Next, click image = next, arrow keys,
 // hover arrows over the left/right 30% of the image (they appear after the first change, as before).
+// Added: automatic change every `slideshow_interval` seconds (set in _config.yml, or per page; 0 = off).
 
 var active = 0;
 var zindex = 999;
 var disable_click = false;
+var autoplay_timer = null;
+
+function autoplayOn()
+{
+	return typeof slides != 'undefined' && slides.length > 1
+		&& typeof slideshow_interval != 'undefined' && slideshow_interval > 0;
+}
+
+// (re)start the countdown to the next automatic change; clicks and arrow keys restart it too
+function scheduleAutoplay()
+{
+	if (!autoplayOn()) return;
+	clearTimeout(autoplay_timer);
+	autoplay_timer = setTimeout(function() {
+		if (document.hidden) { scheduleAutoplay(); return; }
+		next();
+	}, slideshow_interval * 1000);
+}
 
 $(document).ready(function()
 {
@@ -24,6 +43,7 @@ $(window).load(function()
 function next()
 {
 	if (typeof slides == 'undefined' || slides.length < 2) return false;
+	scheduleAutoplay();
 	active = active + 1;
 	if ((active + 1) > slides.length) active = 0;
 	getNode(active);
@@ -32,6 +52,7 @@ function next()
 function previous()
 {
 	if (typeof slides == 'undefined' || slides.length < 2) return false;
+	scheduleAutoplay();
 	active = active - 1;
 	if ((active + 1) == 0) active = (slides.length - 1);
 	getNode(active);
@@ -80,6 +101,8 @@ function loading()
 
 function adjust_height(next)
 {
+	// with automatic changes, only grow the box, so the text below doesn't jump up and down
+	if (autoplayOn() && next < $('#slideshow').height()) return;
 	$('#slideshow').height(next);
 	return;
 }
@@ -111,6 +134,15 @@ $(window).load(function()
 {
 	if (typeof slides == 'undefined') return;
 	$.each(slides, function(i, s) { if (i > 0) $('<img/>')[0].src = s.src; });
+
+	// with automatic changes, make the box as tall as the tallest image from the start
+	if (autoplayOn())
+	{
+		var tallest = 0;
+		$.each(slides, function(i, s) { if (s.height > tallest) tallest = s.height; });
+		if (tallest > $('#slideshow').height()) $('#slideshow').height(tallest);
+	}
+	scheduleAutoplay();
 });
 
 $(document).keydown(function(e)

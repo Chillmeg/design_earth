@@ -32,6 +32,10 @@ defaults:
   - scope: { type: animations }
     values: { layout: video }
 
+# Slideshows change image by themselves every this many seconds (0 = only on click).
+# A page can override it with its own `slideshow_interval:` line.
+slideshow_interval: 1
+
 markdown: kramdown
 kramdown:
   # keep straight quotes exactly as typed (the old site did not curl them)
