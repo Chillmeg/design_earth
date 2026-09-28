@@ -96,6 +96,14 @@ function loading()
 {
 	// remove previous and next slides
 	$('a#slide-previous').remove();
+	$('a#slide-next').remove();
+
+	// each change counts z-index down; with automatic changes it would run out, so start again from the top
+	if (zindex < 2)
+	{
+		$('#slideshow div#slide' + (zindex + 1)).attr('id', 'slide1000').css('z-index', 1000);
+		zindex = 999;
+	}
 	return;
 }
 
