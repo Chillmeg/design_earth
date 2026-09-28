@@ -4,6 +4,7 @@ layout: default
 {%- comment -%}
   Grid page for one section (page.section = projects / publications / exhibitions / animations).
   Tile image: `thumbnail` if set, otherwise a YouTube still (animations) or the first image.
+  Animation tiles are 16:9 (like the YouTube channel); the other sections' tiles are square.
   If the section page sets `book_heading`, books (`book: true`) get that heading and the rest get `other_heading` (optional).
 {%- endcomment -%}
 {%- include ordered.html collection=page.section -%}
@@ -34,6 +35,10 @@ layout: default
   {%- assign h = d.thumbnail_height | default: 200 -%}
   {%- assign pad = 200 | minus: h -%}
   {%- capture img_size %}height='{{ h }}'{% endcapture -%}{%- capture fit %}{% unless d.thumbnail %} max-width:200px;{% endunless %}{% endcapture -%}
+{%- elsif page.section == "animations" -%}
+  {%- comment -%} 16:9 like the YouTube channel; cover also trims letterbox bars from 4:3 thumbnails {%- endcomment -%}
+  {%- assign pad = 0 -%}
+  {%- capture img_size %}width='200' height='113'{% endcapture -%}{%- capture fit %} object-fit: cover;{% endcapture -%}
 {%- else -%}
   {%- assign pad = 0 -%}
   {%- capture img_size %}width='200' height='200'{% endcapture -%}{%- capture fit %}{% unless d.thumbnail %} object-fit: cover;{% endunless %}{% endcapture -%}

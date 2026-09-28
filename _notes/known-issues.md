@@ -15,5 +15,5 @@ To go over in detail later. Each one is also broken on the old design-earth.org.
 - The Google search box is removed (you asked for this).
 - The Google Analytics tag is removed (it used Universal Analytics, which stopped working in 2023).
 - Image addresses changed from `/files/gimgs/...` to `/assets/images/<section>/<item>/...`. PDFs keep their old addresses.
-- ANIMATION is now a working section (renamed ANIMATE in the nav) with 7 YouTube videos.
+- ANIMATION is now a working section (renamed ANIMATE in the nav) with 7 YouTube videos. Each page carries the text from its YouTube description (copied as written), and the grid uses the YouTube thumbnails (saved in `assets/images/animations/<item>/thumbnail.jpg`) as 16:9 tiles.
 - The "item list" in the left nav is shown or hidden per page, as on the old site (`nav_list: false`). The old site was inconsistent about this.
