@@ -20,6 +20,12 @@
 </li>
 </ul>
 {%- endfor %}
+<div id='ndxz-searcher'>
+<form action='{{ "/search/" | relative_url }}' method='get' role='search'>
+<input name='q' type='text' class='ndxz_search' aria-label='Search' />
+<input type='submit' value='Go' class='ndxz_search_btn' />
+</form>
+</div>
 {% if page.collection and page.nav_list != false -%}
 {%- include ordered.html collection=page.collection %}
 <ul class='subsection'>

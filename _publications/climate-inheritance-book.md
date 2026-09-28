@@ -4,7 +4,6 @@ published: false  # when the cover photo arrives: save it as 01.jpg and thumb.jp
 book: true  # shown under BOOKS on the PUBLISH page
 year: 2023
 layout: slideshow
-nav_list: false
 slideshow_nav: false
 thumbnail: thumb.jpg
 thumbnail_height: 200

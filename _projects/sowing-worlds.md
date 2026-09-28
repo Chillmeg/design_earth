@@ -2,7 +2,6 @@
 title: "Sowing Worlds"
 redirect_from: /projects/composting-worlds/
 year: 2022  # guessed from the text - please check
-nav_list: false  # the old page did not list the other items in the left nav
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 images:

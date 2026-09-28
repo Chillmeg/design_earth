@@ -2,7 +2,6 @@
 title: "A World Previous to Ours | Venice Architecture Biennale"
 permalink: /exhibitions/a-world-previous-to-ours--venice-architecture-biennale/
 year: 2025
-nav_list: false  # like the other pages in this section
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 images:

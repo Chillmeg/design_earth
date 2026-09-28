@@ -1,0 +1,14 @@
+---
+layout: default
+title: Search
+permalink: /search/
+---
+<div id='img-container'>
+<div id='textspace' class='placement-top'>
+<p id='search-status'>Searching…</p>
+<div id='search-results'></div>
+<noscript><p>The search needs JavaScript.</p></noscript>
+</div>
+</div>
+<script type='text/javascript'>var searchIndexUrl = '{{ "/search.json" | relative_url }}';</script>
+<script type='text/javascript' src='{{ "/assets/js/search.js" | relative_url }}'></script>

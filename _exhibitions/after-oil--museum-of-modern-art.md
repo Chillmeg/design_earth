@@ -3,7 +3,6 @@ title: "After Oil | Museum of Modern Art"
 published: false  # MoMA's terms require their curatorial caption with the photo; add it, then change to true
 permalink: /exhibitions/after-oil--museum-of-modern-art/
 year: 2022  # the outline says 2022; the MoMA photo is from 2019 - please check
-nav_list: false  # like the other pages in this section
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 images:

@@ -2,7 +2,6 @@
 title: "Pacific Aquarium | Times Museum"
 permalink: /exhibitions/pacific-aquarium--times-museum/
 year: 2018  # guessed from the text - please check
-nav_list: false  # the old page did not list the other items in the left nav
 thumbnail: thumb.jpg
 images:
   - file: 01.jpg

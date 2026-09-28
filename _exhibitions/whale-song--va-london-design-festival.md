@@ -2,7 +2,6 @@
 title: "Whale Song | V&A, London Design Festival"
 permalink: /exhibitions/whale-song--va-london-design-festival/
 year: 2022
-nav_list: false  # like the other pages in this section
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 images:

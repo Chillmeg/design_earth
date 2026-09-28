@@ -1,0 +1,17 @@
+---
+layout: null
+permalink: /search.json
+---
+{%- comment -%} Index for the search box: every visible item's title and text. {%- endcomment -%}
+[
+{%- assign first = true -%}
+{%- for s in site.data.sections -%}
+{%- if s.collection -%}
+{%- assign items = site[s.collection] | where_exp: "d", "d.hidden != true" -%}
+{%- for d in items -%}
+{%- unless first %},{% endunless %}{% assign first = false %}
+{"title": {{ d.title | jsonify }}, "url": {{ d.url | relative_url | jsonify }}, "section": {{ s.title | jsonify }}, "year": {{ d.year | default: "" | jsonify }}, "text": {{ d.content | strip_html | normalize_whitespace | jsonify }}}
+{%- endfor -%}
+{%- endif -%}
+{%- endfor %}
+]

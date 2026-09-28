@@ -1,7 +1,6 @@
 ---
 title: "A World Previous to Ours"
 year: 2025
-nav_list: false  # like the other pages in this section
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 images:

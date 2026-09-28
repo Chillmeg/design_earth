@@ -2,7 +2,6 @@
 title: "The Planet After Geoengineering | Onassis Stegi"
 permalink: /exhibitions/the-planet-after-geoengineering--onassis-stegi/
 year: 2022
-nav_list: false  # like the other pages in this section
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 images:

@@ -3,7 +3,6 @@ title: "Climate Inheritance | Shenzhen Bi-City Biennale"
 permalink: /exhibitions/climate-inheritance--shenzhen-bi-city-biennale/
 year: 2022
 # images: Dropbox folder "2023_气候遗产Climate Inheritance", photos taken Dec 2022 - please check it is Shenzhen
-nav_list: false  # like the other pages in this section
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 images:

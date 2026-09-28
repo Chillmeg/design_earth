@@ -2,7 +2,6 @@
 title: "Sowing Worlds | Tallinn Architecture Biennale"
 permalink: /exhibitions/sowing-worlds--tallinn-architecture-biennale/
 year: 2022
-nav_list: false  # like the other pages in this section
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 images:
