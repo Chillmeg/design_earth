@@ -42,6 +42,7 @@ plugins:
 
 exclude:
   - files/reference
+  - files/dropbox
   - README.md
   - CLAUDE.md
   - Gemfile
