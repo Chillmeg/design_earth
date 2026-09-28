@@ -1,6 +1,6 @@
 ---
 layout: section
-title: ANIMATION
+title: ANIMATE
 section: animations
 permalink: /animations/
 ---
