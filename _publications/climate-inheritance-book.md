@@ -1,6 +1,6 @@
 ---
 title: "Climate Inheritance"
-published: false  # change to true once the cover photo is in assets/images/publications/climate-inheritance-book/
+published: false  # when the cover photo arrives: save it as 01.jpg and thumb.jpg in assets/images/publications/climate-inheritance-book/, fix width/height/thumbnail_height below, then change to true
 book: true  # shown under BOOKS on the PUBLISH page
 year: 2023
 layout: slideshow

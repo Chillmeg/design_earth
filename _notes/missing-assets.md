@@ -10,10 +10,12 @@ The Dropbox folder (`files/dropbox/`, not in git, not on the site) is now sorted
 | `_trash/not-in-outline/` | Material for projects/exhibitions/publications not in Rania's outline (Belly of a Mountain, Stroll around the Horizon, CCC, Towers on Wire, Neck of the Moon at Yale 2018, Cosmorama at SFMoMA 2019 and Matadero 2020, Kiruna Forever 2020, and 5 magazine covers) |
 | `_trash/duplicates/` | Exact duplicates and folders of small copies whose originals are kept |
 | `_trash/huge-originals/` | Files over 40 MB **only when a small copy of the same image is kept** in the `sm/` folder next to it. A huge file with no smaller copy was kept in the sorted folders. |
-| `_trash/working-files/`, `_trash/misc/` | Photoshop file, test edits, making-of snapshots, a temporary file, an empty folder |
+| `_trash/working-files/`, `_trash/misc/` | Photoshop file, test edits, making-of snapshots, a temporary file |
 | `_MOVES.csv` | Every move (from, to, reason), so anything can be put back |
 
-Nothing was deleted.
+No files were deleted. The only things removed were folders left empty by the moves, including an empty folder named after the Climate Inheritance book text.
+
+**Before emptying `_trash/`:** it holds the 4 source videos and 31 full-resolution originals (in `huge-originals/`). Check that the office's own Dropbox still has them.
 
 ## Built from the Dropbox
 
@@ -26,7 +28,7 @@ Nothing was deleted.
 | exhibitions/the-planet-after-geoengineering--onassis-stegi | 1 image | title/venue only |
 | exhibitions/whale-song--va-london-design-festival | 4 photos | title/venue only |
 | exhibitions/sowing-worlds--tallinn-architecture-biennale | 2 photos (P. Pattakos) | curators, from the Sowing Worlds text |
-| exhibitions/after-oil--museum-of-modern-art | 1 photo (max 600 px, per MoMA's terms) | credit line only |
+| exhibitions/after-oil--museum-of-modern-art | 1 photo (max 600 px, per MoMA's terms) | credit line only. **Unpublished** (`published: false`) until we have MoMA's caption |
 | exhibitions/climate-inheritance--shenzhen-bi-city-biennale | 7 photos (see guesses) | title/venue only |
 | publications/climate-inheritance-book | **missing cover photo** | from the Word file in the Dropbox. The page exists but is `published: false` until the cover photo arrives |
 
@@ -72,7 +74,7 @@ Nothing was deleted.
 - Text (dates, curators, description) for all 5 new exhibition pages above
 
 **Other:**
-- MoMA's terms say the photo must be shown with the caption from MoMA's curatorial or archives staff. We don't have that caption.
+- MoMA's terms say the photo must be shown with the caption from MoMA's curatorial or archives staff. We don't have that caption, so the page is unpublished until we do. The terms also say: at most 600 px on the longest side, and the credit line "Digital Image © 2019 The Museum of Modern Art, New York. Photographed by Heidi Bohnenkamp".
 
 ## Guesses to check
 
