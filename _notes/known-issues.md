@@ -20,3 +20,10 @@ To go over in detail later. Each one is also broken on the old design-earth.org.
 ## Fixed since
 
 - `/publications/geographies-of-trash/2/`: the 22 missing slideshow images (404 on the old server too) were replaced on 2026-10-05 by Rania's cover photo and two spread photos.
+
+## Expected differences in `_tools/compare-report.txt` (since 2026-10-05)
+
+- `/`: new bio and headshot (Rania's update).
+- `/projects/a-space-oddity/`: now redirects to `/projects/love-your-monsters/` (same project, renamed). `/projects/composting-worlds/` redirects to Sowing Worlds, as before.
+- `/publications/geographies-of-trash/2/`: 3 new photos instead of the 22 images that were missing on the old site.
+- Grid pages and "nav list" lines: new items, and the item list shown on every page.
