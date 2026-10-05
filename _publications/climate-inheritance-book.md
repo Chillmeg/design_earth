@@ -1,16 +1,63 @@
 ---
 title: "Climate Inheritance"
-published: false  # when the cover photo arrives: save it as 01.jpg and thumb.jpg in assets/images/publications/climate-inheritance-book/, fix width/height/thumbnail_height below, then change to true
 book: true  # shown under BOOKS on the PUBLISH page
 year: 2023
 layout: slideshow
 slideshow_nav: false
 thumbnail: thumb.jpg
-thumbnail_height: 200
+thumbnail_height: 157
 images:
   - file: 01.jpg
-    width: 787
-    height: 787
+    width: 756
+    height: 567
+  - file: 02.jpg
+    width: 756
+    height: 567
+  - file: 03.jpg
+    width: 756
+    height: 567
+  - file: 04.jpg
+    width: 756
+    height: 567
+  - file: 05.jpg
+    width: 756
+    height: 567
+  - file: 06.jpg
+    width: 756
+    height: 567
+  - file: 07.jpg
+    width: 756
+    height: 567
+  - file: 08.jpg
+    width: 756
+    height: 567
+  - file: 09.jpg
+    width: 756
+    height: 567
+  - file: 10.jpg
+    width: 756
+    height: 567
+  - file: 11.jpg
+    width: 756
+    height: 567
+  - file: 12.jpg
+    width: 756
+    height: 567
+  - file: 13.jpg
+    width: 756
+    height: 567
+  - file: 14.jpg
+    width: 756
+    height: 567
+  - file: 15.jpg
+    width: 756
+    height: 567
+  - file: 16.jpg
+    width: 756
+    height: 567
+  - file: 17.jpg
+    width: 756
+    height: 567
 ---
 **Climate Inheritance**<br>
 DESIGN EARTH, 2023

@@ -1,0 +1,7 @@
+{%- comment -%} ESSAYS list on the PUBLISH page, from _data/essays.yml (see layouts/section.html) {%- endcomment %}
+<div class='group_title' style='clear: left; font-weight: bold; padding: 30px 0 15px 0;'>{{ page.essays_heading }}</div>
+<div class='essays' style='width: 675px; padding-bottom: 0;'>
+{%- for e in site.data.essays %}
+<p style='margin: 0 0 9px 0;'>{{ e.citation | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% if e.pdf %} <a href='{{ "/files/download/" | append: e.pdf | relative_url | replace: " ", "%20" }}' target='_blank'>Download</a>{% endif %}</p>
+{%- endfor %}
+</div>

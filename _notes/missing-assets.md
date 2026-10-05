@@ -95,3 +95,31 @@ No files were deleted. The only things removed were folders left empty by the mo
 ## Dropbox material not used on the site
 
 The Dropbox also has hi-res originals for most of the older projects and exhibitions. The site already shows the images from the old site, so these weren't swapped in, to keep the old pages looking identical. They're in the sorted folders if you ever want better quality.
+
+## Update from Rania's feedback (2026-10-05)
+
+Source: `update_rania/` (private, gitignored) plus the Dropbox links in her notes.
+
+| Change | Details |
+|---|---|
+| Slideshows | One image every 5 seconds (was 3) |
+| projects/whale-song | New cover: the "Whale Song" title drawing (was slide 7) is now the thumbnail and the first slide |
+| projects/act-as-if-our-house-is-on-fire | Rania's text; images are now the two flag drawings (`FINAL_1/2.jpg`, Dropbox). The UC Denver photos moved to the new exhibition page below |
+| exhibitions/act-as-if-our-house-is-on-fire--uc-denver | **New.** Drawing Im/Proper, UC Denver CAP, cur. Kevin Hirth & Anca Matyiku, March 6–31, 2020 (from Rania) |
+| exhibitions/act-as-if-our-house-is-on-fire--frac-orleans | **New.** 2 street photos (`flag.jpg`, `flag2.jpg`); details from the dossier. The low-res cargocollective image Rania linked is the same photo as `flag2.jpg` |
+| Elephant in the Room / Glasgow Science Centre | Dropped (no installation photos), removed from `order.yml` |
+| projects/flag-the-earth | **New.** Rania's text + 7 of the Global Climate Strike photos (confirms the earlier guess) |
+| projects/love-your-monsters | Rania: Love Your Monsters = the old "A Space Oddity" page. Merged: Space Oddity's text + "5 drawings (91 X 59 cm), inkjet print on paper", the Dropbox images; `/projects/a-space-oddity/` now redirects here. Takes Space Oddity's place in the order |
+| projects/the-way-of-the-dinosaurs | **New.** 4 scenes (Dropbox); text from the animation page |
+| projects/crocodile-tears | **New.** The scroll's 4 acts cut into 14 frames (acts 1–3: 3 each, act 4: 5); text from the animation page |
+| publications/climate-inheritance-book | **Published.** 17 book photos (Dropbox); the grey-background duplicate of the cover (`_0130`) was left out |
+| publications/geographies-of-trash-book | Cover photo + 2 spreads replace the 22 missing images |
+| PUBLISH / ESSAYS | **New** list from `_data/essays.yml` (dossier citations), PDFs in `files/download/`. **Log 60 "Geodesign"** is listed without a link: the Dropbox PDF is 74 MB, so it needs a lighter copy |
+| MAIN | Rania's new bio; the DE headshot replaces the home image |
+| exhibitions/speculative-fiction-for-the-climate--ntu-cca-singapore | New thumbnail (`DSC_9596`, the grid wall with a visitor) |
+| animations/living-as-flamingo | Text fixed: the `|` in "Living as Flamingo \| Vivre en [Flamant] Rose" was making two tables |
+
+Still waiting for:
+- Better descriptive texts for each animation (Rania)
+- A lighter PDF of "Geodesign" (Log 60)
+- Text check: the bio says "The practice’ work" (copied as written), and the Crocodile Tears text says "damaged landsm" (copied from YouTube); both look like typos

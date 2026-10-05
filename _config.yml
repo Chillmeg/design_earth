@@ -34,7 +34,7 @@ defaults:
 
 # Slideshows change image by themselves every this many seconds (0 = only on click).
 # A page can override it with its own `slideshow_interval:` line.
-slideshow_interval: 3
+slideshow_interval: 5
 
 markdown: kramdown
 kramdown:
@@ -47,6 +47,7 @@ plugins:
 exclude:
   - files/reference
   - files/dropbox
+  - update_rania
   - README.md
   - CLAUDE.md
   - Gemfile

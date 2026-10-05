@@ -4,6 +4,9 @@ year: 2022
 slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
 images:
+  - file: 07.jpg
+    width: 800
+    height: 429
   - file: 01.jpg
     width: 800
     height: 450
@@ -20,9 +23,6 @@ images:
     width: 800
     height: 429
   - file: 06.jpg
-    width: 800
-    height: 429
-  - file: 07.jpg
     width: 800
     height: 429
   - file: 08.jpg

@@ -1,0 +1,43 @@
+# ESSAYS list on the PUBLISH page (shown under BOOKS), top to bottom.
+# citation: the text shown (you can use *italics*).
+# pdf: a file name in files/download/ - leave it out to show the citation without a download link.
+# To add an essay: put its PDF in files/download/, then copy one entry and edit it.
+
+- citation: '"Fossil Fabulation," *LA+ 23: Media* (Spring 2026).'
+  pdf: DE_2026_Fossil Fabulation_LA+23.pdf
+
+- citation: '"Sowing Worlds," *Building Metabolism*, eds. L. Kallipoliti & A. Markopoulou (Actar, 2026), 262–269.'
+  pdf: DE_2026_Sowing Worlds_Building Metabolism.pdf
+
+- citation: '"Draw me the Earth Whole," *Making Home: Belonging, Memory, and Utopia in the 21st Century*, eds. M. Joan, A. Cunningham Cameron, and C. DeLeon (New York: The MIT Press, 2025), 286–291.'
+  pdf: DE_2025_Draw me the Earth Whole_Making Home.pdf
+
+- citation: '"Elephant in the Room," *The Climate Imaginary*, eds. Leire Asensio Villoria & David Mah (Barcelona: Actar Publishers, 2025), 32–41.'
+  pdf: DE_2025_Elephant in the Room_The Climate Imaginary.pdf
+
+- citation: '"Canto de Ballena / Whale Song," *Materia Arquitectura 28: Press Play* (2025): 194–203.'
+  pdf: DE_2025_Whale Song_Materia Arquitectura 28.pdf
+
+- citation: '"Geodesign, or, It Matters Earths Make Worlds," *Log* #60 (2024): 195–207.'
+  # pdf: the file in the Dropbox is 74 MB - waiting for a lighter copy
+
+- citation: '"Elephant in the Room & Other Fables," *Perspecta* #56 (2024): 120–133.'
+  pdf: DE_2024_Elephant in the Room and Other Fables_Perspecta 56.pdf
+
+- citation: 'Ghosn & Jazairy, "Herència climàtica," *Quaderns d''Arquitectura i Urbanisme* #275: The Ambiguity of Heritage (2024): 104–114.'
+  pdf: DE_2024_Herencia climatica_Quaderns 275.pdf
+
+- citation: '"Elephant in the Room," *Pedagogical Experiments in Architecture for a Changing Climate*, eds. T. Atak, L. Callejas, J. Scelsa, JJ Tandberg (London: Routledge, 2024), 253–260.'
+  pdf: DE_2024_Elephant in the Room_Pedagogical Experiments.pdf
+
+- citation: '*Cosmograph: Speculative Tales for the New Space Age* (Cambridge: MIT Museum + MIT Center for Art, Science & Technology, 2024). Exhibition booklet.'
+  pdf: DE_2024_Cosmograph_MIT Museum.pdf
+
+- citation: 'Ghosn, R. "Uncommon Interests," *Technical Lands: A Critical Primer*, eds. J. Nesbit and C. Waldheim (Berlin: JOVIS Verlag, 2023), 226–241.'
+  pdf: Ghosn_2023_Uncommon Interests_Technical Lands.pdf
+
+- citation: 'Ghosn, Jazairy & Peg Rawes, "Shot/Reverse Shot," *Reimagining Museums for Climate Action* (London: Museums for Climate Action, 2021), 126–134.'
+  pdf: DE_2021_Shot Reverse Shot_Reimagining Museums for Climate Action.pdf
+
+- citation: '"Aquarium for the Anthropocene," *The Urbanisation of the Sea*, eds. N. Couling and C. Hein (Rotterdam: NAi publishers, 2020), 305–316.'
+  pdf: DE_2020_Aquarium for the Anthropocene_The Urbanisation of the Sea.pdf

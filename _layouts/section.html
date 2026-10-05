@@ -6,6 +6,7 @@ layout: default
   Tile image: `thumbnail` if set, otherwise a YouTube still (animations) or the first image.
   Animation tiles are 16:9 (like the YouTube channel); the other sections' tiles are square.
   If the section page sets `book_heading`, books (`book: true`) get that heading and the rest get `other_heading` (optional).
+  If it also sets `essays_heading`, the list in _data/essays.yml is shown between the books and the rest.
 {%- endcomment -%}
 {%- include ordered.html collection=page.section -%}
 <div id='img-container'>
@@ -15,6 +16,7 @@ layout: default
   {%- if d.book == true -%}{%- assign this_group = "books" -%}{%- else -%}{%- assign this_group = "other" -%}{%- endif -%}
   {%- if this_group != group -%}
     {%- assign group = this_group -%}
+    {%- if group == "other" and page.essays_heading -%}{%- include essays.html -%}{%- endif -%}
     {%- if group == "books" -%}{%- assign heading = page.book_heading -%}{%- else -%}{%- assign heading = page.other_heading -%}{%- endif %}
 <div class='group_title' style='clear: left; font-weight: bold; padding: {% if forloop.first %}0{% else %}30px{% endif %} 0 15px 0;'>{{ heading }}</div>
   {%- endif -%}

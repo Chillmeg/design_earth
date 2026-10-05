@@ -4,19 +4,21 @@ title: MAIN
 redirect_from:
   - /xml/
 images:
-  - file: 01.jpg
-    width: 507
-    height: 690
+  - file: 01.jpg  # DE headshot (Rania Ghosn and El Hadi Jazairy)
+    width: 709
+    height: 490
 ---
-**DESIGN EARTH** is a research practice, founded by Rania Ghosn and El Hadi Jazairy in 2010. Their work engages the medium of the speculative architectural project to make public the climate crisis. DESIGN EARTH are recipients of the United States Artist Fellowship, Architectural League Prize for Young Architects + Designers, Boghossian Foundation Prize, and ACSA Faculty Design Awards for outstanding work in architecture and related environmental design fields as a critical endeavor.
+**DESIGN EARTH** is a research practice founded in 2010 by Rania Ghosn and El Hadi Jazairy. Through architectural drawings, narratives, and moving images, the studio makes the climate crisis public and speculative. Their projects situate planetary systems in particular places, giving form to the often-hidden consequences of technological change and imagining ways of living with their legacies.
 
-DESIGN EARTH’s work has been featured internationally, including at Venice Architecture Biennale (2021; 2018; 2016), Victoria and Albert Museum (2022), Bauhaus Museum Dessau (2021), Seoul Biennale (2017), Design Biennale Boston (2017) Oslo Architecture Triennale (2016); and in exhibitions at Milano Triennale, SFMOMA, Matadero Madrid, ArkDes, MAAT, Guangzhou Times Museum, and Sursock Museum in Beirut, amongst others. Their project “After Oil” was collected by the Museum of Modern Art in New York.
+The practice’ work has been exhibited internationally, including the Venice Architecture Biennale, Milano Triennale, Oslo Architecture Triennale, Seoul Biennale of Architecture and Urbanism, and Tallinn Architecture Biennale; as well as Bauhaus Museum Dessau, SFMOMA, Sursock Museum in Beirut, Matadero Madrid, Times Museum in Guangzhou, NTU Centre for Contemporary Art Singapore, and the MIT Museum. After Oil is in the collection of the Museum of Modern Art, New York.
 
-Ghosn and Jazairy are authors of Geographies of Trash (2015); Geostories: Another Architecture for the Environment (3nd ed. 2022), The Planet After Geoengineering (2021), and the forthcoming Climate Inheritance (2023).<br>
-They were founding editors of the Harvard GSD New Geographies journal and editors of issues Landscapes of Energy and Scales of the Earth.
+Ghosn and Jazairy are the authors of Geographies of Trash (2015), Geostories: Another Architecture for the Environment (2018; 3rd ed., 2022), The Planet After Geoengineering (2021), and Climate Inheritance (2023). Their work also includes the animation series Elephant in the Room and Other Fables (2021–).
 
-Ghosn (Lebanon, b. 1977) is Associate Professor of Architecture and Urbanism at the Massachusetts Institute of Technology.<br>
-Jazairy (Algeria, b. 1970) is Associate Professor of Architecture at the University of Michigan and Director of the Master of Urban Design degree program.
+DESIGN EARTH has received a United States Artists Fellowship, the Architectural League Prize for Young Architects + Designers, and ACSA Faculty Design Awards, among other honors.
+
+Rania Ghosn is Associate Professor of Architecture and Urbanism at the Massachusetts Institute of Technology, where she directs the Master of Science in Architecture Studies (SMArchS) program in Urbanism. She holds a Bachelor of Architecture from the American University of Beirut, a Master of Geography from University College London, and a Doctor of Design from the Harvard Graduate School of Design.
+
+El Hadi Jazairy is Professor of Architecture at the University of Michigan, where he directs the Master of Urban Design program. He holds a Bachelor of Architecture from La Cambre in Brussels, a Master of Architecture from Cornell University, and a Doctor of Design from the Harvard Graduate School of Design.
 
 Contact us via [Email](mailto:designearthoffice@gmail.com)<br>
 Follow us on <a href="http://www.instagram.com/_designearth/" target="_blank">Instagram</a>

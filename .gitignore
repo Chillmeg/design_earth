@@ -10,3 +10,6 @@ Gemfile.lock
 # Private working documents (not part of the website)
 files/reference/
 files/dropbox/
+
+# Materials sent by the office (private notes + originals)
+update_rania/
