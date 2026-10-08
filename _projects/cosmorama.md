@@ -2,6 +2,23 @@
 title: "Cosmorama"
 year: 2018  # guessed from the text - please check
 thumbnail: thumb.jpg
+# shown in italics under the title: commission or competition, date
+commission: "United States Pavilion at the Venice Biennale, Dimensions of Citizenship, 2018"
+# Project Team, one line each
+team: |
+  El Hadi Jazairy + Rania Ghosn
+  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Yen, Sihao Xiong
+# Project Details, one line each
+details: |
+  Nine 115x115 cm backlit drawings
+  Eight 3D printed heads
+  Meteorite from the Harvard Mineralogical &#38; Geological Museum
+  Printed Carpet 120x420 cm
+  Cosmorama neon sign
+# after the details: photo credits, advisors, links (blank line = new paragraph)
+credits: |
+  Advisor:<br>
+  Benjamin Weiss, MIT EAPS
 images:
   - file: 01.jpg
     width: 567
@@ -31,16 +48,6 @@ images:
     width: 567
     height: 567
 ---
-**Cosmorama**<br>
-*United States Pavilion at the Venice Biennale, Dimensions of Citizenship, 2018*
-
-Project Team:<br>
-El Hadi Jazairy + Rania Ghosn<br>
-Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Yen, Sihao Xiong
-
-Advisor:<br>
-Benjamin Weiss, MIT EAPS
-
 Cosmorama responds to current issues that shape humanity’s relationship to the cosmos in three geostories: “Mining the Sky,” “Planetary Ark,” and “Pacific Cemetery.” These geographic fictions render visible important matters unaccounted for in the technological triumphalism and frontier narratives of the Space Age. They project some of humanity’s present environmental and political hopes and fears, and bring forth these same systems and their attributes as generators of a renewed planetary imagination.
 
 “Mining the Sky” speculates on the landscapes of the 2015 SPACE Act (Spurring Private Aerospace Competitiveness and Entrepreneurship Act) that recognized the right of US citizens to engage in the exploitation of extraplanetary resources, arguably in violation of the 1967 Outer Space Treaty that prevents any state from exercising “national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.” This new franchising of outer space is expected to accelerate the nascent NewSpace entrepreneurial movement as companies such as Planetary Resources plan to extract billions of dollars worth of ore from near-Earth asteroids. The captured asteroids are de-spun and towed to a mining depot at the Earth-Moon L1 Lagrange, a position where the combined gravitational pulls from the two celestial objects constitute a stable equilibrium point. Robotic arms process the asteroid. They either hollow out the asteroid collecting the trail of debris in the fabricated cave or mine the surface to carve out the face of the gods of the new space age. The mining station serves human settlements through the Interplanetary Transport Network, requiring minimal energy for an object to travel through such gravitationally determined highways through the solar system. The extraction stations constitute the first artificial constellation visible to human eye from Earth.

@@ -2,33 +2,32 @@
 title: "Love Your Monsters"
 year: 2016
 redirect_from: /projects/a-space-oddity/  # this page used to be called "A Space Oddity"
-slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
+# shown in italics under the title: commission or competition, date
+commission: "Fairy Tales Competition, 2016"
+# Project Team, one line each
+team: |
+  El Hadi Jazairy + Rania Ghosn
+  Jia Weng, Ya Suo, Sihao Xiong, Bin Zhang
+# Project Details, one line each
+details: "5 drawings (91 X 59 cm), inkjet print on paper"
 images:
   - file: 01.jpg
-    width: 567
-    height: 367
+    width: 800
+    height: 518
   - file: 02.jpg
-    width: 567
-    height: 367
+    width: 800
+    height: 518
   - file: 03.jpg
-    width: 567
-    height: 367
+    width: 800
+    height: 518
   - file: 04.jpg
-    width: 567
-    height: 367
+    width: 800
+    height: 518
   - file: 05.jpg
-    width: 567
-    height: 367
+    width: 800
+    height: 518
 ---
-**Love Your Monsters**<br>
-*Fairy Tales Competition, 2016*<br>
-5 drawings (91 X 59 cm), inkjet print on paper
-
-Project Team:<br>
-El Hadi Jazairy + Rania Ghosn<br>
-Jia Weng, Ya Suo, Sihao Xiong, Bin Zhang
-
 In 1682, an icy celestial body crossed the sky following the same path as others in 1531 and 1607. Using the Law of Gravity, which was developed by his friend Sir Isaac Newton, Edmond Halley showed that the three different appearances were actually the same comet travelling around the Sun in a long orbit and returning every 76 years. He predicted that the comet was periodic, and would reappear in 1758. In 1759, the comet came back, a little late because Jupiter’s strong gravity slowed it down. Halley’s Comet has also returned in 1835, 1910, and in 1986. In its last sojourn through the inner solar system, five space probes flew through Halley's tail. They closely observed the jets of evaporating material and snapped thousands of photographs as they swept by. Perhaps you remember seeing a faint fuzzy patch in the sky or the comet for yourself through binoculars.
 
 In 2060, Sir Isaac Newton returns to Cambridge to head the Halley Armada.<br>

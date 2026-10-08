@@ -2,7 +2,7 @@
 title: "Apart We Are Together / Thresholds"
 permalink: /publications/apart-we-are-together--thresholds/
 year: 2017  # guessed from the text - please check
-thumbnail: thumb.png
+thumbnail: thumb.jpg
 thumbnail_height: 200
 images:
   - file: 01.png

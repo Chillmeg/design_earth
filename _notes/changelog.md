@@ -2,6 +2,52 @@
 
 Newest first. One entry per round of changes. The details for each page are in `missing-assets.md`.
 
+## 2026-10-08: El Hadi's feedback (fine tuning)
+
+**Source:** El Hadi's email (pasted in the session), plus two screenshots of the preview in `update_rania/` (Whale Song and The Way of the Dinosaurs). They show a bold title, missing "1 of N" line and little text on Whale Song, and a soft image and bold item list on Dinosaurs.
+
+### Done
+
+| Request | Change | Files |
+|---|---|---|
+| PROJECT text order: Title (not bold), *Commission, date*, Project Team, Blurb | The header lines are now front-matter fields (`commission`, `team`), and one include prints them in this order on every page. The title is plain text. Project Details, credits and "Watch the animation" come after the blurb | `_includes/item-text.html`, `_layouts/slideshow.html`, all `_projects/*.md` |
+| EXHIBIT text order: Title, *Venue, date*, Project Team, Venue details, On view, Curators, Blurb, Project Details, link to the project | Same, with the fields `venue`, `team`, `venue_details`, `on_view`, `curators`, `details`, `credits`, `projects`. The "Click for more information about the … project(s)" line is built from `projects:`, so it can't point to a wrong address | `_includes/item-text.html`, all `_exhibitions/*.md` |
+| "As informative as possible, repetition OK" | Empty exhibition pages got the project's team and blurb. Venue, dates and curators come from the dossier. Projects got details from their exhibitions (Cosmorama, Julia, Trash Peaks) and a commission line where one was known. See "Filled in" below | |
+| ANIMATE: bigger film frames | Tiles are 470×264 (was 200×113), 2 per row, 980 px wide | `_layouts/section.html` |
+| PUBLISH: bigger book frames, 4×4 grid | 4 per row, covers fit 230×300 (were 200 high), bottoms lined up, 980 px wide. Covers re-made at 2× from the page images | `_layouts/section.html`, `assets/images/publications/*/thumb.jpg` |
+| MAIN: headshot before the text | Done | `_layouts/home.html` |
+| Automatic move to the next image | Kept, on every PROJECT and EXHIBIT slideshow (5 s). No page turns it off | (no change needed) |
+| Same alignment on every project | The slideshow is a fixed 567 px frame on PROJECT and EXHIBIT pages, so the text always starts at the same height and doesn't jump while images change | `_includes/slideshow.html`, `assets/js/slideshow.js` |
+| "1 of N  Previous \| Next" on top everywhere | `slideshow_nav: false` removed from all 28 pages. The line also shows on one-image pages, for the same alignment | `_projects/*.md`, `_exhibitions/*.md` |
+| Consistent image size | Every slide is shown as large as fits 800×567 (squares 567×567, landscapes about 800×533). Before, the sizes ran from 400 to 1181 px wide | all `images:` lists |
+| No small captions | Removed. A World Previous to Ours' cavity names and reference credit, and Laboral's photo credit, moved into the page text | |
+| Strongest image first (the cover), references at the end | The cover image is now slide 1 on A World Previous to Ours, Act as if, Of Oil and Ice, The Way of the Dinosaurs and NTU (the others already started with it). A World Previous to Ours: the Cuvier tooth drawing (a reference) moved to the end | |
+| Image resolution | 176 slides re-exported at 2× from the Dropbox originals (sharp on retina screens). That includes The Way of the Dinosaurs (from Rania's Dropbox link, 8268 px originals) and Crocodile Tears (re-cut from the act TIFFs). Each one was compared with the old image. 8 Dropbox files turned out to be other versions of the drawing, so those slides were kept as they were | `assets/images/projects/*`, `assets/images/exhibitions/*` |
+| Bold for main categories, not bold for item titles | The item list in the left column and the titles under grid tiles are now regular weight. The current item is still grey | `assets/css/style.css`, `_includes/grid-styles.html` |
+
+### Filled in (please check)
+
+- **Project Team "Rania Ghosn + El Hadi Jazairy"** on Crocodile Tears, The Way of the Dinosaurs, Whale Song and the V&A exhibition. These pages had no team.
+- **Commission lines** that weren't on the pages: Act as if (This Land's Unknown, FRAC Orléans, 2019), Climate Inheritance (Bauhaus Museum Dessau, 2021), Flag the Earth (Cornell AAP, Earth: Projections 50 Years after Earth Art, 2019, from the dossier; curator Tao DuFour), Whale Song (London Design Festival, V&A, 2022), Crocodile Tears and The Way of the Dinosaurs ("Elephant in the Room and Other Fables", 2026 / 2023).
+- **Exhibition details from the dossier:** MoMA (Systems, cur. Paola Antonelli, May 23, 2022 – Nov 6, 2024; the page is still unpublished).
+- **Venue lines worked out from the page text:** Venice 2021 ("As One Planet, Central Pavilion, Giardini"), Geographies of Trash (dates from the blurb).
+- Typo fixed: "luís" → "Luís" (Oslo curators).
+- The Geostories (League Prize) page now links to the real Neck of the Moon page. It used to point to `/projects/neck-of-the-moon/`, a 404 listed in `known-issues.md`.
+
+### Still open
+
+- [ ] **Conflicts with the dossier** (the page wording was kept): Bauhaus Dessau dates (page: 24 June – 3 Oct 2021; dossier: March 26 – October 4, 2021); Volcano Dreams year (page: 2021; dossier: October 15 – December 18, 2020).
+- [ ] **No Project Team known:** Act as if Our House Is on Fire, Climate Inheritance, Cosmograph, NTU, Volcano Dreams.
+- [ ] **No blurb:** Ocean Metabolism, Cosmograph, NTU, Volcano Dreams.
+- [ ] **Low-resolution images, no original in the Dropbox** (shown up to 1.4× larger than the file): A Geographic Stroll (4), Love Your Monsters (5), Neck of the Moon (9), Sea Our Land (5), The Atmosphere Is Dead (1), The Belly of a Mountain (2), Towers on Wire (2), Cloud Culture City (1), The Planet After Geoengineering (21 of 25 are 567 px). Laboral photo 2 is only 400×299, so it's shown at that size. The Climate Inheritance book cover tile is a 200 px crop.
+- [ ] **Image order beyond "cover first":** only A World Previous to Ours had an obvious reference image. El Hadi or Rania should say which other images are references.
+- [ ] MoMA page: still waiting for MoMA's caption.
+
+### Checks run
+
+- Every changed front matter parses as YAML. Every `projects:` / `animation:` entry points to an existing page.
+- Each re-exported image was compared with the old one (diff at 128 px and 32 px, plus a visual check of the borderline ones).
+
 ## 2026-10-05: Rania's feedback (October)
 
 **Source:** Rania's notes and images in `update_rania/` (private and gitignored), plus the Dropbox links in her notes.

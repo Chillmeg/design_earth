@@ -2,8 +2,23 @@
 title: "Whale Song | V&A, London Design Festival"
 permalink: /exhibitions/whale-song--va-london-design-festival/
 year: 2022
-slideshow_nav: false  # hide the "1 of N  Previous | Next" line
 thumbnail: thumb.jpg
+heading: "Whale Song"
+# shown in italics under the title: exhibition / venue, date
+venue: "London Design Festival, V&A Museum, 2022"
+# Project Team, one line each
+team: "Rania Ghosn + El Hadi Jazairy"
+# Venue, one line each
+venue_details: "V&A Museum, London"
+# On view (dates)
+on_view: "September 17–25, 2022"
+# after the details: photo credits, advisors, links (blank line = new paragraph)
+credits: |
+  Music by David Rothenberg @2008 The Killer<br>
+  Narrated by Beatrice Galilee
+# file names of the project pages: adds "Click for more information about the ... project."
+projects:
+  - whale-song
 images:
   - file: 01.jpg
     width: 800
@@ -18,8 +33,4 @@ images:
     width: 800
     height: 537
 ---
-**Whale Song**<br>
-*London Design Festival, V&A Museum, London*<br>
-September 17–25, 2022
-
-Click for more information about the <a href="../../projects/whale-song/" title="Whale Song">Whale Song</a> project.
+“A Whale Song" by DESIGN EARTH casts the skeleton of Hope, the stranded blue whale, as it is assembled in the Natural History Museum in London.

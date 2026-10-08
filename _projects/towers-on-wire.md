@@ -3,21 +3,20 @@ title: "Towers on Wire"
 hidden: true  # not in the list or grid; the page still works
 year: 2014  # guessed from the text - please check
 thumbnail: thumb.jpg
+# shown in italics under the title: commission or competition, date
+commission: "eVolo 2014 Skyscraper Competition"
+# Project Team, one line each
+team: |
+  El Hadi Jazairy + Rania Ghosn
+  Yu-Hsiang Lin, Jia Weng
 images:
   - file: 01.jpg
-    width: 709
-    height: 347
+    width: 800
+    height: 392
   - file: 02.jpg
-    width: 709
-    height: 347
+    width: 800
+    height: 392
 ---
-**Towers on Wire**<br>
-*eVolo 2014 Skyscraper Competition*
-
-Project Team:<br>
-El Hadi Jazairy + Rania Ghosn<br>
-Yu-Hsiang Lin, Jia Weng
-
 On a cold, grey New York morning, Philippe Petit, a 24-year-old tightrope walker, crossed the 200ft void between the Twin Towers of the newly built World Trade Center. His 1974 high-wire walk made headlines around the world for what became known as the “Artistic Crime of the Century.” When asked why he did the stunt, Petit would say, "When I see three oranges, I juggle; when I see two towers, I walk.”
 
 Towers on Wire moves the ground of the artistic crime from the metropolis to remote territories under the pressure of global resource extraction. The project is sited in Cambodia, a country loosing about one third of its forest resources in the last twenty years to the profit of the logging industry in South-East Asia and the private rubber barons. The increase in global demand for agricultural and industrial land has put pressure on tropical rainforest zones threatening species and economic livelihoods. The degradation of tropical rainforest jeopardizes as well water security by causing severe drought that further diminishes rainfall, humidity, and soil quality leading to even great threats to communities’ livelihoods, health and economic growth. Most importantly, deforestation directly contributes to global climate change as rainforests store much of the world’s carbon dioxide.

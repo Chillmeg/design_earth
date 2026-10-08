@@ -4,12 +4,12 @@ layout: default
 {%- comment -%}
   Grid page for one section (page.section = projects / publications / exhibitions / animations).
   Tile image: `thumbnail` if set, otherwise a YouTube still (animations) or the first image.
-  Animation tiles are 16:9 (like the YouTube channel); the other sections' tiles are square.
+  Tile sizes are set further down (PUBLISH: 4 per row, ANIMATE: 2 per row, the others: squares).
   If the section page sets `book_heading`, books (`book: true`) get that heading and the rest get `other_heading` (optional).
   If it also sets `essays_heading`, the list in _data/essays.yml is shown between the books and the rest.
 {%- endcomment -%}
 {%- include ordered.html collection=page.section -%}
-<div id='img-container'>
+<div id='img-container'{% if page.section == "publications" or page.section == "animations" %} style='width: 980px;'{% endif %}>
 {%- assign group = nil -%}
 {% for d in ordered -%}
 {%- if page.book_heading -%}
@@ -33,25 +33,29 @@ layout: default
 {%- elsif d.images.size > 0 -%}
   {%- assign src = base | append: d.images[0].file | relative_url -%}
 {%- endif -%}
+{%- comment -%}
+  Tile sizes. PUBLISH: 4 per row, covers fit a 230x300 box with their bottoms lined up.
+  ANIMATE: 2 per row, 470x264 (16:9). The other sections: 200x200 squares, as on the old site.
+{%- endcomment -%}
 {%- if page.section == "publications" -%}
-  {%- assign h = d.thumbnail_height | default: 200 -%}
-  {%- assign pad = 200 | minus: h -%}
-  {%- capture img_size %}height='{{ h }}'{% endcapture -%}{%- capture fit %}{% unless d.thumbnail %} max-width:200px;{% endunless %}{% endcapture -%}
+  {%- assign hw = 245 -%}{%- assign hh = 370 -%}{%- assign pw = 230 -%}
+  {%- assign box = "height: 300px; display: flex; align-items: flex-end;" -%}
+  {%- assign img_size = "" -%}{%- assign fit = " max-width: 230px; max-height: 300px;" -%}
 {%- elsif page.section == "animations" -%}
   {%- comment -%} 16:9 like the YouTube channel; cover also trims letterbox bars from 4:3 thumbnails {%- endcomment -%}
-  {%- assign pad = 0 -%}
-  {%- capture img_size %}width='200' height='113'{% endcapture -%}{%- capture fit %} object-fit: cover;{% endcapture -%}
+  {%- assign hw = 490 -%}{%- assign hh = 324 -%}{%- assign pw = 470 -%}{%- assign box = "" -%}
+  {%- assign img_size = "width='470' height='264'" -%}{%- assign fit = " object-fit: cover;" -%}
 {%- else -%}
-  {%- assign pad = 0 -%}
+  {%- assign hw = 225 -%}{%- assign hh = 260 -%}{%- assign pw = 200 -%}{%- assign box = "" -%}
   {%- capture img_size %}width='200' height='200'{% endcapture -%}{%- capture fit %}{% unless d.thumbnail %} object-fit: cover;{% endunless %}{% endcapture -%}
 {%- endif %}
-<div class='picture_holder' id='node_{{ d.slug }}' style='width: 225px; height: 260px;'>
-<div class='picture' style='width: 200px;'>
-<div style='padding-top: {{ pad }}{% if page.section == "publications" %}px{% endif %};'>
+<div class='picture_holder' id='node_{{ d.slug }}' style='width: {{ hw }}px; height: {{ hh }}px;'>
+<div class='picture' style='width: {{ pw }}px;'>
+<div style='{{ box }}'>
 <a href='{{ d.url | relative_url }}' class='link'>{% if src %}<img style='margin-bottom:10px;{{ fit }}' src='{{ src }}' {{ img_size }} alt='' />{% endif %}</a>
 </div>
 </div>
-<div class='captioning'><div class='title'>{{ d.title }}</div></div>
+<div class='captioning' style='width: {{ pw }}px;'><div class='title'>{{ d.title }}</div></div>
 </div>
 {% endfor %}
 <div style='clear: left;'><!-- --></div></div>

@@ -10,7 +10,9 @@ permalink: /search.json
 {%- assign items = site[s.collection] | where_exp: "d", "d.hidden != true" -%}
 {%- for d in items -%}
 {%- unless first %},{% endunless %}{% assign first = false %}
-{"title": {{ d.title | jsonify }}, "url": {{ d.url | relative_url | jsonify }}, "section": {{ s.title | jsonify }}, "year": {{ d.year | default: "" | jsonify }}, "text": {{ d.content | strip_html | normalize_whitespace | jsonify }}}
+{%- comment -%} the page text plus the fields shown above it (commission, venue, team, curators, ...) {%- endcomment -%}
+{%- capture text %}{{ d.heading }} {{ d.commission }} {{ d.venue }} {{ d.team }} {{ d.venue_details }} {{ d.on_view }} {{ d.curators }} {{ d.content }} {{ d.details }} {{ d.credits }}{% endcapture %}
+{"title": {{ d.title | jsonify }}, "url": {{ d.url | relative_url | jsonify }}, "section": {{ s.title | jsonify }}, "year": {{ d.year | default: "" | jsonify }}, "text": {{ text | strip_html | normalize_whitespace | jsonify }}}
 {%- endfor -%}
 {%- endif -%}
 {%- endfor %}

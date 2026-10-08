@@ -1,5 +1,7 @@
 {%- comment -%}
-  The slideshow. Params: folder (image folder under assets/images), nav (true/false).
+  The slideshow. Params: folder (image folder under assets/images), nav (true/false),
+  box (optional height in px: a fixed frame, so the text below starts at the same place on every page;
+  with box, the "1 of N  Previous | Next" line is shown even for a single image, for the same reason).
   Markup matches the old Indexhibit slideshow; assets/js/slideshow.js builds the next slides.
 {%- endcomment -%}
 {%- assign base = "/assets/images/" | append: include.folder | append: "/" -%}
@@ -8,14 +10,15 @@
 <script type='text/javascript'>
 var fade = true;
 var slideshow_interval = {{ page.slideshow_interval | default: site.slideshow_interval | default: 0 }}; // seconds between automatic image changes, 0 = off
+var slideshow_box = {{ include.box | default: 0 }}; // fixed frame height, 0 = follow the images
 var slides = [{% for im in imgs %}{ src: {{ base | append: im.file | relative_url | jsonify }}, width: {{ im.width | default: 0 }}, height: {{ im.height | default: 0 }}, caption: {{ im.caption | default: "" | jsonify }} }{% unless forloop.last %}, {% endunless %}{% endfor %}];
 </script>
-{% if include.nav and imgs.size > 1 %}
+{% if include.nav and imgs.size > 0 %}{% if imgs.size > 1 or include.box %}
 <div id='slideshow-nav' class='nav-above'>
 <span id="total"><em>1</em> of {{ imgs.size }}</span>&nbsp;&nbsp;<span id="previous"><a href="#" onclick="previous(); return false;">Previous</a></span> | <span id="next"><a href="#" onclick="next(); return false;">Next</a></span></div>
-{% endif %}
+{% endif %}{% endif %}
 {% if first -%}
 <div id='slideshow-wrapper'>
-<div id='slideshow' style='position: relative;{% if first.height %} height:{{ first.height }}px{% endif %}'>
+<div id='slideshow' style='position: relative;{% if include.box %} height:{{ include.box }}px{% elsif first.height %} height:{{ first.height }}px{% endif %}'>
 <div id="slide1000" class="picture" style="z-index: 1000; position: absolute;"><a href="#" onclick="next(); return false;" alt=""><img src="{{ base | append: first.file | relative_url }}"{% if first.width %} width="{{ first.width }}" height="{{ first.height }}"{% endif %} /></a>{% if first.caption and first.caption != "" %}<div class='captioning'><div class='caption'>{{ first.caption | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div></div>{% endif %}</div></div></div>
 {%- endif -%}

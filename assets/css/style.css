@@ -182,3 +182,13 @@ li.active a:visited, li a.active, li span.active, #index ul.section li.active a:
     margin-bottom: 10px;
 }
 #prev_new_entries{ position:fixed; bottom:34px; right:34px;}
+
+/* 2026-10 (El Hadi's notes): main categories bold, item titles not bold.
+   Applies to the item list in the left column (grid tile titles: _includes/grid-styles.html).
+   The current item is still shown in grey. */
+#index ul.subsection li,
+#index ul.subsection li a,
+#index ul.subsection li.active a:link,
+#index ul.subsection li.active a:visited,
+#index ul.subsection li.active a:hover,
+#index ul.subsection li.active a:active { font-weight: normal; }

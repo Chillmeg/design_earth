@@ -2,6 +2,12 @@
 title: "Apart, We Are Together"
 year: 2015  # guessed from the text - please check
 thumbnail: thumb.jpg
+# shown in italics under the title: commission or competition, date
+commission: "Dry Futures Competition, 2015, [Honorable Mention](http://archinect.com/news/article/137509788/apart-we-are-together-an-honorable-mention-in-dry-futures-speculative-category)"
+# Project Team, one line each
+team: |
+  El Hadi Jazairy + Rania Ghosn
+  Hsin-Han Lee, Kartiki Sharma, Mingchuan Yang, Saswati Das
 images:
   - file: 01.jpg
     width: 670
@@ -38,7 +44,7 @@ images:
     height: 567
   - file: 12.jpg
     width: 800
-    height: 473
+    height: 472
   - file: 13.jpg
     width: 800
     height: 566
@@ -46,13 +52,6 @@ images:
     width: 624
     height: 567
 ---
-**Apart, We Are Together**<br>
-*Dry Futures Competition, 2015*, [Honorable Mention](http://archinect.com/news/article/137509788/apart-we-are-together-an-honorable-mention-in-dry-futures-speculative-category)
-
-Project Team:<br>
-El Hadi Jazairy + Rania Ghosn<br>
-Hsin-Han Lee, Kartiki Sharma, Mingchuan Yang, Saswati Das
-
 California will not be homogeneously dry. Its main geographic challenge is economic and political.
 
 With 21 spots on the list of 30 neighborhoods with the highest percentage of million dollar homes, the taxpayers in these zip codes will pay for desalted water, a cost nearly twice as expensive as the rate for imported water was. They will ramp up their infrastructure to convert salty ocean water into drinking water to quench their long-term thirst. (Don’t worry about the intensive energy needs of such infrastructure, oil is imported from new drillings in the Arctic).

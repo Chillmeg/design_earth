@@ -4,7 +4,6 @@ To go over in detail later. Each one is also broken on the old design-earth.org.
 
 | Page | Problem | Possible fix |
 |---|---|---|
-| `/exhibitions/geostories/` | Text links to `/projects/neck-of-the-moon/`, which doesn't exist (404) | Point it to `../../projects/neck-of-the-moon-hyperreal/` |
 | `/projects/hassi-messaoud-oil-urbanism/` | Empty page (no image, no text), listed in the nav only | Add content or remove it |
 | `/publications/climate-inheritance--perspecta/` | Empty page, listed in the nav only | Add content or remove it |
 | various | `year:` values were guessed from the text and are marked "please check" | Review |
@@ -19,6 +18,8 @@ To go over in detail later. Each one is also broken on the old design-earth.org.
 
 ## Fixed since
 
+- `/exhibitions/geostories/`: the link to `/projects/neck-of-the-moon/` (404) now goes to the Neck of the Moon page (2026-10-08, from the new `projects:` field).
+
 - `/publications/geographies-of-trash/2/`: the 22 missing slideshow images (404 on the old server too) were replaced on 2026-10-05 by Rania's cover photo and two spread photos.
 
 ## Expected differences in `_tools/compare-report.txt` (since 2026-10-05)
@@ -27,3 +28,10 @@ To go over in detail later. Each one is also broken on the old design-earth.org.
 - `/projects/a-space-oddity/`: now redirects to `/projects/love-your-monsters/` (same project, renamed). `/projects/composting-worlds/` redirects to Sowing Worlds, as before.
 - `/publications/geographies-of-trash/2/`: 3 new photos instead of the 22 images that were missing on the old site.
 - Grid pages and "nav list" lines: new items, and the item list shown on every page.
+
+## Expected differences in `_tools/compare-report.txt` (since 2026-10-08, El Hadi's notes)
+
+- Every PROJECT and EXHIBIT page: title not bold, text in El Hadi's order (see `_includes/item-text.html`), the "1 of N  Previous | Next" line on every page, a fixed 567 px slideshow frame, no image captions, slides sized to fill 800×567, some slides in a new order (cover first).
+- Left column: item titles in regular weight (categories still bold). Grid tile titles in regular weight.
+- ANIMATE and PUBLISH grids: larger tiles, 2 and 4 per row.
+- MAIN: headshot above the text.

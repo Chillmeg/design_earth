@@ -2,21 +2,21 @@
 title: "Julia"
 year: 2019  # guessed from the text - please check
 thumbnail: thumb.jpg
+# shown in italics under the title: commission or competition, date
+commission: "Le Lieu Unique, Tomorrows: Speculative Fictions for Mediterranean Futures, 2019"
+# Project Team, one line each
+team: |
+  El Hadi Jazairy + Rania Ghosn
+  Jordan Laurila, Liam Li
+# Project Details, one line each
+details: "40 x 240 cm backlit drawing"
+# after the details: photo credits, advisors, links (blank line = new paragraph)
+credits: "Curators: Daphne Dragona, Panos Dragonas"
 images:
   - file: 01.jpg
     width: 800
     height: 133
 ---
-**Julia: The Submerged Volcano**<br>
-*Le Lieu Unique, Tomorrows: Speculative Fictions for Mediterranean Futures, 2019*
-
-Project Team:<br>
-El Hadi Jazairy + Rania Ghosn<br>
-Jordan Laurila, Liam Li
-
-Curators:<br>
-Daphne Dragona, Panos Dragonas
-
 Julia, the Submerged Volcano responds to current questions about humanity’s relationship to the Earth by speculating on the geography of a Mediterranean submerged volcano. Beneath the shimmering waters of the Tyrrhenian sea, and at about 7m below sea level, lays Julia (also Graham Island or Ferdinandea), one of the largest submarine volcanic edifice of Europe. In the South of Sicily, Julia last appeared in 1831 after a volcanic eruption. An international dispute over its sovereignty started and remained unresolved when the island eroded and vanished a year later.
 
 During its brief life, geologist Constant Prévost witnessed this appearance and reported it to the Bulletin de la Société Géologique de France. The discovery was made in July 1831 and the island was named Île Julia, for its July appearance. Some observers wondered if a chain of mountains would spring up, linking Sicily to Tunisia and thus disturbing the geopolitics of the region.

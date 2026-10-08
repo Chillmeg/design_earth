@@ -2,7 +2,7 @@
 title: "Of Oil and Ice | Ambiguous Territory"
 permalink: /publications/of-oil-and-ice--ambiguous-territory/
 year: 2022  # guessed from the text - please check
-thumbnail: thumb.png
+thumbnail: thumb.jpg
 thumbnail_height: 200
 images:
   - file: 01.png

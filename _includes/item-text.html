@@ -1,0 +1,53 @@
+{%- comment -%}
+  The text under the slideshow on PROJECT and EXHIBIT pages, always in the same order
+  (El Hadi's notes, October 2026). Any field left out is skipped.
+
+  PROJECT:  title, *commission, date*, Project Team, blurb (the page text), Project Details, credits, link to the animation
+  EXHIBIT:  title, *venue, date*, Project Team, Venue, On view, Curators, blurb (the page text), Project Details, credits,
+            link(s) to the project(s)
+
+  heading:  the title shown on the page, if it differs from `title` (which is used in the menus)
+  team, venue_details, curators, details: one entry per line
+  credits:  free text (photo credits, advisors, extra links), one paragraph per blank-line-separated block
+{%- endcomment -%}
+{%- assign p = page -%}
+{%- capture nl %}
+{% endcapture -%}
+<p>{{ p.heading | default: p.title }}{% assign sub = p.commission | default: p.venue %}{% if sub %}<br>
+<em>{{ sub | markdownify | remove: '<p>' | remove: '</p>' | strip }}</em>{% endif %}</p>
+{% if p.team %}
+<p>Project Team:<br>
+{{ p.team | strip | markdownify | remove: '<p>' | remove: '</p>' | strip | newline_to_br }}</p>
+{% endif -%}
+{%- if p.venue_details %}
+<p>Venue:<br>
+{{ p.venue_details | strip | markdownify | remove: '<p>' | remove: '</p>' | strip | newline_to_br }}</p>
+{% endif -%}
+{%- if p.on_view %}
+<p>On view:<br>
+{{ p.on_view | strip | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+{% endif -%}
+{%- if p.curators %}
+<p>{% if p.curators contains "," or p.curators contains "&" or p.curators contains " and " or p.curators contains nl %}Curators{% else %}Curator{% endif %}:<br>
+{{ p.curators | strip | markdownify | remove: '<p>' | remove: '</p>' | strip | newline_to_br }}</p>
+{% endif %}
+{{ content }}
+{% if p.details -%}
+<p>Project Details:<br>
+{{ p.details | strip | markdownify | remove: '<p>' | remove: '</p>' | strip | newline_to_br }}</p>
+{% endif -%}
+{%- if p.credits %}
+{{ p.credits | markdownify }}
+{%- endif -%}
+{%- if p.animation %}
+{%- assign anim = site.animations | where: "slug", p.animation | first %}
+<p>Watch the <a href="{{ anim.url | relative_url }}">animation</a>.</p>
+{%- endif -%}
+{%- if p.projects %}
+{%- assign n = p.projects | size %}
+<p>Click for more information about the {% for s in p.projects -%}
+{%- assign pr = site.projects | where: "slug", s | first -%}
+<a href="{{ pr.url | relative_url }}" title="{{ pr.title | escape }}">{{ pr.title }}</a>
+{%- unless forloop.last %}{% if forloop.rindex == 2 %} and {% else %}, {% endif %}{% endunless -%}
+{%- endfor %} project{% if n > 1 %}s{% endif %}.</p>
+{%- endif %}

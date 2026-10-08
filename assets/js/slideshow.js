@@ -4,6 +4,7 @@
 // Behaviour kept: fade, "1 of N" counter, Previous | Next, click image = next, arrow keys,
 // hover arrows over the left/right 30% of the image (they appear after the first change, as before).
 // Added: automatic change every `slideshow_interval` seconds (set in _config.yml, or per page; 0 = off).
+// Added: `slideshow_box` (px) keeps the frame at one fixed height on project and exhibition pages.
 
 var active = 0;
 var zindex = 999;
@@ -27,8 +28,14 @@ function scheduleAutoplay()
 	}, slideshow_interval * 1000);
 }
 
+function fixedBox()
+{
+	return typeof slideshow_box != 'undefined' && slideshow_box > 0;
+}
+
 $(document).ready(function()
 {
+	if (fixedBox()) return;
 	var tmp = $('#slideshow div#slide1000').height();
 	if (tmp) $('#slideshow').height(tmp);
 });
@@ -36,6 +43,7 @@ $(document).ready(function()
 // images without stored width/height: size the box once the first one has loaded
 $(window).load(function()
 {
+	if (fixedBox()) return;
 	var tmp = $('#slideshow div#slide1000').height();
 	if (tmp) $('#slideshow').height(tmp);
 });
@@ -109,6 +117,7 @@ function loading()
 
 function adjust_height(next)
 {
+	if (fixedBox()) return;
 	// with automatic changes, only grow the box, so the text below doesn't jump up and down
 	if (autoplayOn() && next < $('#slideshow').height()) return;
 	$('#slideshow').height(next);
@@ -144,7 +153,7 @@ $(window).load(function()
 	$.each(slides, function(i, s) { if (i > 0) $('<img/>')[0].src = s.src; });
 
 	// with automatic changes, make the box as tall as the tallest image from the start
-	if (autoplayOn())
+	if (autoplayOn() && !fixedBox())
 	{
 		var tallest = 0;
 		$.each(slides, function(i, s) { if (s.height > tallest) tallest = s.height; });

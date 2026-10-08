@@ -4,27 +4,26 @@ hidden: true  # not in the list or grid; the page still works
 permalink: /project/a-geographic-stroll-around-the-horizon/
 year: 2013  # guessed from the text - please check
 thumbnail: thumb.jpg
+# shown in italics under the title: commission or competition, date
+commission: "Rio City Vision Competition, 2013, [Honorable Mention](http://www.cityvisionweb.com/competitions/riodejaneiro/)"
+# Project Team, one line each
+team: |
+  El Hadi Jazairy + Rania Ghosn
+  Justin Garrison, Dorin Baul, Carla Landa, Jia Weng
 images:
   - file: 01.jpg
-    width: 567
-    height: 391
+    width: 800
+    height: 552
   - file: 02.jpg
-    width: 567
-    height: 400
+    width: 800
+    height: 564
   - file: 03.jpg
-    width: 567
-    height: 151
+    width: 800
+    height: 213
   - file: 04.jpg
-    width: 567
-    height: 151
+    width: 800
+    height: 213
 ---
-<strong>A Geographic Stroll Around the Horizon </strong><br>
-*Rio City Vision Competition, 2013, [Honorable Mention](http://www.cityvisionweb.com/competitions/riodejaneiro/)*
-
-Project Team:<br>
-El Hadi Jazairy + Rania Ghosn<br>
-Justin Garrison, Dorin Baul, Carla Landa, Jia Weng
-
 “We have an even bigger horizon ahead of us,” notes the major Brazilian oil company on its website after the 2007 discovery of mega-fields in the South Atlantic of Brazil. Opening up the petroleum horizon, the offshore oil basins have constituted a new province within 183 kilometers of the coast of Rio. Although such territory is inscribed in an extensive network of oil blocks, transportation vectors, drilling axes, and labor nodes, the image of the offshore is singularly identified with that of the rig perpetuating an urban imaginary of zones of exception, of isolated platforms beyond environmental and economic accountability.
 
 4.7: A Geographic Stroll Around the Horizon expands the spatial and cognitive imaginary of the city of Rio de Janeiro to its ocean-hinterland. Countering the abstraction of the sea into a logistical zone of capitalist fantasies, the project draws on the horizon as a geographic aesthetic that renders legible the offshore territorial project. Set at a distance of 4.7 kilometers for an observer standing on the Earth's surface, the distance to the visible horizon at sea has been historically important as it represented the maximum range of communication, vision, and knowledge.
