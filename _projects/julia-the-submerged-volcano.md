@@ -1,5 +1,6 @@
 ---
 title: "Julia"
+heading: "Julia: The Submerged Volcano"
 year: 2019  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date

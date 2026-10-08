@@ -39,12 +39,13 @@ Newest first. One entry per round of changes. The details for each page are in `
 - [ ] **Conflicts with the dossier** (the page wording was kept): Bauhaus Dessau dates (page: 24 June – 3 Oct 2021; dossier: March 26 – October 4, 2021); Volcano Dreams year (page: 2021; dossier: October 15 – December 18, 2020).
 - [ ] **No Project Team known:** Act as if Our House Is on Fire, Climate Inheritance, Cosmograph, NTU, Volcano Dreams.
 - [ ] **No blurb:** Ocean Metabolism, Cosmograph, NTU, Volcano Dreams.
-- [ ] **Low-resolution images, no original in the Dropbox** (shown up to 1.4× larger than the file): A Geographic Stroll (4), Love Your Monsters (5), Neck of the Moon (9), Sea Our Land (5), The Atmosphere Is Dead (1), The Belly of a Mountain (2), Towers on Wire (2), Cloud Culture City (1), The Planet After Geoengineering (21 of 25 are 567 px). Laboral photo 2 is only 400×299, so it's shown at that size. The Climate Inheritance book cover tile is a 200 px crop.
+- [ ] **Low-resolution images, no original in the Dropbox** (shown up to 1.4× larger than the file): A Geographic Stroll (4), Love Your Monsters (5), Neck of the Moon (9), Sea Our Land (5), The Atmosphere Is Dead (1), The Belly of a Mountain (2), Towers on Wire (2), Cloud Culture City (1), The Planet After Geoengineering (21 of 25 are 567 px). Laboral photo 2 is only 400×299, so it is shown at that size.
 - [ ] **Image order beyond "cover first":** only A World Previous to Ours had an obvious reference image. El Hadi or Rania should say which other images are references.
 - [ ] MoMA page: still waiting for MoMA's caption.
 
 ### Checks run
 
+- Each page title was compared with its old bold title. Julia and A Geographic Stroll got a `heading:` so they keep their full titles.
 - Every changed front matter parses as YAML. Every `projects:` / `animation:` entry points to an existing page.
 - Each re-exported image was compared with the old one (diff at 128 px and 32 px, plus a visual check of the borderline ones).
 

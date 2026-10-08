@@ -47,7 +47,7 @@
 {%- assign n = p.projects | size %}
 <p>Click for more information about the {% for s in p.projects -%}
 {%- assign pr = site.projects | where: "slug", s | first -%}
-<a href="{{ pr.url | relative_url }}" title="{{ pr.title | escape }}">{{ pr.title }}</a>
+<a href="{{ pr.url | relative_url }}" title="{{ pr.heading | default: pr.title | escape }}">{{ pr.heading | default: pr.title }}</a>
 {%- unless forloop.last %}{% if forloop.rindex == 2 %} and {% else %}, {% endif %}{% endunless -%}
 {%- endfor %} project{% if n > 1 %}s{% endif %}.</p>
 {%- endif %}

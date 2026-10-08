@@ -8,7 +8,6 @@ heading: "The Planet After Geoengineering"
 venue: "Biennale Architettura 2021: How will we live together?"
 # Project Team, one line each
 team: |
-  Project Team
   Project leads: Rania Ghosn and El Hadi Jazairy
   Design team: Reid Fellenbaum, Kelly Koh, Meng-Fu Kuo, Joude Mabsout, Jane Jia Weng; with contributions from Ayusha Ariana, Avery Nguyen, Michael Stradley
   Animation team: Anhong Li, Monica Hutton
