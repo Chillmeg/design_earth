@@ -45,7 +45,9 @@
 {%- endif -%}
 {%- if p.projects %}
 {%- assign n = p.projects | size %}
-<p>Click for more information about the {% for s in p.projects -%}
+{%- assign first_pr = site.projects | where: "slug", p.projects[0] | first -%}
+{%- assign first_name = first_pr.heading | default: first_pr.title -%}
+<p>Click for more information about {% assign lead = first_name | slice: 0, 4 %}{% if lead != "The " %}the {% endif %}{% for s in p.projects -%}
 {%- assign pr = site.projects | where: "slug", s | first -%}
 <a href="{{ pr.url | relative_url }}" title="{{ pr.heading | default: pr.title | escape }}">{{ pr.heading | default: pr.title }}</a>
 {%- unless forloop.last %}{% if forloop.rindex == 2 %} and {% else %}, {% endif %}{% endunless -%}
