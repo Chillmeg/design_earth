@@ -175,3 +175,10 @@ Order on every exhibit page: title (not bold), *venue, date*, Project Team, Venu
 - **Julia:** the image is now rendered from the full drawing (Dropbox `06_Julia.pdf`, 6397×1066) and shown at 533px high, like the other horizontal images, in an 800px-wide box that scrolls sideways (`scroll: true` on the image). The old 800×133 file is still in the archive.
 - **Update:** PUBLISH images are now **300px high everywhere**, the same as the journal covers, including the book pages (Geostories, The Planet After Geoengineering, Climate Inheritance, Geographies of Trash). Covers enlarge to 400px on click, which is the real height of most cover files, so the low-resolution covers aren't blown up.
 - **Menu:** the second "Climate Inheritance" in the PUBLISH menu (the empty Perspecta #54 page) is hidden (`hidden: true`). The URL still works. The Dropbox has its cover and a draft PDF if it should come back as a proper page.
+
+## 2026-10-14: ANIMATE pages follow the PROJECT order
+
+- Animation pages now use the same text block as project pages (`_includes/item-text.html`, from `_layouts/video.html`): **title**, *series/commission, date*, Project Team, blurb, (c) year. The team and (c) moved into the front matter (`team`, `credits`); the page text is the blurb only.
+- The italic line is copied from the matching project page (Crocodile Tears, The Way of the Dinosaurs, Whale Song, Elephant in the Room). A Pas de Loup gets "Elephant in the Room and Other Fables, 2025" because its text calls it the fifth animation in the series.
+- **Living as Flamingo:** English only. The French text is removed. Both narrators are in Project Team, in English (Paola Antonelli, English version; Vinciane Despret, French version), and the French video is still offered as a version.
+- [ ] **No italic line** (no source): 800-Pound Gorilla, Living as Flamingo. Are they part of "Elephant in the Room and Other Fables" too?

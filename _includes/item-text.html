@@ -1,5 +1,6 @@
 {%- comment -%}
-  The text under the slideshow on PROJECT and EXHIBIT pages, always in the same order
+  The text under the slideshow on PROJECT, EXHIBIT and ANIMATE pages, always in the same order
+  (ANIMATE follows PROJECT: **title**, *series/commission, date*, Project Team, blurb, credits)
   (El Hadi's notes, October 2026). Any field left out is skipped.
 
   PROJECT:  **title**, *commission, date*, Project Team, blurb (the page text), Project Details, credits, link to the animation
@@ -13,7 +14,7 @@
 {%- assign p = page -%}
 {%- capture nl %}
 {% endcapture -%}
-<p>{% if p.collection == "projects" %}<strong>{{ p.heading | default: p.title }}</strong>{% else %}{{ p.heading | default: p.title }}{% endif %}{% assign sub = p.commission | default: p.venue %}{% if sub %}<br>
+<p>{% if p.collection == "projects" or p.collection == "animations" %}<strong>{{ p.heading | default: p.title }}</strong>{% else %}{{ p.heading | default: p.title }}{% endif %}{% assign sub = p.commission | default: p.venue %}{% if sub %}<br>
 <em>{{ sub | markdownify | remove: '<p>' | remove: '</p>' | strip }}</em>{% endif %}</p>
 {% if p.team %}
 <p>Project Team:<br>
