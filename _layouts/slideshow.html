@@ -9,7 +9,7 @@ layout: default
 {%- assign folder = page.collection | append: "/" | append: page.slug %}
 {%- assign box = nil -%}{%- assign fit_height = nil -%}
 {%- if page.collection == "projects" or page.collection == "exhibitions" -%}{%- assign box = 567 -%}
-{%- elsif page.collection == "publications" -%}{%- assign box = 567 -%}{%- assign fit_height = 567 -%}{%- endif %}
+{%- elsif page.collection == "publications" -%}{%- comment -%} same height as the journal covers (grow.html) {%- endcomment -%}{%- assign box = 300 -%}{%- assign fit_height = 300 -%}{%- endif %}
 {% include slideshow.html folder=folder nav=show_nav box=box fit_height=fit_height %}
 <div id='textspace' class='placement-bottom'>
 {% if page.collection == "projects" or page.collection == "exhibitions" %}{% include item-text.html %}{% else %}{{ content }}{% endif %}</div>

@@ -2,7 +2,7 @@
 // The original fetched the large image HTML from the server (ajax.php); here it is built from the
 // data-full / data-width / data-height attributes on each .picture_holder.
 // Behaviour kept: click a cover to show it full size, click again to shrink it, one open at a time.
-var GROWN_HEIGHT = 567;
+var GROWN_HEIGHT = 400; // most covers are 400px high: enlarged, they are never shown above their real size
 
 (function($){
 $.fn.ndxz_grow = function()
@@ -38,7 +38,7 @@ $.fn.ndxz_grow = function()
 
 			var show = function(w, h)
 			{
-				// every enlarged cover is shown at the same height (the 567px project frame)
+				// every enlarged cover is shown at the same height
 				w = Math.round(w * GROWN_HEIGHT / h); h = GROWN_HEIGHT;
 				$('div').remove('.once');
 				if (previous != 0 && tmpnode[previous]) $('#node' + previous).replaceWith(tmpnode[previous]);
