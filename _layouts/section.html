@@ -4,12 +4,12 @@ layout: default
 {%- comment -%}
   Grid page for one section (page.section = projects / publications / exhibitions / animations).
   Tile image: `thumbnail` if set, otherwise a YouTube still (animations) or the first image.
-  Tile sizes are set further down (PUBLISH: 4 per row, ANIMATE: 2 per row, the others: squares).
+  Tile sizes are set further down (PUBLISH: books square, the rest portrait; the other sections: squares).
   If the section page sets `book_heading`, books (`book: true`) get that heading and the rest get `other_heading` (optional).
   If it also sets `essays_heading`, the list in _data/essays.yml is shown between the books and the rest.
 {%- endcomment -%}
 {%- include ordered.html collection=page.section -%}
-<div id='img-container'{% if page.section == "publications" or page.section == "animations" %} style='width: 980px;'{% endif %}>
+<div id='img-container'{% if page.section == "publications" %} style='width: 980px;'{% endif %}>
 {%- assign group = nil -%}
 {% for d in ordered -%}
 {%- if page.book_heading -%}
@@ -34,20 +34,21 @@ layout: default
   {%- assign src = base | append: d.images[0].file | relative_url -%}
 {%- endif -%}
 {%- comment -%}
-  Tile sizes. PUBLISH: 4 per row, covers fit a 230x300 box with their bottoms lined up.
-  ANIMATE: 2 per row, 470x264 (16:9). The other sections: 200x200 squares, as on the old site.
+  Tile sizes. Every tile image is cropped to fill its frame (object-fit: cover), so each grid is regular.
+  PUBLISH: 4 per row. Books: 230x230 squares. Everything else (journals, magazines): 230x300 portrait.
+  PROJECT, EXHIBIT and ANIMATE: 200x200 squares, as on the old site.
 {%- endcomment -%}
+{%- assign box = "" -%}{%- assign fit = " object-fit: cover;" -%}
 {%- if page.section == "publications" -%}
-  {%- assign hw = 245 -%}{%- assign hh = 370 -%}{%- assign pw = 230 -%}
-  {%- assign box = "height: 300px; display: flex; align-items: flex-end;" -%}
-  {%- assign img_size = "" -%}{%- assign fit = " max-width: 230px; max-height: 300px;" -%}
-{%- elsif page.section == "animations" -%}
-  {%- comment -%} 16:9 like the YouTube channel; cover also trims letterbox bars from 4:3 thumbnails {%- endcomment -%}
-  {%- assign hw = 490 -%}{%- assign hh = 324 -%}{%- assign pw = 470 -%}{%- assign box = "" -%}
-  {%- assign img_size = "width='470' height='264'" -%}{%- assign fit = " object-fit: cover;" -%}
+  {%- assign hw = 245 -%}{%- assign pw = 230 -%}
+  {%- if d.book == true -%}
+    {%- assign hh = 300 -%}{%- assign img_size = "width='230' height='230'" -%}
+  {%- else -%}
+    {%- assign hh = 370 -%}{%- assign img_size = "width='230' height='300'" -%}
+  {%- endif -%}
 {%- else -%}
-  {%- assign hw = 225 -%}{%- assign hh = 260 -%}{%- assign pw = 200 -%}{%- assign box = "" -%}
-  {%- capture img_size %}width='200' height='200'{% endcapture -%}{%- capture fit %}{% unless d.thumbnail %} object-fit: cover;{% endunless %}{% endcapture -%}
+  {%- assign hw = 225 -%}{%- assign hh = 260 -%}{%- assign pw = 200 -%}
+  {%- assign img_size = "width='200' height='200'" -%}
 {%- endif %}
 <div class='picture_holder' id='node_{{ d.slug }}' style='width: {{ hw }}px; height: {{ hh }}px;'>
 <div class='picture' style='width: {{ pw }}px;'>

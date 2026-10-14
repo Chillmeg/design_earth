@@ -160,3 +160,9 @@ Order on every exhibit page: title (not bold), *venue, date*, Project Team, Venu
 - [ ] **Project Details** (what was shown): Act as if (both), After Oil MoMA (unpublished), A World Previous to Ours Venice, Climate Inheritance (both), Cosmograph, Elephant in the Room Talkbox, Geostories Cooper Union, Planet After Geoengineering (Venice, Laboral, MUDAC, Onassis Stegi), Sowing Worlds Tallinn, NTU, Whale Song V&A.
 - [ ] **Link to a project:** Geographies of Trash and Volcano Dreams have no project page to link to.
 - [ ] **"Tianwei Ye" or "Tianwei Yen"?** The Cosmograph booklet and the old site say Yen; Abitare and the Geostories team list say Ye. The Cosmorama pages now say Ye, the Cosmograph page says Yen (as printed).
+
+## 2026-10-14: Two image sizes, regular grids
+
+- **PROJECT and EXHIBIT pages:** every slideshow image is shown at one of two sizes, cropped to fill (CSS `object-fit: cover`). Square and near-square images (up to 1.25:1) show at 567×567, and horizontal images at 800×533 (3:2). A 16:9 image loses a little at the sides, a 4:3 image a little at top and bottom. The rule is in `_includes/slideshow.html` and `assets/css/slideshow.css`. PUBLISH pages keep their covers as they are.
+- **Vertical images are hidden** on those pages; they stay listed in the front matter, so nothing is lost. Hidden now: A World Previous to Ours project `01.jpg` and Venice exhibition `01.jpg`, `04.jpg`; Flag the Earth `07.jpg`; Act as if UC Denver `02.jpg`; Cosmorama Venice exhibition `05.jpg`.
+- **Grids:** PROJECT, EXHIBIT and ANIMATE tiles are all 200×200 squares with the same layout. ANIMATE was 2 per row at 16:9, so the YouTube stills are now cropped to their centres. PUBLISH: books are 230×230 squares, and journals/magazines are 230×300 portraits, so each row lines up. Climate Inheritance (book) has the widest cover (1.2:1) and loses the most at the sides.

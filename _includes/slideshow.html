@@ -3,22 +3,41 @@
   box (optional height in px: a fixed frame, so the text below starts at the same place on every page;
   with box, the "1 of N  Previous | Next" line is shown even for a single image, for the same reason).
   Markup matches the old Indexhibit slideshow; assets/js/slideshow.js builds the next slides.
+
+  With box (PROJECT and EXHIBIT pages) every image is shown at one of two sizes, cropped to fill
+  (CSS object-fit: cover, in slideshow.css):
+    square and near-square (up to 1.25 wide for 1 high):  567 x 567
+    horizontal:                                           800 x 533 (3:2)
+  Vertical images (narrower than 0.95 wide for 1 high) are left out of the slideshow.
 {%- endcomment -%}
 {%- assign base = "/assets/images/" | append: include.folder | append: "/" -%}
-{%- assign imgs = page.images -%}
-{%- assign first = imgs | first -%}
+{%- assign shown = 0 -%}
+{%- assign first = nil -%}
+{%- capture slides_js -%}
+{%- for im in page.images -%}
+  {%- assign w = im.width | default: 0 -%}{%- assign h = im.height | default: 0 -%}
+  {%- if include.box and w > 0 and h > 0 -%}
+    {%- assign r = w | times: 100 | divided_by: h -%}
+    {%- if r < 95 -%}{%- continue -%}{%- endif -%}
+    {%- if r < 125 -%}{%- assign w = 567 -%}{%- assign h = 567 -%}{%- else -%}{%- assign w = 800 -%}{%- assign h = 533 -%}{%- endif -%}
+  {%- endif -%}
+  {%- if shown == 0 -%}{%- assign first = im -%}{%- assign first_w = w -%}{%- assign first_h = h -%}{%- else -%}, {% endif -%}
+  {%- assign shown = shown | plus: 1 -%}
+  { src: {{ base | append: im.file | relative_url | jsonify }}, width: {{ w }}, height: {{ h }}, caption: {{ im.caption | default: "" | jsonify }} }
+{%- endfor -%}
+{%- endcapture -%}
 <script type='text/javascript'>
 var fade = true;
 var slideshow_interval = {{ page.slideshow_interval | default: site.slideshow_interval | default: 0 }}; // seconds between automatic image changes, 0 = off
 var slideshow_box = {{ include.box | default: 0 }}; // fixed frame height, 0 = follow the images
-var slides = [{% for im in imgs %}{ src: {{ base | append: im.file | relative_url | jsonify }}, width: {{ im.width | default: 0 }}, height: {{ im.height | default: 0 }}, caption: {{ im.caption | default: "" | jsonify }} }{% unless forloop.last %}, {% endunless %}{% endfor %}];
+var slides = [{{ slides_js }}];
 </script>
-{% if include.nav and imgs.size > 0 %}{% if imgs.size > 1 or include.box %}
+{% if include.nav and shown > 0 %}{% if shown > 1 or include.box %}
 <div id='slideshow-nav' class='nav-above'>
-<span id="total"><em>1</em> of {{ imgs.size }}</span>&nbsp;&nbsp;<span id="previous"><a href="#" onclick="previous(); return false;">Previous</a></span> | <span id="next"><a href="#" onclick="next(); return false;">Next</a></span></div>
+<span id="total"><em>1</em> of {{ shown }}</span>&nbsp;&nbsp;<span id="previous"><a href="#" onclick="previous(); return false;">Previous</a></span> | <span id="next"><a href="#" onclick="next(); return false;">Next</a></span></div>
 {% endif %}{% endif %}
 {% if first -%}
 <div id='slideshow-wrapper'>
-<div id='slideshow' style='position: relative;{% if include.box %} height:{{ include.box }}px{% elsif first.height %} height:{{ first.height }}px{% endif %}'>
-<div id="slide1000" class="picture" style="z-index: 1000; position: absolute;"><a href="#" onclick="next(); return false;" alt=""><img src="{{ base | append: first.file | relative_url }}"{% if first.width %} width="{{ first.width }}" height="{{ first.height }}"{% endif %} /></a>{% if first.caption and first.caption != "" %}<div class='captioning'><div class='caption'>{{ first.caption | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div></div>{% endif %}</div></div></div>
+<div id='slideshow'{% if include.box %} class='two-sizes'{% endif %} style='position: relative;{% if include.box %} height:{{ include.box }}px{% elsif first.height %} height:{{ first.height }}px{% endif %}'>
+<div id="slide1000" class="picture" style="z-index: 1000; position: absolute;"><a href="#" onclick="next(); return false;" alt=""><img src="{{ base | append: first.file | relative_url }}"{% if first_w > 0 %} width="{{ first_w }}" height="{{ first_h }}"{% endif %} /></a>{% if first.caption and first.caption != "" %}<div class='captioning'><div class='caption'>{{ first.caption | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div></div>{% endif %}</div></div></div>
 {%- endif -%}
