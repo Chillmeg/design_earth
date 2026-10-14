@@ -9,21 +9,24 @@
     square and near-square (up to 1.25 wide for 1 high):  567 x 567
     horizontal:                                           800 x 533 (3:2)
   Vertical images (narrower than 0.95 wide for 1 high) are left out of the slideshow.
+  Panoramas (1.9 wide for 1 high or wider, e.g. Julia's strip) get the same 800 x 533 frame but are shown
+  whole, at the top of the frame, since cropping them would leave only a small slice.
 {%- endcomment -%}
 {%- assign base = "/assets/images/" | append: include.folder | append: "/" -%}
 {%- assign shown = 0 -%}
 {%- assign first = nil -%}
 {%- capture slides_js -%}
 {%- for im in page.images -%}
-  {%- assign w = im.width | default: 0 -%}{%- assign h = im.height | default: 0 -%}
+  {%- assign w = im.width | default: 0 -%}{%- assign h = im.height | default: 0 -%}{%- assign pano = false -%}
   {%- if include.box and w > 0 and h > 0 -%}
     {%- assign r = w | times: 100 | divided_by: h -%}
     {%- if r < 95 -%}{%- continue -%}{%- endif -%}
+    {%- if r >= 190 -%}{%- assign pano = true -%}{%- endif -%}
     {%- if r < 125 -%}{%- assign w = 567 -%}{%- assign h = 567 -%}{%- else -%}{%- assign w = 800 -%}{%- assign h = 533 -%}{%- endif -%}
   {%- endif -%}
-  {%- if shown == 0 -%}{%- assign first = im -%}{%- assign first_w = w -%}{%- assign first_h = h -%}{%- else -%}, {% endif -%}
+  {%- if shown == 0 -%}{%- assign first = im -%}{%- assign first_w = w -%}{%- assign first_h = h -%}{%- assign first_pano = pano -%}{%- else -%}, {% endif -%}
   {%- assign shown = shown | plus: 1 -%}
-  { src: {{ base | append: im.file | relative_url | jsonify }}, width: {{ w }}, height: {{ h }}, caption: {{ im.caption | default: "" | jsonify }} }
+  { src: {{ base | append: im.file | relative_url | jsonify }}, width: {{ w }}, height: {{ h }}, caption: {{ im.caption | default: "" | jsonify }}{% if pano %}, pano: true{% endif %} }
 {%- endfor -%}
 {%- endcapture -%}
 <script type='text/javascript'>
@@ -39,5 +42,5 @@ var slides = [{{ slides_js }}];
 {% if first -%}
 <div id='slideshow-wrapper'>
 <div id='slideshow'{% if include.box %} class='two-sizes'{% endif %} style='position: relative;{% if include.box %} height:{{ include.box }}px{% elsif first.height %} height:{{ first.height }}px{% endif %}'>
-<div id="slide1000" class="picture" style="z-index: 1000; position: absolute;"><a href="#" onclick="next(); return false;" alt=""><img src="{{ base | append: first.file | relative_url }}"{% if first_w > 0 %} width="{{ first_w }}" height="{{ first_h }}"{% endif %} /></a>{% if first.caption and first.caption != "" %}<div class='captioning'><div class='caption'>{{ first.caption | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div></div>{% endif %}</div></div></div>
+<div id="slide1000" class="picture" style="z-index: 1000; position: absolute;"><a href="#" onclick="next(); return false;" alt=""><img src="{{ base | append: first.file | relative_url }}"{% if first_w > 0 %} width="{{ first_w }}" height="{{ first_h }}"{% endif %}{% if first_pano %} class="pano"{% endif %} /></a>{% if first.caption and first.caption != "" %}<div class='captioning'><div class='caption'>{{ first.caption | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div></div>{% endif %}</div></div></div>
 {%- endif -%}

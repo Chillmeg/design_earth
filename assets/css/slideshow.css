@@ -49,3 +49,5 @@ a#slide-previous:hover {
 /* PROJECT and EXHIBIT pages: images are shown at two fixed sizes (567x567 or 800x533, set in
    _includes/slideshow.html); each image is cropped to fill its frame instead of being stretched */
 #slideshow.two-sizes img { object-fit: cover; }
+/* panoramas (1.9:1 or wider) keep the 800x533 frame but are shown whole, at the top of it */
+#slideshow.two-sizes img.pano { object-fit: contain; object-position: center top; }
