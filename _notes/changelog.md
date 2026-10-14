@@ -126,3 +126,13 @@ Already matching the dossier: After Oil, Pacific Aquarium, The Planet After Geoe
 - [ ] **Sea Our Land** lists only "El Hadi Jazairy" as lead, as on the old site. Check whether Rania should be added.
 - [ ] **Climate Inheritance:** the Section Info draft (`Ghosn_Section_Info_Pages_v2.docx`) says "with Leen Katrib" instead. The printed credit was used. Confirm.
 - [ ] **Elephant in the Room:** the dossier's series page has a larger team (adds Malak Atwi, Ekin Bilal, Jabari Canada, Juliet Chui, Hana Meihan Davis, Kelly Koh, Habin Park, Ivan Shen). The site keeps the 2021 credit (Hutton, Li).
+
+### Credits moved into Project Team, new blurbs (same day)
+
+- **Roles now sit in Project Team as "Name (Role)"**, and the "Narrated by…/Music by…/Advisor" lines at the end are gone. This applies to the Whale Song, Crocodile Tears, The Way of the Dinosaurs (adds Jabari Canada, Soundtrack, from the dossier), Elephant in the Room, A World Previous to Ours (Sylvia Lavin) and Cosmorama (Benjamin Weiss, Advisor) project pages; the Whale Song and both Cosmorama exhibition pages; and every ANIMATION page, which now has a "Project Team:" block like A Pas de Loup. Curators, the meteorite loan and photo credits stay where they were, since they're not the project team.
+- **Blurbs written from the dossier:** Whale Song (project, exhibition and animation pages; from Materia Arquitectura 28), The Way of the Dinosaurs (project and animation; from LA+ "Fossil Fabulation"), and the 800-Pound Gorilla, A Pas de Loup and Elephant in the Room animation pages (from the verse texts and the JAE credit). **Rania should read these.**
+- Crocodile Tears: "damaged landsm" → "damaged lands,". The blurb is otherwise Rania's, because there is no other source.
+
+- [ ] **Still no blurb:** Ocean Metabolism (the old site had none; no text in the dossier or Dropbox, only the drawing). Hassi Messaoud (hidden placeholder).
+- [ ] **Crocodile Tears** needs a longer blurb from Rania. The dossier has nothing on it.
+- [ ] 800-Pound Gorilla: the page says 2024, the dossier caption says 2025.

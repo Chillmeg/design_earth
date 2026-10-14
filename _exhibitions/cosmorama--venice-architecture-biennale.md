@@ -9,7 +9,8 @@ venue: "United States Pavilion at the Venice Architecture Biennale, Dimensions o
 # Project Team, one line each
 team: |
   El Hadi Jazairy + Rania Ghosn
-  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Yen, Sihao Xiong
+  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Ye, Sihao Xiong
+  Benjamin Weiss, MIT EAPS (Advisor)
 # Venue, one line each
 venue_details: "Padiglione Stati Uniti, Giardini di Castello, 30122 Venezia, Italy"
 # On view (dates)
@@ -25,9 +26,6 @@ details: |
   Cosmorama neon sign
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: |
-  Advisor:<br>
-  Benjamin Weiss, MIT EAPS
-
   Iron Meteorite Loan:<br>
   The Meteorological Collection of the Harvard Mineralogical &#38; Geological Museum
 

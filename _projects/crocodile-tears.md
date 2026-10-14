@@ -6,9 +6,9 @@ thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
 commission: "Elephant in the Room and Other Fables, 2026"
 # Project Team, one line each
-team: "Rania Ghosn + El Hadi Jazairy"
-# after the details: photo credits, advisors, links (blank line = new paragraph)
-credits: "Narrated by Anna Tsing."
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Anna Tsing (Narrator)
 # file name of the animation page: adds "Watch the animation."
 animation: "crocodile-tears"
 images:
@@ -55,4 +55,4 @@ images:
     width: 800
     height: 474
 ---
-Crocodile Tears is a DESIGN EARTH fable that traces the environmental histories and imagined futures of Singapore through the figure of the saltwater crocodile. Buaya’s grief is a force of ecological reckoning over Singapore’s damaged landsm displaced communities, and growth-by-fill development.
+Crocodile Tears is a DESIGN EARTH fable that traces the environmental histories and imagined futures of Singapore through the figure of the saltwater crocodile. Buaya’s grief is a force of ecological reckoning over Singapore’s damaged lands, displaced communities, and growth-by-fill development.

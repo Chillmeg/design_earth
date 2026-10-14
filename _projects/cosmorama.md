@@ -8,6 +8,7 @@ commission: "United States Pavilion at the Venice Biennale, Dimensions of Citize
 team: |
   El Hadi Jazairy + Rania Ghosn
   Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Ye, Sihao Xiong
+  Benjamin Weiss, MIT EAPS (Advisor)
 # Project Details, one line each
 details: |
   Nine 115x115 cm backlit drawings
@@ -15,10 +16,6 @@ details: |
   Meteorite from the Harvard Mineralogical &#38; Geological Museum
   Printed Carpet 120x420 cm
   Cosmorama neon sign
-# after the details: photo credits, advisors, links (blank line = new paragraph)
-credits: |
-  Advisor:<br>
-  Benjamin Weiss, MIT EAPS
 images:
   - file: 01.jpg
     width: 567

@@ -9,7 +9,8 @@ venue: "Wrightwood 659, Dimensions of Citizenship, Chicago, 2019"
 # Project Team, one line each
 team: |
   El Hadi Jazairy + Rania Ghosn
-  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Yen, Sihao Xiong
+  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Ye, Sihao Xiong
+  Benjamin Weiss, MIT EAPS (Advisor)
 # Venue, one line each
 venue_details: "Wrightwood 659, Chicago"
 # On view (dates)
@@ -25,9 +26,6 @@ details: |
   Cosmorama neon sign
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: |
-  Advisor:<br>
-  Benjamin Weiss, MIT EAPS
-
   Iron Meteorite Loan:<br>
   The Meteorological Collection of the Harvard Mineralogical &#38; Geological Museum
 

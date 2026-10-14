@@ -7,12 +7,12 @@ commission: "The Perimeter of Architecture: Amid the Elements, 19th Internationa
 # Project Team, one line each
 team: |
   Rania Ghosn &#38; El Hadi Jazairy
-  Ekin Bilal (Design, 3D Model), Monica Hutton (Text), Jabari Canada (Sound), Qilmeg Doudatcz (web interface), Joyce Tullis (prototype)
+  Ekin Bilal (Design, 3D Model), Monica Hutton (Text), Jabari Canada (Sound), Qilmeg Doudatcz (web interface), Joyce Tullis (prototype), Sylvia Lavin (Narrator)
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: |
   With Support from: Taubman College of Architecture and Urban Planning; MIT Humanities, Arts, and Social Sciences Grant; Princeton School of Architecture.
 
-  You can listen to the fable “A World Previous to Ours,” narrated by Sylvia Lavin, at <a href="https://andotherfables.org/">andotherfables.org</a>.
+  You can listen to the fable “A World Previous to Ours” at <a href="https://andotherfables.org/">andotherfables.org</a>.
 
   Last image: a drawing of a fossil molar tooth of the “Ohio animal” from North America, sent to Cuvier in 1801 by Johann Friedrich Blumenbach of Gottingen. From: Martin Rudwick, “Georges Cuvier’s paper museum of fossil bones.”
 

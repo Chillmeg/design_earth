@@ -7,7 +7,9 @@ videos:
 ---
 **Elephant in the Room**
 
-Elephant in the Room addresses the elephant in the room — the climate emergency — by telling the story of one elephant who storms out of the American Museum of Natural History to respond to environmental injustices.
+Elephant in the Room is a speculative ecofeminist fable for the climate crisis. It addresses the elephant in the room — the climate emergency — by telling the story of one elephant who takes action against environmental injustice. The African Elephant Matriarch, one of the famous taxidermy dioramas of the American Museum of Natural History in New York, comes to life and storms out of the museum to stampede through the streets and protest patriarchy and networks of fossil-fuel funding. The 6-minute fable is written and visualized by DESIGN EARTH and narrated, in rhyming verse, by Donna Haraway. It was screened at the Glasgow Science Centre during the 26th UN Climate Change Conference (COP26) in November 2021.
 
-Narrated by Donna Haraway<br>
+Project Team:<br>
+Rania Ghosn, El Hadi Jazairy, Monica Hutton, Anhong Li<br>
+Donna Haraway (Narrator)<br>
 (c) 2021

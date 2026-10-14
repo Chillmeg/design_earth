@@ -5,7 +5,9 @@ thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
 commission: "Reimagining Museums for Climate Action, Glasgow Science Centre during COP26, 2021"
 # Project Team, one line each
-team: "Rania Ghosn, El Hadi Jazairy, Monica Hutton, Anhong LI"
+team: |
+  Rania Ghosn, El Hadi Jazairy, Monica Hutton, Anhong Li
+  Donna Haraway (Narrator)
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: "Curators: Rodney Harrison and Colin Sterling"
 # file name of the animation page: adds "Watch the animation."
