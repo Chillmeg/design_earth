@@ -91,7 +91,9 @@ function buildSlide(s)
 	var html = "<a id='slide-previous' style='width: " + zone + "px; height: " + (h - 90) + "px;' href='#' onclick=\"previous(); return false;\">previous</a>"
 		+ "<a id='slide-next' style='left: " + (w - zone) + "px; width: " + zone + "px; height: " + (h - 90) + "px;' href='#' onclick=\"next(); return false;\">next</a>"
 		+ "<div id=\"slide" + zindex + "\" class=\"picture\" style=\"z-index: " + zindex + "; position: absolute; display: none;\">"
+		+ (s.scroll ? "<div class=\"scroll-strip\">" : "")
 		+ "<img src=\"" + s.src + "\"" + (w ? " width=\"" + w + "\" height=\"" + h + "\"" : "") + (s.pano ? " class=\"pano\"" : "") + " />"
+		+ (s.scroll ? "</div>" : "")
 		+ (s.caption ? "<div class='captioning'><div class='caption'>" + s.caption + "</div></div>" : "")
 		+ "</div>\n";
 

@@ -14,9 +14,12 @@ details: "40 x 240 cm backlit drawing"
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: "Curators: Daphne Dragona, Panos Dragonas"
 images:
+  # rendered from the full drawing (Dropbox 06_Julia.pdf) at 6397x1066, shown at 533px high like the other
+  # horizontal images; scroll: true = shown whole at this size, scrolling sideways
   - file: 01.jpg
-    width: 800
-    height: 133
+    width: 3199
+    height: 533
+    scroll: true
 ---
 Julia, the Submerged Volcano responds to current questions about humanity’s relationship to the Earth by speculating on the geography of a Mediterranean submerged volcano. Beneath the shimmering waters of the Tyrrhenian sea, and at about 7m below sea level, lays Julia (also Graham Island or Ferdinandea), one of the largest submarine volcanic edifice of Europe. In the South of Sicily, Julia last appeared in 1831 after a volcanic eruption. An international dispute over its sovereignty started and remained unresolved when the island eroded and vanished a year later.
 

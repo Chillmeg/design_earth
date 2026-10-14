@@ -51,3 +51,5 @@ a#slide-previous:hover {
 #slideshow.two-sizes img { object-fit: cover; }
 /* panoramas (1.9:1 or wider) keep the 800x533 frame but are shown whole, at the top of it */
 #slideshow.two-sizes img.pano { object-fit: contain; object-position: center top; }
+/* an image with `scroll: true` (Julia's strip): full height, scroll sideways inside an 800px box */
+#slideshow .scroll-strip { width: 800px; overflow-x: auto; overflow-y: hidden; }
