@@ -105,3 +105,24 @@ Newest first. One entry per round of changes. The details for each page are in `
 - `/projects/a-space-oddity/` redirects to `/projects/love-your-monsters/`.
 - No tables are left on Living as Flamingo or Act as if.
 - `_tools/compare.js`: the only differences from the archive are intended (listed in `known-issues.md`), plus the old Geostories link that was already broken.
+
+## 2026-10-14: Project teams checked against the dossier
+
+Every PROJECT page was checked against the dossier (`files/dropbox/_reference/research-and-creative-practice-dossier/`, full PDF v2 and Volume 1 draft).
+
+| Project | Change | Source in the dossier |
+|---|---|---|
+| Climate Inheritance | **Team added** (had none): Anhong Li, Emma Jurczynski, with initial contributions from Marco Nieto and Zhifei Xu | Project page + the printed "Design Earth project team" credit |
+| The Way of the Dinosaurs | Added Monica Hutton, Anhong Li | Printed acknowledgment, "DESIGN EARTH project team for text and images" |
+| Trash Peaks | Added "with contributions from Sun Park and Rawan Al-Saffar" | Abitare caption |
+| Cosmorama | "Tianwei Yen" → "Tianwei Ye" | Abitare caption + Geostories team list |
+| Of Oil and Ice | "Rawan Alsaffar" → "Rawan Al-Saffar" | Abitare caption |
+
+Already matching the dossier: After Oil, Pacific Aquarium, The Planet After Geoengineering, Sowing Worlds, Elephant in the Room (the JAE 2021 credit), Flag the Earth. The rest aren't credited in the dossier; their teams come from the old site.
+
+### Still open (teams)
+
+- [ ] **No team found:** Act as if Our House Is on Fire, Crocodile Tears, Whale Song (these last two show only Rania + El Hadi), Hassi Messaoud Oil Urbanism (hidden placeholder page).
+- [ ] **Sea Our Land** lists only "El Hadi Jazairy" as lead, as on the old site. Check whether Rania should be added.
+- [ ] **Climate Inheritance:** the Section Info draft (`Ghosn_Section_Info_Pages_v2.docx`) says "with Leen Katrib" instead. The printed credit was used. Confirm.
+- [ ] **Elephant in the Room:** the dossier's series page has a larger team (adds Malak Atwi, Ekin Bilal, Jabari Canada, Juliet Chui, Hana Meihan Davis, Kelly Koh, Habin Park, Ivan Shen). The site keeps the 2021 credit (Hutton, Li).

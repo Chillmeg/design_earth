@@ -7,7 +7,7 @@ commission: "United States Pavilion at the Venice Biennale, Dimensions of Citize
 # Project Team, one line each
 team: |
   El Hadi Jazairy + Rania Ghosn
-  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Yen, Sihao Xiong
+  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Ye, Sihao Xiong
 # Project Details, one line each
 details: |
   Nine 115x115 cm backlit drawings

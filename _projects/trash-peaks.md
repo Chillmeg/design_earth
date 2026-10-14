@@ -7,7 +7,7 @@ commission: "Seoul Biennale, 2017"
 # Project Team, one line each
 team: |
   El Hadi Jazairy + Rania Ghosn
-  Reid Fellenbaum, Victor Lee, Monica Britt Hutton, Beth Savrann
+  Reid Fellenbaum, Victor Lee, Monica Britt Hutton, Beth Savrann, with contributions from Sun Park and Rawan Al-Saffar
 # Project Details, one line each
 details: |
   150 x 300 x 20 cm folding screen

@@ -5,7 +5,9 @@ thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
 commission: "Elephant in the Room and Other Fables, 2023"
 # Project Team, one line each
-team: "Rania Ghosn + El Hadi Jazairy"
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Monica Hutton, Anhong Li
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: "Narrated by Kathryn Yusoff."
 # file name of the animation page: adds "Watch the animation."

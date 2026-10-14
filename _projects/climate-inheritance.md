@@ -4,6 +4,10 @@ year: 2021
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
 commission: "Bauhaus Museum Dessau, 2021"
+# Project Team, one line each
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Anhong Li, Emma Jurczynski, with initial contributions from Marco Nieto and Zhifei Xu
 images:
   - file: 01.jpg
     width: 567
