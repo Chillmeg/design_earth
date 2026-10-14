@@ -35,3 +35,4 @@ images:
     width: 800
     height: 533
 ---
+Design Earth: Speculative Fiction for the Climate is a solo exhibition at NTU Centre for Contemporary Art Singapore, curated by Karin G. Oen. It brings together four DESIGN EARTH geostories — The Planet After Geoengineering, Cosmorama, Pacific Aquarium, and After Oil — that use drawings, models, and animation to render visible the geographic entanglements of the climate crisis, from the speculative afterlives of planetary geoengineering schemes and the new frontiers of outer space to deep-sea mining in the Pacific and the Gulf in the decades after oil.

@@ -12,6 +12,8 @@ team: |
   Design phase: Reid Fellenbaum, Ya Suo, Jia Weng, Shuya Xu, Saswati Das, with initial contributions from Rixt Woudstra
   Installation phase: Alaa Quraishi, Namjoo Kim, Ammar Ahmed, Alexandra Chen
 # On view (dates)
+# Venue, one line each
+venue_details: "La Triennale di Milano, Milan"
 on_view: "February 28 - August 31, 2019"
 # Curator(s), one line each
 curators: "Paola Antonelli, Ala Tannir, Laura Maeran and Erica Petrillo"

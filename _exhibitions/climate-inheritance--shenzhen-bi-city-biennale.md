@@ -7,6 +7,10 @@ thumbnail: thumb.jpg
 heading: "Climate Inheritance"
 # shown in italics under the title: exhibition / venue, date
 venue: "9th Shenzhen Bi-city Biennale of Urbanism\\Architecture: Urban Cosmologies, 2022"
+# Project Team, one line each
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Anhong Li, Emma Jurczynski, with initial contributions from Marco Nieto and Zhifei Xu
 # Venue, one line each
 venue_details: "Shenzhen, China"
 # On view (dates)

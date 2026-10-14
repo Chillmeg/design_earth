@@ -136,3 +136,27 @@ Already matching the dossier: After Oil, Pacific Aquarium, The Planet After Geoe
 - [ ] **Still no blurb:** Ocean Metabolism (the old site had none; no text in the dossier or Dropbox, only the drawing). Hassi Messaoud (hidden placeholder).
 - [ ] **Crocodile Tears** needs a longer blurb from Rania. The dossier has nothing on it.
 - [ ] 800-Pound Gorilla: the page says 2024, the dossier caption says 2025.
+
+## 2026-10-14: EXHIBIT pages checked for the nine fields
+
+Order on every exhibit page: title (not bold), *venue, date*, Project Team, Venue, On view, Curators, blurb, Project Details, link to the project(s). Titles are bold on PROJECT pages only (`_includes/item-text.html`).
+
+### Filled in
+
+| Exhibition | Added | Source |
+|---|---|---|
+| Climate Inheritance, Bauhaus Dessau + Shenzhen | Project Team | Climate Inheritance project (dossier credit) |
+| Cosmograph, MIT Museum | Project Team (the 20 collaborators, plus Celia Chaussabel and Lily Bartle), blurb, "organized by CAST and the MIT Museum" line, Adam DeTour photo credit | The exhibition booklet in the dossier |
+| Speculative Fiction for the Climate, NTU CCA | Blurb (short and factual: curator, the four projects) | Dossier exhibition list |
+| Volcano Dreams, ETH Zürich | Project Team (Rania Ghosn, El Hadi Jazairy, Anhong Li), On view (Oct 15 – Dec 18, 2020), Project Details (the three 2020 drawings), blurb. **Year changed 2021 → 2020** | e-flux Architecture page (Oct 2020) + the dossier, which agree |
+| After Oil, Venice | Venue: "Kuwait Pavilion, Venice Biennale, Venice" | The page's own venue line |
+| Pacific Aquarium, Milano Triennale | Venue: "La Triennale di Milano, Milan" | The page's own venue line |
+| Neck of the Moon, League Prize | The "Exhibition, Installation and Production" credit moved into Project Team | — |
+
+### Still missing (no source found)
+
+- [ ] **Project Team:** Act as if (FRAC Orléans, UC Denver; the project has no team either), Speculative Fiction for the Climate NTU (4 projects, no exhibition credit).
+- [ ] **Curators:** Climate Inheritance Bauhaus Dessau, Cosmograph MIT Museum (the booklet names only the organizing institutions), Geographies of Trash, Neck of the Moon League Prize, Geostories Cooper Union, Trash Peaks Seoul, Whale Song V&A.
+- [ ] **Project Details** (what was shown): Act as if (both), After Oil MoMA (unpublished), A World Previous to Ours Venice, Climate Inheritance (both), Cosmograph, Elephant in the Room Talkbox, Geostories Cooper Union, Planet After Geoengineering (Venice, Laboral, MUDAC, Onassis Stegi), Sowing Worlds Tallinn, NTU, Whale Song V&A.
+- [ ] **Link to a project:** Geographies of Trash and Volcano Dreams have no project page to link to.
+- [ ] **"Tianwei Ye" or "Tianwei Yen"?** The Cosmograph booklet and the old site say Yen; Abitare and the Geostories team list say Ye. The Cosmorama pages now say Ye, the Cosmograph page says Yen (as printed).

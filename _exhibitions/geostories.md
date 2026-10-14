@@ -6,7 +6,9 @@ heading: "Neck of the Moon"
 # shown in italics under the title: exhibition / venue, date
 venue: "Architectural League Prize 2016 for Young Architects and Designers: (Im)permanence"
 # Project Team, one line each
-team: "El Hadi Jazairy + Rania Ghosn"
+team: |
+  El Hadi Jazairy + Rania Ghosn
+  Irina Chernyakova, Shuya Xu, Sihao Xiong, Matthew Tarpley, Joseph Swerdlin, Nicholas Pacula, Kent Rodzwicz / TINT Boston (Exhibition, Installation and Production)
 # Venue, one line each
 venue_details: |
   Arnold and Sheila Aronson Galleries
@@ -18,8 +20,6 @@ on_view: "June 29 – July 30, 2016"
 details: |
   Nine 91x122cm drawings
   Neck of the Moon Video
-# after the details: photo credits, advisors, links (blank line = new paragraph)
-credits: "Exhibition, Installation and Production: Irina Chernyakova, Shuya Xu, Sihao Xiong, Matthew Tarpley, Joseph Swerdlin, Nicholas Pacula, Kent Rodzwicz / TINT Boston"
 # file names of the project pages: adds "Click for more information about the ... project."
 projects:
   - neck-of-the-moon-hyperreal

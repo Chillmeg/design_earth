@@ -6,6 +6,10 @@ thumbnail: thumb.jpg
 heading: "Climate Inheritance: Cautionary Tales of UNESCO World Heritage Sites"
 # shown in italics under the title: exhibition / venue, date
 venue: "Bauhaus Museum Dessau, 2021"
+# Project Team, one line each
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Anhong Li, Emma Jurczynski, with initial contributions from Marco Nieto and Zhifei Xu
 # Venue, one line each
 venue_details: "Bauhaus Museum Dessau, Black Box"
 # On view (dates)

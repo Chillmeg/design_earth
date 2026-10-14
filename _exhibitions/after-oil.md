@@ -10,6 +10,8 @@ team: |
   El Hadi Jazairy + Rania Ghosn
   Jia Weng, Rawan Al-Saffar, Kartiki Sharma, Hsin-Han Lee, Namjoo Kim, Sihao Xiong
 # On view (dates)
+# Venue, one line each
+venue_details: "Kuwait Pavilion, Venice Biennale, Venice"
 on_view: "May 28 - November 27, 2016"
 # Curator(s), one line each
 curators: "Ali Karimi and Hamed Bukhamseen"
