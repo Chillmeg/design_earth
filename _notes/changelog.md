@@ -92,7 +92,7 @@ Newest first. One entry per round of changes. The details for each page are in `
 ### Still open
 
 - [ ] **Animation texts:** Rania asked for "better descriptive texts for each animation". Only she can write them.
-- [ ] **Log 60 "Geodesign":** the PDF is 74 MB, so it's listed without a Download link. Needs a smaller copy.
+- [x] **Log 60 "Geodesign"** (lighter copy linked 2026-10-14): the PDF is 74 MB, so it's listed without a Download link. Needs a smaller copy.
 - [ ] **Likely typos,** copied as written: "The practice' work" (bio) and "damaged landsm" (Crocodile Tears text, on both the project and animation pages).
 - [ ] Living as Flamingo, A Pas de Loup and 800-Pounds Gorilla project pages. Their scrolls are in the Dropbox and can be cut into frames the same way as Crocodile Tears.
 - [ ] Flag the Earth | Cornell AAP exhibition page (still in `order.yml`, no photos).
@@ -206,3 +206,12 @@ Order on every exhibit page: title (not bold), *venue, date*, Project Team, Venu
 - [ ] **Waiting for El Hadi:** Tianwei Ye or Yen, the Ocean Metabolism blurb, exhibition teams (Act as if at both venues, NTU), Project Details for the exhibitions, the Bauhaus Dessau and 800-Pound Gorilla dates, the MoMA caption, larger cover scans, and project pages for Flamingo, Pas de Loup and Gorilla.
 - [ ] **Rania asked for a reminder on Friday 2026-10-16** to review the drafted blurbs: Whale Song and The Way of the Dinosaurs; the 800-Pound Gorilla, A Pas de Loup and Elephant in the Room animation pages; the Cosmograph, NTU and Volcano Dreams exhibition pages.
 - [ ] **Flag the Earth, Cornell AAP:** photos still to be selected from Rania's Dropbox link. **Log 60** (smaller PDF) and **Perspecta #54** (final PDF): Rania attached these to her email, but they are not in the repo yet.
+
+### Rania's PDFs (same day)
+
+Rania's three attachments were in `update_rania/`. The originals stay there, and copies are in `files/download/`.
+
+- **Log 60 "Geodesign"** (13 pages, 0.5 MB, the lighter copy): `DE_2024_Geodesign_Log 60.pdf`, linked in ESSAYS. The title now reads "It Matters **What** Earths Make Worlds", as printed.
+- **Deem Journal Issue 5, "Worlding Anew"** (her interview with Leen Katrib, pp. 28–39): `DE_2024_Worlding Anew_Deem 5.pdf`, added to ESSAYS after Perspecta #56.
+- **`Ghosn+Jazairy_2024_Perspecta56.pdf` is not the Climate Inheritance article (Perspecta #54).** It's "Elephant in the Room and Other Fables" (Perspecta 56, pp. 120–133), which ESSAYS already links. The linked copy has the issue cover in front, and this one is lighter (1.3 MB, as spreads). Nothing was changed, and Climate Inheritance (Perspecta #54) stays hidden.
+- [ ] Ask Rania for the Perspecta #54 Climate Inheritance PDF, and whether to swap the Perspecta 56 copy for the lighter one.
