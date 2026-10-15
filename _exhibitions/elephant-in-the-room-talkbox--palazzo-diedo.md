@@ -18,15 +18,15 @@ curators: "Nicholas de Monchaux & Ana Miljacki"
 projects:
   - elephant-in-the-room
 images:
+  - file: 03.jpg
+    width: 778
+    height: 567
   - file: 01.jpg
     width: 800
     height: 534
   - file: 02.jpg
     width: 800
     height: 534
-  - file: 03.jpg
-    width: 778
-    height: 567
   - file: 04.jpg
     width: 800
     height: 533

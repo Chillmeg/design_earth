@@ -20,10 +20,10 @@ credits: "Photos: P. Pattakos"
 projects:
   - sowing-worlds
 images:
-  - file: 01.jpg
+  - file: 02.jpg
     width: 800
     height: 533
-  - file: 02.jpg
+  - file: 01.jpg
     width: 800
     height: 533
 ---

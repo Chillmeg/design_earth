@@ -215,3 +215,9 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 - **Deem Journal Issue 5, "Worlding Anew"** (her interview with Leen Katrib, pp. 28–39): `DE_2024_Worlding Anew_Deem 5.pdf`, added to ESSAYS after Perspecta #56.
 - **`Ghosn+Jazairy_2024_Perspecta56.pdf` is not the Climate Inheritance article (Perspecta #54).** It's "Elephant in the Room and Other Fables" (Perspecta 56, pp. 120–133), which ESSAYS already links. The linked copy has the issue cover in front, and this one is lighter (1.3 MB, as spreads). Nothing was changed, and Climate Inheritance (Perspecta #54) stays hidden.
 - [ ] Ask Rania for the Perspecta #54 Climate Inheritance PDF, and whether to swap the Perspecta 56 copy for the lighter one.
+
+### ANIMATE French version, two EXHIBIT covers (same day)
+
+- **ANIMATE: "Vivre en (Flamant) Rose"** is a new item right after Living as Flamingo (`_animations/vivre-en-flamant-rose.md`), with the French video only and the French blurb from the old page. The title is spelled as on YouTube ("Flamant", not "Flamand"). Living as Flamingo still offers both versions.
+- **No black bars on the flamingo tiles:** YouTube only has a letterboxed 640×480 still for both videos, so the thumbnails are cropped to the 640×360 picture.
+- **EXHIBIT covers:** Elephant in the Room Talkbox now opens on image 3, and Sowing Worlds (Tallinn) on image 2. The tiles are new centre crops.
