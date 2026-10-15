@@ -16,6 +16,7 @@ venue_details: |
   New York, NY
 # On view (dates)
 on_view: "June 29 – July 30, 2016"
+curators: "Anne Rieselbach"
 # Project Details, one line each
 details: |
   Nine 91x122cm drawings

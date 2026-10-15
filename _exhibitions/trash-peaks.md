@@ -15,6 +15,7 @@ venue_details: |
   Donuimun Museum Village
 # On view (dates)
 on_view: "September 2 - November 5, 2017"
+curators: "Hyungmin Pai and Alejandro Zaera-Polo"
 # Project Details, one line each
 details: |
   150 x 300 x 20 cm folding screen

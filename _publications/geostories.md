@@ -7,8 +7,8 @@ thumbnail: thumb.jpg
 thumbnail_height: 193
 images:
   - file: 01.jpg
-    width: 800
-    height: 772
+    width: 500
+    height: 677
 ---
 **Geostories: Another Architecture for the Environment**<br>
 *[Actar](https://www.amazon.com/Geostories-Architecture-Environment-Rania-Ghosn/dp/1945150793/ref=sr_1_1?ie=UTF8&qid=1530307564&sr=8-1&keywords=geostories)*<br>

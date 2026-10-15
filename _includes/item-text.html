@@ -29,7 +29,7 @@
 {{ p.on_view | strip | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
 {% endif -%}
 {%- if p.curators %}
-<p>{% if p.curators contains "," or p.curators contains "&" or p.curators contains " and " or p.curators contains nl %}Curators{% else %}Curator{% endif %}:<br>
+<p>{% if p.curators contains "," or p.curators contains "&" or p.curators contains " and " or p.curators contains " with " or p.curators contains nl %}Curators{% else %}Curator{% endif %}:<br>
 {{ p.curators | strip | markdownify | remove: '<p>' | remove: '</p>' | strip | newline_to_br }}</p>
 {% endif %}
 {{ content }}

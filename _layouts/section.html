@@ -35,17 +35,13 @@ layout: default
 {%- endif -%}
 {%- comment -%}
   Tile sizes. Every tile image is cropped to fill its frame (object-fit: cover), so each grid is regular.
-  PUBLISH: 4 per row. Books: 230x230 squares. Everything else (journals, magazines): 230x300 portrait.
+  PUBLISH: 4 per row, every tile 230x300 portrait (books show their flat front cover, like the journals).
   PROJECT, EXHIBIT and ANIMATE: 200x200 squares, as on the old site.
 {%- endcomment -%}
 {%- assign box = "" -%}{%- assign fit = " object-fit: cover;" -%}
 {%- if page.section == "publications" -%}
   {%- assign hw = 245 -%}{%- assign pw = 230 -%}
-  {%- if d.book == true -%}
-    {%- assign hh = 300 -%}{%- assign img_size = "width='230' height='230'" -%}
-  {%- else -%}
-    {%- assign hh = 370 -%}{%- assign img_size = "width='230' height='300'" -%}
-  {%- endif -%}
+  {%- assign hh = 370 -%}{%- assign img_size = "width='230' height='300'" -%}
 {%- else -%}
   {%- assign hw = 225 -%}{%- assign hh = 260 -%}{%- assign pw = 200 -%}
   {%- assign img_size = "width='200' height='200'" -%}

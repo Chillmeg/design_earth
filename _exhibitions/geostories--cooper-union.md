@@ -17,6 +17,7 @@ venue_details: |
   New York City
 # On view (dates)
 on_view: "October 17 - December 2, 2017"
+curators: "Nader Tehrani with Steven Hillyer"
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: |
   Photography:<br>

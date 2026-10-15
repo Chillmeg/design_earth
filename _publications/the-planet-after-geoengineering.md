@@ -8,8 +8,8 @@ thumbnail: thumb.jpg
 thumbnail_height: 200
 images:
   - file: 01.jpg
-    width: 787
-    height: 787
+    width: 520
+    height: 629
   - file: 02.jpg
     width: 787
     height: 787

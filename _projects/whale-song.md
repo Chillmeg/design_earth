@@ -7,10 +7,14 @@ commission: "London Design Festival, V&A Museum, London, 2022"
 # Project Team, one line each
 team: |
   Rania Ghosn + El Hadi Jazairy
+  Monica Hutton, Anhong Li
   David Rothenberg (Music, “The Killer”, 2008), Beatrice Galilee (Narrator)
 # file name of the animation page: adds "Watch the animation."
 animation: "a-whale-song"
 images:
+  - file: 09.jpg
+    width: 800
+    height: 450
   - file: 07.jpg
     width: 800
     height: 429
@@ -35,9 +39,6 @@ images:
   - file: 08.jpg
     width: 800
     height: 221
-  - file: 09.jpg
-    width: 800
-    height: 450
   - file: 10.jpg
     width: 800
     height: 447

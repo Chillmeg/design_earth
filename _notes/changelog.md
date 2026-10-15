@@ -122,10 +122,10 @@ Already matching the dossier: After Oil, Pacific Aquarium, The Planet After Geoe
 
 ### Still open (teams)
 
-- [ ] **No team found:** Act as if Our House Is on Fire, Crocodile Tears, Whale Song (these last two show only Rania + El Hadi), Hassi Messaoud Oil Urbanism (hidden placeholder page).
-- [ ] **Sea Our Land** lists only "El Hadi Jazairy" as lead, as on the old site. Check whether Rania should be added.
-- [ ] **Climate Inheritance:** the Section Info draft (`Ghosn_Section_Info_Pages_v2.docx`) says "with Leen Katrib" instead. The printed credit was used. Confirm.
-- [ ] **Elephant in the Room:** the dossier's series page has a larger team (adds Malak Atwi, Ekin Bilal, Jabari Canada, Juliet Chui, Hana Meihan Davis, Kelly Koh, Habin Park, Ivan Shen). The site keeps the 2021 credit (Hutton, Li).
+- [x] **No team found:** Act as if Our House Is on Fire, Crocodile Tears, Whale Song: answered by Rania on 2026-10-14. Still none: Hassi Messaoud Oil Urbanism (hidden placeholder page).
+- [x] **Sea Our Land** (Rania, 2026-10-14: she did not work on it, so El Hadi only) lists only "El Hadi Jazairy" as lead, as on the old site. Check whether Rania should be added.
+- [x] **Climate Inheritance** (Rania, 2026-10-14: Leen Katrib was her interlocutor in a Deem Journal interview, not a team member, so the printed credit stays): the Section Info draft (`Ghosn_Section_Info_Pages_v2.docx`) says "with Leen Katrib" instead. The printed credit was used. Confirm.
+- [x] **Elephant in the Room** (Rania, 2026-10-14: keep the 2021 credit): the dossier's series page has a larger team (adds Malak Atwi, Ekin Bilal, Jabari Canada, Juliet Chui, Hana Meihan Davis, Kelly Koh, Habin Park, Ivan Shen). The site keeps the 2021 credit (Hutton, Li).
 
 ### Credits moved into Project Team, new blurbs (same day)
 
@@ -134,7 +134,7 @@ Already matching the dossier: After Oil, Pacific Aquarium, The Planet After Geoe
 - Crocodile Tears: "damaged landsm" → "damaged lands,". The blurb is otherwise Rania's, because there is no other source.
 
 - [ ] **Still no blurb:** Ocean Metabolism (the old site had none; no text in the dossier or Dropbox, only the drawing). Hassi Messaoud (hidden placeholder).
-- [ ] **Crocodile Tears** needs a longer blurb from Rania. The dossier has nothing on it.
+- [x] **Crocodile Tears** (Rania sent a longer blurb on 2026-10-14) needs a longer blurb from Rania. The dossier has nothing on it.
 - [ ] 800-Pound Gorilla: the page says 2024, the dossier caption says 2025.
 
 ## 2026-10-14: EXHIBIT pages checked for the nine fields
@@ -156,7 +156,7 @@ Order on every exhibit page: title (not bold), *venue, date*, Project Team, Venu
 ### Still missing (no source found)
 
 - [ ] **Project Team:** Act as if (FRAC Orléans, UC Denver; the project has no team either), Speculative Fiction for the Climate NTU (4 projects, no exhibition credit).
-- [ ] **Curators:** Climate Inheritance Bauhaus Dessau, Cosmograph MIT Museum (the booklet names only the organizing institutions), Geographies of Trash, Neck of the Moon League Prize, Geostories Cooper Union, Trash Peaks Seoul, Whale Song V&A.
+- [x] **Curators** (Rania, 2026-10-14; Geographies of Trash has none): Climate Inheritance Bauhaus Dessau, Cosmograph MIT Museum (the booklet names only the organizing institutions), Geographies of Trash, Neck of the Moon League Prize, Geostories Cooper Union, Trash Peaks Seoul, Whale Song V&A.
 - [ ] **Project Details** (what was shown): Act as if (both), After Oil MoMA (unpublished), A World Previous to Ours Venice, Climate Inheritance (both), Cosmograph, Elephant in the Room Talkbox, Geostories Cooper Union, Planet After Geoengineering (Venice, Laboral, MUDAC, Onassis Stegi), Sowing Worlds Tallinn, NTU, Whale Song V&A.
 - [ ] **Link to a project:** Geographies of Trash and Volcano Dreams have no project page to link to.
 - [ ] **"Tianwei Ye" or "Tianwei Yen"?** The Cosmograph booklet and the old site say Yen; Abitare and the Geostories team list say Ye. The Cosmorama pages now say Ye, the Cosmograph page says Yen (as printed).
@@ -182,3 +182,27 @@ Order on every exhibit page: title (not bold), *venue, date*, Project Team, Venu
 - The italic line is copied from the matching project page (Crocodile Tears, The Way of the Dinosaurs, Whale Song, Elephant in the Room). A Pas de Loup gets "Elephant in the Room and Other Fables, 2025" because its text calls it the fifth animation in the series.
 - **Living as Flamingo:** English only. The French text is removed. Both narrators are in Project Team, in English (Paola Antonelli, English version; Vinciane Despret, French version), and the French video is still offered as a version.
 - [ ] **No italic line** (no source): 800-Pound Gorilla, Living as Flamingo. Are they part of "Elephant in the Room and Other Fables" too?
+
+## 2026-10-14: Rania's answers, new covers, the four oldest projects
+
+**Source:** Rania's replies to the open questions (pasted in the session), plus three requests from the user.
+
+### Done
+
+| Request | Change | Files |
+|---|---|---|
+| PROJECT covers: Whale Song image 9, The Way of the Dinosaurs image 2, Climate Inheritance image 18 | That image now comes first in the slideshow, and the 200×200 grid tile is a new centre crop of it. ("Image N" = the Nth image in the slideshow. For Dinosaurs that is `01.jpg`, because `02.jpg` was already first) | `_projects/whale-song.md`, `the-way-of-the-dinosaurs.md`, `climate-inheritance.md`, their `thumb.jpg` |
+| PUBLISH: the four books should show flat front covers, not perspective photos | The covers come from ACTAR's shop (actar.com). Each one is the book page's first image (`01.jpg`, 300px high as before), and `thumb.jpg` is the same cover at 460px wide. **Book tiles are now 230×300 portraits like the journals.** They were 230×230 squares, which would have cut the title off a flat cover | `_publications/{climate-inheritance-book,geostories,the-planet-after-geoengineering,geographies-of-trash-book}.md`, `assets/images/publications/<same>/`, `_layouts/section.html` |
+| The four oldest projects were missing from PROJECT | They had been `hidden: true` since the outline round, because they weren't in Rania's outline. They are listed again, at the bottom of PROJECT as set in `order.yml`: CCC Cloud Culture City, Towers on Wire, The Belly of a Mountain, 4.7: A Geographic Stroll Around the Horizon. Hassi Messaoud (empty placeholder) stays hidden | `_projects/cloud-culture-city.md`, `towers-on-wire.md`, `the-belly-of-a-mountain.md`, `a-geographic-stroll-around-the-horizon.md` |
+| Project teams | Act as if Our House Is on Fire: Reid Fellenbaum. Crocodile Tears: Malek Atwi, Monica Hutton, Ivan Shen (project and animation). Whale Song: Monica Hutton, Anhong Li (project, animation and V&A exhibition) | |
+| Crocodile Tears blurb | Rania's longer text (project and animation pages), with "landsm" read as "lands," | |
+| Curators | Bauhaus Dessau: Regina Bittner. MIT Museum: Ann Neumann (the email says "Newumann"), plus "Exhibition design: Studio Joseph." in the credits. League Prize: Anne Rieselbach. Cooper Union: Nader Tehrani with Steven Hillyer. Seoul: Hyungmin Pai and Alejandro Zaera-Polo. V&A: Meneesha Kellay. Geographies of Trash: none. The label now also says "Curators" for "A with B" | `_exhibitions/*.md`, `_includes/item-text.html` |
+| Confirmed, no change | Sea Our Land stays El Hadi only. Climate Inheritance keeps the printed credit. Elephant in the Room keeps the 2021 credit. Volcano Dreams stays 2020 | |
+
+### Open
+
+- [ ] **Spellings to confirm:** "Malek Atwi" (Rania's email) or "Malak Atwi" (the dossier's Elephant in the Room series team)? "Ann Neumann" (the email says "Newumann")?
+- [ ] **Book covers differ from the old photos:** ACTAR's Geostories cover is a later printing (with a different drawing on the front), and its Geographies of Trash cover has a different layout from the copy in the old photo. Swap them back if the first editions are wanted.
+- [ ] **Waiting for El Hadi:** Tianwei Ye or Yen, the Ocean Metabolism blurb, exhibition teams (Act as if at both venues, NTU), Project Details for the exhibitions, the Bauhaus Dessau and 800-Pound Gorilla dates, the MoMA caption, larger cover scans, and project pages for Flamingo, Pas de Loup and Gorilla.
+- [ ] **Rania asked for a reminder on Friday 2026-10-16** to review the drafted blurbs: Whale Song and The Way of the Dinosaurs; the 800-Pound Gorilla, A Pas de Loup and Elephant in the Room animation pages; the Cosmograph, NTU and Volcano Dreams exhibition pages.
+- [ ] **Flag the Earth, Cornell AAP:** photos still to be selected from Rania's Dropbox link. **Log 60** (smaller PDF) and **Perspecta #54** (final PDF): Rania attached these to her email, but they are not in the repo yet.

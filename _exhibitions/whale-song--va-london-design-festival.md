@@ -9,11 +9,13 @@ venue: "London Design Festival, V&A Museum, 2022"
 # Project Team, one line each
 team: |
   Rania Ghosn + El Hadi Jazairy
+  Monica Hutton, Anhong Li
   David Rothenberg (Music, “The Killer”, 2008), Beatrice Galilee (Narrator)
 # Venue, one line each
 venue_details: "V&A Museum, London"
 # On view (dates)
 on_view: "September 17–25, 2022"
+curators: "Meneesha Kellay"
 # file names of the project pages: adds "Click for more information about the ... project."
 projects:
   - whale-song

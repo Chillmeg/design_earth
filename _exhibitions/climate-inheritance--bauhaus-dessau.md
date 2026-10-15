@@ -14,6 +14,7 @@ team: |
 venue_details: "Bauhaus Museum Dessau, Black Box"
 # On view (dates)
 on_view: "24 June – 3 Oct 2021"
+curators: "Regina Bittner"
 # file names of the project pages: adds "Click for more information about the ... project."
 projects:
   - climate-inheritance

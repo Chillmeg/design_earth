@@ -6,6 +6,7 @@ commission: "London Design Festival, V&A Museum, London, 2022"
 # Project Team, one line each
 team: |
   Rania Ghosn + El Hadi Jazairy
+  Monica Hutton, Anhong Li
   David Rothenberg (Music, “The Killer”, 2008), Beatrice Galilee (Narrator)
 # after the text
 credits: "(c) 2022"

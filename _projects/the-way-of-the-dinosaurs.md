@@ -12,10 +12,10 @@ team: |
 # file name of the animation page: adds "Watch the animation."
 animation: "the-way-of-the-dinosaurs"
 images:
-  - file: 02.jpg
+  - file: 01.jpg
     width: 567
     height: 567
-  - file: 01.jpg
+  - file: 02.jpg
     width: 567
     height: 567
   - file: 03.jpg

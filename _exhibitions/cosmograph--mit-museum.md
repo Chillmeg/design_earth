@@ -17,11 +17,12 @@ venue_details: |
   Cambridge, MA
 # On view (dates)
 on_view: "September 20, 2024 – January 25, 2026"
+curators: "Ann Neumann"
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: |
   Exhibition booklet: <a href="../../files/download/DE_2024_Cosmograph_MIT%20Museum.pdf" target="_blank">Download</a>
 
-  Exhibition organized by the MIT Center for Art, Science & Technology (CAST) and the MIT Museum.
+  Exhibition organized by the MIT Center for Art, Science & Technology (CAST) and the MIT Museum. Exhibition design: Studio Joseph.
 
   Photos: Anna Olivella. Miniature objects photography: Adam DeTour
 # file names of the project pages: adds "Click for more information about the ... project."

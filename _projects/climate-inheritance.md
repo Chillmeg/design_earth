@@ -9,6 +9,9 @@ team: |
   Rania Ghosn + El Hadi Jazairy
   Anhong Li, Emma Jurczynski, with initial contributions from Marco Nieto and Zhifei Xu
 images:
+  - file: 18.jpg
+    width: 567
+    height: 567
   - file: 01.jpg
     width: 567
     height: 567
@@ -58,9 +61,6 @@ images:
     width: 567
     height: 567
   - file: 17.jpg
-    width: 567
-    height: 567
-  - file: 18.jpg
     width: 567
     height: 567
   - file: 19.jpg
