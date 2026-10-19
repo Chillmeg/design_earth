@@ -245,3 +245,8 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 - [x] **Ocean Metabolism blurb:** the user transcribed the three text panels of `Ocean Metabolism.pdf` (2026-10-19). All three have the same body text, so it is the page text once, followed by the three panel titles. OCR slips fixed ("Contellation", "dry land,", "shelf,").
 - [ ] **Projects with several exhibit pages** link only the commission (e.g. Pacific Aquarium → Oslo, not Milan/Guangzhou/Athens). Add more slugs to `exhibitions:` to list them all.
 - [ ] **Kelly Koh** on The Way of the Dinosaurs comes from the dossier only; confirm.
+
+### Flag the Earth moves to EXHIBIT (same day)
+
+- **Flag the Earth** is one showing of Act as if Our House Is on Fire, so it is now an EXHIBIT page: `_exhibitions/flag-the-earth--cornell-aap.md` (menu: "Flag the Earth | Cornell AAP"; page title "Flag the Earth"), in the place `order.yml` already had for it (after FRAC Orléans). It ends with "Click for more information about the Act as if Our House Is on Fire project." Images moved to `assets/images/exhibitions/flag-the-earth--cornell-aap/`. The old address `/projects/flag-the-earth/` redirects there.
+- The curator line became the Curator field (Tao DuFour). Venue "Rand Hall, Cornell AAP, Ithaca, NY" comes from the page text. Not added: the dossier's dates (8–10 November 2019, the symposium; the flag went up for the 20 September Climate Strike) and its longer curator list (Tao Du Four, Ainsle Cullen, Hallie Black and Evan McDowell). Please confirm which to show.

@@ -1,15 +1,25 @@
 ---
-title: "Flag the Earth"
+title: "Flag the Earth | Cornell AAP"
+permalink: /exhibitions/flag-the-earth--cornell-aap/
+redirect_from: /projects/flag-the-earth/  # was a PROJECT page until 2026-10-19
 year: 2019
 thumbnail: thumb.jpg
-# shown in italics under the title: commission or competition, date
-commission: "Earth: Projections 50 Years after Earth Art, Cornell AAP, 2019"
+heading: "Flag the Earth"
+# shown in italics under the title: exhibition / venue, date
+venue: "Earth: Projections 50 Years after Earth Art, Cornell AAP, 2019"
 # Project Team, one line each
 team: |
   Rania Ghosn + El Hadi Jazairy
   Reid Fellenbaum, with Anna Canny
-# after the details: photo credits, advisors, links (blank line = new paragraph)
-credits: "Curator: Tao DuFour"
+# Venue, one line each
+venue_details: |
+  Rand Hall, Cornell University College of Architecture, Art, and Planning
+  Ithaca, NY
+# Curator(s), one line each
+curators: "Tao DuFour"
+# file names of the project pages: adds "Click for more information about the ... project."
+projects:
+  - act-as-if-our-house-is-on-fire
 images:
   - file: 01.jpg
     width: 800
