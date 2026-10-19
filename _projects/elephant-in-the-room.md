@@ -9,8 +9,6 @@ team: |
   Rania Ghosn + El Hadi Jazairy
   Monica Hutton, Anhong Li
   Donna Haraway (Narrator)
-# after the details: photo credits, advisors, links (blank line = new paragraph)
-credits: "Curators: Rodney Harrison and Colin Sterling"
 # file name of the animation page: adds "Watch the animation."
 animation: "elephant-in-the-room"
 images:

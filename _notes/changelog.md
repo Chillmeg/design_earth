@@ -250,3 +250,7 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 
 - **Flag the Earth** is one showing of Act as if Our House Is on Fire, so it is now an EXHIBIT page: `_exhibitions/flag-the-earth--cornell-aap.md` (menu: "Flag the Earth | Cornell AAP"; page title "Flag the Earth"), in the place `order.yml` already had for it (after FRAC Orléans). It ends with "Click for more information about the Act as if Our House Is on Fire project." Images moved to `assets/images/exhibitions/flag-the-earth--cornell-aap/`. The old address `/projects/flag-the-earth/` redirects there.
 - The curator line became the Curator field (Tao DuFour). Venue "Rand Hall, Cornell AAP, Ithaca, NY" comes from the page text. Not added: the dossier's dates (8–10 November 2019, the symposium; the flag went up for the 20 September Climate Strike) and its longer curator list (Tao Du Four, Ainsle Cullen, Hallie Black and Evan McDowell). Please confirm which to show.
+
+### No curators on PROJECT pages (same day)
+
+- Rule: curators appear only on EXHIBIT pages. Removed from Elephant in the Room ("Curators: Rodney Harrison and Colin Sterling", the Glasgow Science Centre show, which has no exhibit page since Rania dropped it) and from A World Previous to Ours' text ("curated by Sylvia Lavin", who is on the Venice exhibit page). Sowing Worlds and Julia were already done; Flag the Earth is now an exhibit.
