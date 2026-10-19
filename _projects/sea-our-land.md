@@ -4,7 +4,7 @@ year: 2014  # guessed from the text - please check
 thumbnail: thumb.jpg
 heading: "Sea Our Land: Between the Roof of the World and the Mouth of the Ganges"
 # shown in italics under the title: commission or competition, date
-commission: "Jacques Rougerie Competition, [Shortlisted](http://www.jacquesrougeriedatabase.com/Projects/changePicture/243%2Apicture_0_3.jpg/0), 2014"
+commission: "Jacques Rougerie Competition, Shortlisted, 2014"
 # Project Team, one line each
 team: |
   El Hadi Jazairy

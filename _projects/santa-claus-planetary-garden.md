@@ -3,7 +3,7 @@ title: "Santa Claus' Planetary Garden"
 year: 2014  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "The Unbelievable Challenge Competition, [Honorable Mention](http://unbelievablechallenge.com), 2014"
+commission: "The Unbelievable Challenge Competition, Honorable Mention, 2014"
 # Project Team, one line each
 team: |
   Rania Ghosn + El Hadi Jazairy

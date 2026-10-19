@@ -258,4 +258,4 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 ### Italic line without links (same day)
 
 - The italic citation under the title is plain text again; the exhibition link is only at the end of the page ("Click for more information about the … exhibition."). `_includes/item-text.html`.
-- Still linked inside the italic line: the award words on five old competition projects (Honorable Mention / Special Mention / Shortlisted: A Geographic Stroll, Apart, CCC, Santa Claus, Sea Our Land). These came from the old site and have no other place on the page.
+- The award links on five old competition projects (A Geographic Stroll, Apart, CCC, Santa Claus, Sea Our Land) are plain text too, so no italic line has a link. The old URLs are in git history (commit before this one).

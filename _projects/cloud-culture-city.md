@@ -3,7 +3,7 @@ title: "CCC Cloud Culture City"
 year: 2014  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Organic Skyscraper Competition, London, [Special Mention](http://www.superskyscrapers.com/viewResultsProject.asp?sid=1000001325), 2014"
+commission: "Organic Skyscraper Competition, London, Special Mention, 2014"
 # Project Team, one line each
 team: |
   Rania Ghosn + El Hadi Jazairy
