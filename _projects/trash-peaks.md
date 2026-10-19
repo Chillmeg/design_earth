@@ -13,7 +13,7 @@ details: |
   150 x 300 x 20 cm folding screen
   150 x 300 cm carpet
   6 pieces of ceramic tableware
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - trash-peaks
 images:

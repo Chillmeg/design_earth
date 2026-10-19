@@ -8,7 +8,7 @@ commission: "How Will We Live Together?, La Biennale di Architettura di Venezia,
 team: |
   Rania Ghosn + El Hadi Jazairy
   Reid Fellenbaum, Kelly Koh, Meng-Fu Kuo, Joude Mabsout, Jane Jia Weng, Anhong Li, Monica Hutton, with contributions from Ayusha Ariana, Avery Nguyen, Michael Stradley
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - planet-after-geoengineering--venice-biennale
 images:

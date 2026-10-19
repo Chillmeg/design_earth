@@ -12,7 +12,7 @@ team: |
 details: |
   Nine 60x60cm drawings
   Three 150X150X15cm models
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - after-oil
 images:

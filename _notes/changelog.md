@@ -254,3 +254,8 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 ### No curators on PROJECT pages (same day)
 
 - Rule: curators appear only on EXHIBIT pages. Removed from Elephant in the Room ("Curators: Rodney Harrison and Colin Sterling", the Glasgow Science Centre show, which has no exhibit page since Rania dropped it) and from A World Previous to Ours' text ("curated by Sylvia Lavin", who is on the Venice exhibit page). Sowing Worlds and Julia were already done; Flag the Earth is now an exhibit.
+
+### Italic line without links (same day)
+
+- The italic citation under the title is plain text again; the exhibition link is only at the end of the page ("Click for more information about the … exhibition."). `_includes/item-text.html`.
+- Still linked inside the italic line: the award words on five old competition projects (Honorable Mention / Special Mention / Shortlisted: A Geographic Stroll, Apart, CCC, Santa Claus, Sea Our Land). These came from the old site and have no other place on the page.

@@ -9,7 +9,7 @@ commission: "Edible, Tallinn Architecture Biennale, 2022"
 team: |
   Rania Ghosn + El Hadi Jazairy
   Melissa Gutierrez Soto, Eakapob Huangthanapan, Monica Hutton, Emma Jurczynski, Anhong Li
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - sowing-worlds--tallinn-architecture-biennale
 images:

@@ -9,8 +9,8 @@
             link(s) to the project(s)
 
   Titles are plain text, not bold (October 2026).
-  exhibitions: file names of the exhibition page(s) of the commission (project pages). The italic line links to the first one,
-            and "Click for more information about the ... exhibition." is added at the end. The link text is the part of
+  exhibitions: file names of the exhibition page(s) of the commission (project pages): adds "Click for more information
+            about the ... exhibition." at the end. The italic line is a plain citation, without links. The link text is the part of
             the exhibition's title after " | " (or " / "), or its `link_name` if set.
   heading:  the title shown on the page, if it differs from `title` (which is used in the menus)
   team, venue_details, curators, details: one entry per line
@@ -20,8 +20,7 @@
 {%- capture nl %}
 {% endcapture -%}
 <p>{{ p.heading | default: p.title }}{% assign sub = p.commission | default: p.venue %}{% if sub %}<br>
-{%- assign ex0 = nil %}{% if p.exhibitions %}{% assign ex0 = site.exhibitions | where: "slug", p.exhibitions[0] | first %}{% endif %}
-<em>{% if ex0 %}<a href="{{ ex0.url | relative_url }}">{% endif %}{{ sub | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% if ex0 %}</a>{% endif %}</em>{% endif %}</p>
+<em>{{ sub | markdownify | remove: '<p>' | remove: '</p>' | strip }}</em>{% endif %}</p>
 {% if p.team %}
 <p>Project Team:<br>
 {{ p.team | strip | markdownify | remove: '<p>' | remove: '</p>' | strip | newline_to_br }}</p>

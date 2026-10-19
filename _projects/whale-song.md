@@ -11,7 +11,7 @@ team: |
   David Rothenberg (Music, “The Killer”, 2008), Beatrice Galilee (Narrator)
 # file name of the animation page: adds "Watch the animation."
 animation: "a-whale-song"
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - whale-song--va-london-design-festival
 images:

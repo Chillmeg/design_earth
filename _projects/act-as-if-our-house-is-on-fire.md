@@ -8,7 +8,7 @@ commission: "This Land's Unknown, FRAC Orléans Architecture Biennale, 2019"
 team: |
   Rania Ghosn + El Hadi Jazairy
   Mingyang Xia
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - act-as-if-our-house-is-on-fire--frac-orleans
 images:

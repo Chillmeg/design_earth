@@ -8,7 +8,7 @@ commission: "Bauhaus Museum Dessau, 2021"
 team: |
   Rania Ghosn + El Hadi Jazairy
   Anhong Li, Emma Jurczynski, with initial contributions from Marco Nieto and Zhifei Xu
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - climate-inheritance--bauhaus-dessau
 images:

@@ -15,7 +15,7 @@ credits: |
   You can listen to the fable “A World Previous to Ours” at <a href="https://andotherfables.org/">andotherfables.org</a>.
 
   Last image: a drawing of a fossil molar tooth of the “Ohio animal” from North America, sent to Cuvier in 1801 by Johann Friedrich Blumenbach of Gottingen. From: Martin Rudwick, “Georges Cuvier’s paper museum of fossil bones.”
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - a-world-previous-to-ours--venice-architecture-biennale
 images:

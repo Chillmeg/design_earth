@@ -11,7 +11,7 @@ team: |
   Jordan Laurila, Liam Li
 # Project Details, one line each
 details: "40 x 240 cm backlit drawing"
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - julia-the-submerged-volcano--le-lieu-unique
 images:

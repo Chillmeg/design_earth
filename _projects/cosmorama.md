@@ -16,7 +16,7 @@ details: |
   Meteorite from the Harvard Mineralogical &#38; Geological Museum
   Printed Carpet 120x420 cm
   Cosmorama neon sign
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - cosmorama--venice-architecture-biennale
 images:

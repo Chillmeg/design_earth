@@ -8,7 +8,7 @@ commission: "The World in Our Eyes, Lisbon Architecture Triennale, 2016"
 team: |
   Rania Ghosn + El Hadi Jazairy
   Jia Weng, Ya Suo, Sheung Chui Carol Nung
-# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
 exhibitions:
   - georama-of-trash--lisbon-architecture-triennale
 images:
