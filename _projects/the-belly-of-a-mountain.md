@@ -7,7 +7,7 @@ thumbnail: thumb.jpg
 commission: "Rio City Vision Competition, 2013"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Yu-Hsiang Lin, Dongye Liu, Jia Weng
 images:
   - file: 01.jpg

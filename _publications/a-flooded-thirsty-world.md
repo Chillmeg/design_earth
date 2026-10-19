@@ -11,6 +11,6 @@ images:
     thumb_width: 233
     thumb_height: 300
 ---
-**A Flooded Thirsty World**<br>
+A Flooded Thirsty World<br>
 *Journal of Architectural Education, 74:1, 2020*<br>
 [Download](http://www.dropbox.com/s/cf4sy0ycb62n5nf/Ghosn_2020_A%20Flooded%20Thirsty%20World_JAE.pdf?dl=0)

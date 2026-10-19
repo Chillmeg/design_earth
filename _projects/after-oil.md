@@ -3,15 +3,18 @@ title: "After Oil"
 year: 2016  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Kuwait Pavilion at the Venice Biennale, Between East and West: a Gulf, 2016"
+commission: "Kuwait Pavilion, Between East and West: a Gulf, La Biennale di Architettura di Venezia, 2016"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Jia Weng, Rawan Al-Saffar, Kartiki Sharma, Hsin-Han Lee, Namjoo Kim, Sihao Xiong
 # Project Details, one line each
 details: |
   Nine 60x60cm drawings
   Three 150X150X15cm models
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - after-oil
 images:
   - file: 01.jpg
     width: 567

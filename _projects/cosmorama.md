@@ -3,11 +3,11 @@ title: "Cosmorama"
 year: 2018  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "United States Pavilion at the Venice Biennale, Dimensions of Citizenship, 2018"
+commission: "United States Pavilion, Dimensions of Citizenship, La Biennale di Architettura di Venezia, 2018"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
-  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Ye, Sihao Xiong
+  Rania Ghosn + El Hadi Jazairy
+  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Yen, Sihao Xiong
   Benjamin Weiss, MIT EAPS (Advisor)
 # Project Details, one line each
 details: |
@@ -16,6 +16,9 @@ details: |
   Meteorite from the Harvard Mineralogical &#38; Geological Museum
   Printed Carpet 120x420 cm
   Cosmorama neon sign
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - cosmorama--venice-architecture-biennale
 images:
   - file: 01.jpg
     width: 567

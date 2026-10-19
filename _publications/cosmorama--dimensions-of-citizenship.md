@@ -12,6 +12,6 @@ images:
     thumb_width: 226
     thumb_height: 300
 ---
-**Geostories**<br>
+Geostories<br>
 *Domus 1042, 2019*<br>
 [Download](http://www.dropbox.com/s/2y3jmrtyvsabmw1/Ghosn%2BJazairy_2019_DOMUS.pdf?dl=0)

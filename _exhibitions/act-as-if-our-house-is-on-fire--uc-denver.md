@@ -6,6 +6,10 @@ thumbnail: thumb.jpg
 heading: "Act as if Our House Is on Fire"
 # shown in italics under the title: exhibition / venue, date
 venue: "Drawing Im/Proper, University of Colorado Denver, 2020"
+# Project Team, one line each
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Mingyang Xia
 # Venue, one line each
 venue_details: "University of Colorado Denver, College of Architecture and Planning"
 # On view (dates)

@@ -11,6 +11,6 @@ images:
     thumb_width: 240
     thumb_height: 300
 ---
-**A Microcosm on a Sheet of Paper**<br>
+A Microcosm on a Sheet of Paper<br>
 *New Geographies 8: Island, 2016*<br>
 [Download](http://www.dropbox.com/s/nmcc90sujzkqqmv/Ghosn%2BJazairy_2016_Microcosm%20on%20a%20Sheet%20of%20Paper_NG08.pdf?dl=0)

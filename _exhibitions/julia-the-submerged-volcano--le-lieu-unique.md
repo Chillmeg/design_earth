@@ -5,10 +5,10 @@ year: 2019  # guessed from the text - please check
 thumbnail: thumb.jpg
 heading: "Julia: The Submerged Volcano"
 # shown in italics under the title: exhibition / venue, date
-venue: "Tomorrows: Speculative Fictions for Mediterranean Futures, Le Lieu Unique, 2019"
+venue: "Tomorrows: Speculative Fictions for Mediterranean Futures, Le Lieu Unique, Nantes, 2019"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Jordan Laurila, Liam Li
 # Venue, one line each
 venue_details: "Le Lieu Unique Center for Contemporary Culture, Nantes, France"

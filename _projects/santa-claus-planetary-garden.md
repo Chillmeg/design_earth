@@ -3,10 +3,10 @@ title: "Santa Claus' Planetary Garden"
 year: 2014  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "The Unbelievable Challenge Competition, 2014, [Honorable Mention](http://unbelievablechallenge.com)"
+commission: "The Unbelievable Challenge Competition, [Honorable Mention](http://unbelievablechallenge.com), 2014"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Kelly Koh, Chen Lu
 images:
   - file: 01.jpg

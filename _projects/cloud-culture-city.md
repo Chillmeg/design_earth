@@ -3,10 +3,10 @@ title: "CCC Cloud Culture City"
 year: 2014  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "London 2014 Organic Skyscraper Competition, [Special Mention](http://www.superskyscrapers.com/viewResultsProject.asp?sid=1000001325)"
+commission: "Organic Skyscraper Competition, London, [Special Mention](http://www.superskyscrapers.com/viewResultsProject.asp?sid=1000001325), 2014"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Shuqi He, Yu-Hsiang Lin, Jia Weng
 images:
   - file: 01.jpg

@@ -6,6 +6,10 @@ thumbnail: thumb.jpg
 heading: "Act as if Our House Is on Fire"
 # shown in italics under the title: exhibition / venue, date
 venue: "This Land's Unknown, FRAC Orléans Architecture Biennale, 2019"
+# Project Team, one line each
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Mingyang Xia
 # Venue, one line each
 venue_details: |
   FRAC Orléans Architecture Biennale

@@ -3,10 +3,10 @@ title: "Towers on Wire"
 year: 2014  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "eVolo 2014 Skyscraper Competition"
+commission: "eVolo Skyscraper Competition, 2014"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Yu-Hsiang Lin, Jia Weng
 images:
   - file: 01.jpg

@@ -3,10 +3,10 @@ title: "Neck of the Moon"
 year: 2015  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Jacques Rougerie Competition, 2015, First Prize"
+commission: "Jacques Rougerie Competition, First Prize, 2015"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Jia Weng, Mingchuan Yang, Shuya Xu, Hsin-Han Lee, Sihao Xiong
 images:
   - file: 01.jpg

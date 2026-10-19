@@ -5,10 +5,10 @@ year: 2025
 thumbnail: thumb.jpg
 heading: "A World Previous to Ours"
 # shown in italics under the title: exhibition / venue, date
-venue: "The Perimeter of Architecture: Amid the Elements, 19th International Architecture Exhibition, La Biennale di Venezia, 2025"
+venue: "The Perimeter of Architecture: Amid the Elements, La Biennale di Architettura di Venezia, 2025"
 # Project Team, one line each
 team: |
-  Rania Ghosn &#38; El Hadi Jazairy
+  Rania Ghosn + El Hadi Jazairy
   Ekin Bilal (Design, 3D Model), Monica Hutton (Text), Jabari Canada (Sound), Qilmeg Doudatcz (web interface), Joyce Tullis (prototype)
 # Venue, one line each
 venue_details: "James Stirling book pavilion, Giardini, Venice"

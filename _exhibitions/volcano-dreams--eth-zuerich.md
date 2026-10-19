@@ -7,7 +7,9 @@ heading: "Volcano Dreams"
 # shown in italics under the title: exhibition / venue, date
 venue: "Confinement, gta exhibitions, ETH Zürich, 2020"
 # Project Team, one line each
-team: "Rania Ghosn, El Hadi Jazairy, Anhong Li"
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Anhong Li
 # Venue, one line each
 venue_details: "<a href=\"https://www.e-flux.com/architecture/confinement/350572/volcano-dreams/\" target=\"_blank\">Online</a> at e-flux Architecture and on site at ETH Zürich"
 # On view (dates)

@@ -7,11 +7,11 @@ heading: "Trash Peaks"
 venue: "Seoul Biennale for Architecture and Urbanism, 2017"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Conceptual Design: Reid Fellenbaum, Victor Lee, Monica Britt Hutton, Beth Savrann - Production: Boston Ceramics, Sun Park, Rawan Al Saffar
 # Venue, one line each
 venue_details: |
-  2017 Seoul Biennale of Architecture and Urbanism - Nine Commons
+  2017 Seoul Biennale for Architecture and Urbanism - Nine Commons
   Donuimun Museum Village
 # On view (dates)
 on_view: "September 2 - November 5, 2017"

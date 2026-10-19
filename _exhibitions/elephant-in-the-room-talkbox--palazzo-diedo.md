@@ -7,7 +7,9 @@ heading: "Elephant in the Room Talkbox"
 # shown in italics under the title: exhibition / venue, date
 venue: "The Next Earth, Palazzo Diedo, Venice, 2025"
 # Project Team, one line each
-team: "Rania Ghosn, El Hadi Jazairy, Monica Hutton, Anhong LI"
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Monica Hutton, Anhong Li
 # Venue, one line each
 venue_details: "Palazzo Diedo, Berggruen Arts & Culture, Venice"
 # On view (dates)

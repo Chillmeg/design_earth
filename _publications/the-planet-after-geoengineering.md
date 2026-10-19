@@ -20,7 +20,7 @@ images:
     width: 787
     height: 787
 ---
-**The Planet After Geoengineering**<br>
+The Planet After Geoengineering<br>
 Actar, 2021<br>
 The graphic novel is a companion to DESIGN EARTH’s eponymous project at the 2021 Venice Biennale of Architecture. The Planet After Geoengineering is a graphic novel in five fictions, each of which imagines the worlds of climate modification technologies and their controversies.<br>
 With essays by Kathryn Yusoff, Benjamin Bratton and Holly Jean Buck.

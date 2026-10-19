@@ -3,15 +3,18 @@ title: "Pacific Aquarium"
 year: 2016  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Oslo Architecture Triennale, After Belonging, 2016"
+commission: "After Belonging: On Residence, Oslo Architecture Triennale, 2016"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Reid Fellenbaum, Ya Suo, Jia Weng, Shuya Xu, Saswati Das, with initial contributions from Rixt Woudstra
 # Project Details, one line each
 details: |
   Nine 60x60cm drawings
   Nine 45X45X160cm models
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - pacific-aquarium--oslo-architecture-triennale
 images:
   - file: 01.jpg
     width: 567

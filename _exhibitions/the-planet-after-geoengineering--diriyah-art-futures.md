@@ -8,7 +8,7 @@ heading: "The Planet After Geoengineering"
 venue: "Of the Earth, Diriyah Art Futures, 2026"
 # Project Team, one line each
 team: |
-  Rania Ghosn and El Hadi Jazairy
+  Rania Ghosn + El Hadi Jazairy
   Reid Fellenbaum, Kelly Koh, Meng-Fu Kuo, Joude Mabsout, Jane Jia Weng, Anhong Li, Monica Hutton, with contributions from Ayusha Ariana, Avery Nguyen, Michael Stradley
 # Venue, one line each
 venue_details: "Diriyah Art Futures"

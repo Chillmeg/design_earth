@@ -11,7 +11,7 @@ images:
     thumb_width: 227
     thumb_height: 300
 ---
-**8Mile Baseline: A Dialectical Image of The Urban Crisis**<br>
+8Mile Baseline: A Dialectical Image of The Urban Crisis<br>
 *Journal of Architectural Education*, Volume 69, Issue 1, Crisis: 86-97
 
 Rania Ghosn, 2015<br>

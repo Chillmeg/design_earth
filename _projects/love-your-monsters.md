@@ -7,7 +7,7 @@ thumbnail: thumb.jpg
 commission: "Fairy Tales Competition, 2016"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Jia Weng, Ya Suo, Sihao Xiong, Bin Zhang
 # Project Details, one line each
 details: "5 drawings (91 X 59 cm), inkjet print on paper"

@@ -8,7 +8,7 @@ heading: "After Oil"
 venue: "Let's Talk about the Weather: Art and Ecology in a Time of Crisis, Sursock Museum, 2016"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Jia Weng, Rawan Al-Saffar, Kartiki Sharma, Hsin-Han Lee, Namjoo Kim, Sihao Xiong
 # Venue, one line each
 venue_details: "Sursock Museum, Beirut, Lebanon"

@@ -6,7 +6,7 @@ thumbnail: thumb.jpg
 commission: "Planetary Urbanism Competition, 2015"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Larisa Ovalles, Christopher Reznich, Chen Lu, Aaron Weller, Muneerah Alrabe, Claudia Bode, Shuqi He, Yu-Hsiang Lin
 images:
   - file: 01.jpg

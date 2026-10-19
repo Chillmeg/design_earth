@@ -5,10 +5,10 @@ year: 2021  # guessed from the text - please check
 thumbnail: thumb.jpg
 heading: "The Planet After Geoengineering"
 # shown in italics under the title: exhibition / venue, date
-venue: "Biennale Architettura 2021: How will we live together?"
+venue: "How Will We Live Together?, La Biennale di Architettura di Venezia, 2021"
 # Project Team, one line each
 team: |
-  Project leads: Rania Ghosn and El Hadi Jazairy
+  Rania Ghosn + El Hadi Jazairy
   Design team: Reid Fellenbaum, Kelly Koh, Meng-Fu Kuo, Joude Mabsout, Jane Jia Weng; with contributions from Ayusha Ariana, Avery Nguyen, Michael Stradley
   Animation team: Anhong Li, Monica Hutton
 # Venue, one line each

@@ -8,7 +8,7 @@ heading: "Geostories"
 venue: "Cooper Union, New York City, 2017"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Reid Fellenbaum, Jia Weng, Hsin-Han (Victor) Lee, Monica Britt Hutton, Kelly Koh, Rawan Alsaffar, Shuya Xu, Ya Suo, Beth Savrann, Max Jarosz, Kartiki Sharma, Namjoo Kim, Sihao Xiong, Saswati Das, with initial contributions from Rixt Woudstra
 # Venue, one line each
 venue_details: |

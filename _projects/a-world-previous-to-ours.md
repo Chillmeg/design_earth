@@ -3,10 +3,10 @@ title: "A World Previous to Ours"
 year: 2025
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "The Perimeter of Architecture: Amid the Elements, 19th International Architecture Exhibition, La Biennale di Venezia, 2025"
+commission: "The Perimeter of Architecture: Amid the Elements, La Biennale di Architettura di Venezia, 2025"
 # Project Team, one line each
 team: |
-  Rania Ghosn &#38; El Hadi Jazairy
+  Rania Ghosn + El Hadi Jazairy
   Ekin Bilal (Design, 3D Model), Monica Hutton (Text), Jabari Canada (Sound), Qilmeg Doudatcz (web interface), Joyce Tullis (prototype), Sylvia Lavin (Narrator)
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: |
@@ -15,8 +15,9 @@ credits: |
   You can listen to the fable “A World Previous to Ours” at <a href="https://andotherfables.org/">andotherfables.org</a>.
 
   Last image: a drawing of a fossil molar tooth of the “Ohio animal” from North America, sent to Cuvier in 1801 by Johann Friedrich Blumenbach of Gottingen. From: Martin Rudwick, “Georges Cuvier’s paper museum of fossil bones.”
-
-  Click for more information about the <a href="../../exhibitions/a-world-previous-to-ours--venice-architecture-biennale/" title="A World Previous to Ours | Venice Architecture Biennale">exhibition in Venice</a>.
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - a-world-previous-to-ours--venice-architecture-biennale
 images:
   - file: 02.jpg
     width: 567

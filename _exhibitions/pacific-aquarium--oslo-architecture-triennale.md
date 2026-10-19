@@ -5,10 +5,10 @@ year: 2016  # guessed from the text - please check
 thumbnail: thumb.jpg
 heading: "Pacific Aquarium"
 # shown in italics under the title: exhibition / venue, date
-venue: "Oslo Architecture Triennale: After Belonging: On Residence, 2016"
+venue: "After Belonging: On Residence, Oslo Architecture Triennale, 2016"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Design phase: Reid Fellenbaum, Ya Suo, Jia Weng, Shuya Xu, Saswati Das, with initial contributions from Rixt Woudstra
   Installation phase: Alaa Quraishi, Namjoo Kim, Ammar Ahmed, Alexandra Chen
 # Venue, one line each

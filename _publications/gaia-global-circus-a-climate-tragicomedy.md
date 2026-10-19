@@ -11,6 +11,6 @@ images:
     thumb_width: 214
     thumb_height: 300
 ---
-**Gaia Global Circus: A Climate Tragicomedy**<br>
+Gaia Global Circus: A Climate Tragicomedy<br>
 *The Avery Review*, Volume 12, 2015<br>
 <a href="../../files/download/Ghosn+jazairy_2015_Gaia GlobalCircus_AveryReview.pdf">Download</a>

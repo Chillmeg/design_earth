@@ -12,7 +12,7 @@ images:
     thumb_width: 222
     thumb_height: 300
 ---
-**Of Oil and Ice**<br>
+Of Oil and Ice<br>
 *Ambiguous Territory: Architecture, Landscape and the Postnatural, 2022*<br>
 Cathryn Dwyre, Chris Perry, David Salomon, Kathy Velikov (eds.)<br>
 [Download](http://www.dropbox.com/s/u53s4g3buedsvs2/Ghosn%2BJazairy_2022_AmbiguousTerritory.pdf?dl=0)

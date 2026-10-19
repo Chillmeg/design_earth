@@ -12,6 +12,6 @@ images:
     thumb_width: 247
     thumb_height: 300
 ---
-**Undermined Planet: exposing geographies of extraction**<br>
+Undermined Planet: exposing geographies of extraction<br>
 *Architectural Review: Underground, April 2021*<br>
 [Download](http://www.dropbox.com/s/17y3g3q0da6m091/Ghosn%2BJazairy_2021_Undermined%20Planet_AR.pdf?dl=0)

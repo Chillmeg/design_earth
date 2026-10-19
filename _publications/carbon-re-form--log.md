@@ -12,6 +12,6 @@ images:
     thumb_width: 141
     thumb_height: 200
 ---
-**Carbon Re-form**<br>
+Carbon Re-form<br>
 *Log 47: Overcoming Carbon Form, 2019*<br>
 [Download](http://www.dropbox.com/s/5behlztd4e1f1hn/Ghosn_2019_Carbon%20Re-Form_Log47.pdf?dl=0)

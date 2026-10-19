@@ -11,7 +11,7 @@ images:
     thumb_width: 239
     thumb_height: 300
 ---
-**New Geographies 4: Scales of the Earth**<br>
+New Geographies 4: Scales of the Earth<br>
 Harvard Graduate School of Design, 2011<br>
 El Hadi Jazairy, editor-in-chief<br>
 [Download](../../files/download/Jazairy_2011_NG4_Toward%20a%20Plastic%20Conception%20of%20Scale.pdf)

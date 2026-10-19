@@ -5,11 +5,11 @@ year: 2019  # guessed from the text - please check
 thumbnail: thumb.jpg
 heading: "Cosmorama"
 # shown in italics under the title: exhibition / venue, date
-venue: "Wrightwood 659, Dimensions of Citizenship, Chicago, 2019"
+venue: "Dimensions of Citizenship, Wrightwood 659, Chicago, 2019"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
-  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Ye, Sihao Xiong
+  Rania Ghosn + El Hadi Jazairy
+  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Yen, Sihao Xiong
   Benjamin Weiss, MIT EAPS (Advisor)
 # Venue, one line each
 venue_details: "Wrightwood 659, Chicago"

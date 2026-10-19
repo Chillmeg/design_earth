@@ -2,7 +2,7 @@
 title: "A Whale Song"
 year: 2022
 # shown in italics under the title: series or commission, date
-commission: "London Design Festival, V&A Museum, London, 2022"
+commission: "London Design Festival, V&A Museum, 2022"
 # Project Team, one line each
 team: |
   Rania Ghosn + El Hadi Jazairy

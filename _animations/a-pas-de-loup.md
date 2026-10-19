@@ -5,7 +5,7 @@ year: 2025
 commission: "Elephant in the Room and Other Fables, 2025"
 # Project Team, one line each
 team: |
-  Rania Ghosn + El Hadi Jazairy (Directors)
+  Rania Ghosn + El Hadi Jazairy
   Kelly Koh, Monica Hutton, Habin Park, Hana Meihan Davis (Visualization)
   Jabari Canada (Soundscore), Mabel Wilson (Narrator)
 # after the text

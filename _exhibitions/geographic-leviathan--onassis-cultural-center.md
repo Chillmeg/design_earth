@@ -8,7 +8,7 @@ heading: "Pacific Aquarium"
 venue: "Tomorrows: Urban Fictions for Possible Futures, Onassis Cultural Center, 2017"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Reid Fellenbaum, Ya Suo, Jia Weng, Shuya Xu, Saswati Das, with initial contributions from Rixt Woudstra
 # Venue, one line each
 venue_details: "Onassis Cultural Center, Athens, Greece"

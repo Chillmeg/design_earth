@@ -11,6 +11,6 @@ images:
     thumb_width: 258
     thumb_height: 300
 ---
-**The Great Waste State**<br>
+The Great Waste State<br>
 <em>Third Coast Atlas: Prelude to a Plan, 2017 </em><br>
 <a href="http://www.dropbox.com/s/tw6kr0yq4r5ew98/Ghosn%2BJazairy_2017_The%20Great%20Waste%20State_TCA.pdf?dl=0" target="_blank">Download</a>

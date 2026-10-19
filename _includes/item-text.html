@@ -1,12 +1,17 @@
 {%- comment -%}
   The text under the slideshow on PROJECT, EXHIBIT and ANIMATE pages, always in the same order
-  (ANIMATE follows PROJECT: **title**, *series/commission, date*, Project Team, blurb, credits)
+  (ANIMATE follows PROJECT: title, *series/commission, date*, Project Team, blurb, credits)
   (El Hadi's notes, October 2026). Any field left out is skipped.
 
-  PROJECT:  **title**, *commission, date*, Project Team, blurb (the page text), Project Details, credits, link to the animation
+  PROJECT:  title, *commission, date*, Project Team, blurb (the page text), Project Details, credits, link to the animation,
+            link(s) to the commission's exhibition page(s)
   EXHIBIT:  title (not bold), *venue, date*, Project Team, Venue, On view, Curators, blurb (the page text), Project Details, credits,
             link(s) to the project(s)
 
+  Titles are plain text, not bold (October 2026).
+  exhibitions: file names of the exhibition page(s) of the commission (project pages). The italic line links to the first one,
+            and "Click for more information about the ... exhibition." is added at the end. The link text is the part of
+            the exhibition's title after " | " (or " / "), or its `link_name` if set.
   heading:  the title shown on the page, if it differs from `title` (which is used in the menus)
   team, venue_details, curators, details: one entry per line
   credits:  free text (photo credits, advisors, extra links), one paragraph per blank-line-separated block
@@ -14,8 +19,9 @@
 {%- assign p = page -%}
 {%- capture nl %}
 {% endcapture -%}
-<p>{% if p.collection == "projects" or p.collection == "animations" %}<strong>{{ p.heading | default: p.title }}</strong>{% else %}{{ p.heading | default: p.title }}{% endif %}{% assign sub = p.commission | default: p.venue %}{% if sub %}<br>
-<em>{{ sub | markdownify | remove: '<p>' | remove: '</p>' | strip }}</em>{% endif %}</p>
+<p>{{ p.heading | default: p.title }}{% assign sub = p.commission | default: p.venue %}{% if sub %}<br>
+{%- assign ex0 = nil %}{% if p.exhibitions %}{% assign ex0 = site.exhibitions | where: "slug", p.exhibitions[0] | first %}{% endif %}
+<em>{% if ex0 %}<a href="{{ ex0.url | relative_url }}">{% endif %}{{ sub | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% if ex0 %}</a>{% endif %}</em>{% endif %}</p>
 {% if p.team %}
 <p>Project Team:<br>
 {{ p.team | strip | markdownify | remove: '<p>' | remove: '</p>' | strip | newline_to_br }}</p>
@@ -53,4 +59,14 @@
 <a href="{{ pr.url | relative_url }}" title="{{ pr.heading | default: pr.title | escape }}">{{ pr.heading | default: pr.title }}</a>
 {%- unless forloop.last %}{% if forloop.rindex == 2 %} and {% else %}, {% endif %}{% endunless -%}
 {%- endfor %} project{% if n > 1 %}s{% endif %}.</p>
+{%- endif %}
+{%- if p.exhibitions %}
+{%- assign n = p.exhibitions | size %}
+<p>Click for more information about the {% for s in p.exhibitions -%}
+{%- assign ex = site.exhibitions | where: "slug", s | first -%}
+{%- assign exname = ex.link_name -%}
+{%- unless exname -%}{%- assign exparts = ex.title | replace: " / ", " | " | split: " | " -%}{%- assign exname = exparts | last -%}{%- endunless -%}
+<a href="{{ ex.url | relative_url }}" title="{{ ex.title | escape }}">{{ exname }}</a>
+{%- unless forloop.last %}{% if forloop.rindex == 2 %} and {% else %}, {% endif %}{% endunless -%}
+{%- endfor %} exhibition{% if n > 1 %}s{% endif %}.</p>
 {%- endif %}

@@ -11,6 +11,6 @@ images:
     thumb_width: 225
     thumb_height: 300
 ---
-**Where Are the Missing Spaces**<br>
+Where Are the Missing Spaces<br>
 <em>Perspecta 45: Agency, 2021 </em><br>
 [Download](../../files/download/Ghosn_2012_Where%20are%20the%20missing%20spaces_Perspecta.pdf)

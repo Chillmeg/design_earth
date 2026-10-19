@@ -3,11 +3,14 @@ title: "Georama of Trash"
 year: 2016  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Lisbon Architecture Triennale, The World in Our Eyes, 2016"
+commission: "The World in Our Eyes, Lisbon Architecture Triennale, 2016"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Jia Weng, Ya Suo, Sheung Chui Carol Nung
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - georama-of-trash--lisbon-architecture-triennale
 images:
   - file: 01.jpg
     width: 776

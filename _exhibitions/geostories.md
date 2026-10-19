@@ -4,10 +4,10 @@ year: 2016  # guessed from the text - please check
 thumbnail: thumb.jpg
 heading: "Neck of the Moon"
 # shown in italics under the title: exhibition / venue, date
-venue: "Architectural League Prize 2016 for Young Architects and Designers: (Im)permanence"
+venue: "(Im)permanence, Architectural League Prize for Young Architects and Designers, 2016"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Irina Chernyakova, Shuya Xu, Sihao Xiong, Matthew Tarpley, Joseph Swerdlin, Nicholas Pacula, Kent Rodzwicz / TINT Boston (Exhibition, Installation and Production)
 # Venue, one line each
 venue_details: |

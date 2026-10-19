@@ -17,7 +17,7 @@ images:
     width: 756
     height: 567
 ---
-**Geographies of Trash**<br>
+Geographies of Trash<br>
 *[Actar](http://www.amazon.com/Geographies-Trash-Rania-Ghosn/dp/194029164X/ref=sr_1_1?ie=UTF8&qid=1426369258&sr=8-1&keywords=geographies+of+trash)*
 
 Rania Ghosn and El Hadi Jazairy, authors, 2015

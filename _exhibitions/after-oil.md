@@ -4,10 +4,10 @@ year: 2016  # guessed from the text - please check
 thumbnail: thumb.jpg
 heading: "After Oil"
 # shown in italics under the title: exhibition / venue, date
-venue: "Kuwait Pavilion at the Venice Biennale, Between East and West: a Gulf, 2016"
+venue: "Kuwait Pavilion, Between East and West: a Gulf, La Biennale di Architettura di Venezia, 2016"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Jia Weng, Rawan Al-Saffar, Kartiki Sharma, Hsin-Han Lee, Namjoo Kim, Sihao Xiong
 # On view (dates)
 # Venue, one line each

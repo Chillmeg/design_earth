@@ -5,10 +5,10 @@ year: 2019  # guessed from the text - please check
 thumbnail: thumb.jpg
 heading: "Pacific Aquarium"
 # shown in italics under the title: exhibition / venue, date
-venue: "XXII Milano Triennale: Broken Nature - Design Takes on Human Survival, 2019"
+venue: "Broken Nature: Design Takes on Human Survival, XXII Triennale di Milano, 2019"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Design phase: Reid Fellenbaum, Ya Suo, Jia Weng, Shuya Xu, Saswati Das, with initial contributions from Rixt Woudstra
   Installation phase: Alaa Quraishi, Namjoo Kim, Ammar Ahmed, Alexandra Chen
 # On view (dates)

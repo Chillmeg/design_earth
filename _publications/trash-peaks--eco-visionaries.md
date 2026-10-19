@@ -12,6 +12,6 @@ images:
     thumb_width: 221
     thumb_height: 300
 ---
-**Trash Peaks / Architectural Design**<br>
+Trash Peaks / Architectural Design<br>
 *Architectural Design, Volume 90, Issue 1, 2020*<br>
 <a href="http://www.dropbox.com/s/fp5go5x19rnge40/Ghosn%2BJazairy_2020_AD_Landscapists.pdf?dl=0" target="_blank">Download</a>

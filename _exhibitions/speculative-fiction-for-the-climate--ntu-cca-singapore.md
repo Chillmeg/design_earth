@@ -6,6 +6,9 @@ thumbnail: thumb.jpg
 heading: "Design Earth: Speculative Fiction for the Climate"
 # shown in italics under the title: exhibition / venue, date
 venue: "NTU Centre for Contemporary Art Singapore, 2025"
+# Project Team, one line each
+team: |
+  Rania Ghosn + El Hadi Jazairy
 # Venue, one line each
 venue_details: "NTU Centre for Contemporary Art Singapore"
 # On view (dates)

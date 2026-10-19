@@ -7,7 +7,7 @@ heading: "Geographies of Trash"
 venue: "Liberty Research Annex, University of Michigan, 2012"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Ben Hagenhoffer, Christina Kull, Hans Papke, Jonathan Puff, Aaron Weller
 # Venue, one line each
 venue_details: "Liberty Annex, University of Michigan, Ann Arbor, MI"

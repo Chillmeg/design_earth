@@ -12,6 +12,6 @@ images:
     thumb_width: 217
     thumb_height: 300
 ---
-**DESIGN EARTH / Impermanence**<br>
+DESIGN EARTH / Impermanence<br>
 *Impermanence - Young Architects 18, 2018*<br>
 <a href="http://www.dropbox.com/s/a724uihrm4cc7yy/Ghosn%2BJazairy_2018_YoungArchitects.pdf?dl=0" target="_blank">Download</a>

@@ -3,9 +3,11 @@ title: "Flag the Earth"
 year: 2019
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Cornell AAP, Earth: Projections 50 Years after Earth Art, 2019"
+commission: "Earth: Projections 50 Years after Earth Art, Cornell AAP, 2019"
 # Project Team, one line each
-team: "Rania Ghosn, El Hadi Jazairy, Reid Fellenbaum, with Anna Canny"
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Reid Fellenbaum, with Anna Canny
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: "Curator: Tao DuFour"
 images:
@@ -27,6 +29,24 @@ images:
   - file: 06.jpg
     width: 800
     height: 533
+  - file: 08.jpg
+    width: 800
+    height: 538
+  - file: 09.jpg
+    width: 800
+    height: 533
+  - file: 10.jpg
+    width: 567
+    height: 567
+  - file: 11.jpg
+    width: 800
+    height: 533
+  - file: 12.jpg
+    width: 800
+    height: 533
+  - file: 13.jpg
+    width: 567
+    height: 567
   - file: 07.jpg
     width: 378
     height: 567

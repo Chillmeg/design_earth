@@ -221,3 +221,27 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 - **ANIMATE: "Vivre en (Flamant) Rose"** is a new item right after Living as Flamingo (`_animations/vivre-en-flamant-rose.md`), with the French video only and the French blurb from the old page. The title is spelled as on YouTube ("Flamant", not "Flamand"). Living as Flamingo still offers both versions.
 - **No black bars on the flamingo tiles:** YouTube only has a letterboxed 640×480 still for both videos, so the thumbnails are cropped to the 640×360 picture.
 - **EXHIBIT covers:** Elephant in the Room Talkbox now opens on image 3, and Sowing Worlds (Tallinn) on image 2. The tiles are new centre crops.
+
+## 2026-10-19: Uniform titles, citations, teams and exhibition links
+
+**Source:** the user's notes on El Hadi's materials (`update_el_hadi/`, gitignored: his dossier *Research and Creative Practice, Volume 3* as InDesign, six Flag the Earth photos, Ocean Metabolism.pdf).
+
+### Done
+
+- **Titles are plain text, not bold**, on every page: PROJECT, ANIMATE (`_includes/item-text.html`) and PUBLISH (the `**Title**<br>` line in 31 `_publications/*.md`).
+- **Italic line = "Exhibition or competition, venue, date"**, always ending with `, YYYY`. An award goes before the date ("Dry Futures Competition, Honorable Mention, 2015"). Venice is always "La Biennale di Architettura di Venezia" (After Oil, Cosmorama, The Planet After Geoengineering, A World Previous to Ours; the "19th International Architecture Exhibition" was dropped). Project and exhibit pages now say the same thing (Trash Peaks "Seoul Biennale for Architecture and Urbanism, 2017"; Pacific Aquarium "After Belonging: On Residence, Oslo Architecture Triennale, 2016"; Julia "…, Le Lieu Unique, Nantes, 2019"; Whale Song "London Design Festival, V&A Museum, 2022"). Exhibit lines put the exhibition title first and the venue after (Tallinn, Milan, Shenzhen, Wrightwood, League Prize).
+- **Project Team** starts with "Rania Ghosn + El Hadi Jazairy" on every project, exhibit and animation page (was "El Hadi Jazairy + Rania Ghosn", "and", "&", or names in one line). Exception: Sea Our Land stays "El Hadi Jazairy" (Rania, 2026-10-14; confirmed by the user). "(Directors)" was dropped from A Pas de Loup's first line.
+- **Teams from El Hadi's dossier:** Act as if Our House Is on Fire = Mingyang Xia (not Reid; project, FRAC and UC Denver pages). Flag the Earth = Reid Fellenbaum, with Anna Canny. Tianwei **Yen** (closes the Ye/Yen question). The Way of the Dinosaurs adds Kelly Koh (dossier: "Animation team: Anhong Li, Monica Hutton, Kelly Koh"). NTU Singapore: founders only.
+- **Commission exhibition links:** new project field `exhibitions:` (file names of exhibit pages). The italic line links to that page and the page ends with "Click for more information about the <Venue> exhibition." The link text is the part of the exhibit title after " | ". Set on: A World Previous to Ours, Sowing Worlds, Climate Inheritance (Bauhaus), Act as if (FRAC), The Planet After Geoengineering (Venice), Julia, Cosmorama (Venice), Trash Peaks, Pacific Aquarium (Oslo), After Oil (Venice), Whale Song (V&A), Georama of Trash (Lisbon). The hand-written versions were removed (A World Previous credits, Act as if "Exhibited as part of…"), as were the curator credits on Sowing Worlds and Julia (they are on the exhibit pages).
+- **New EXHIBIT page:** Georama of Trash | Lisbon Architecture Triennale (`_exhibitions/georama-of-trash--lisbon-architecture-triennale.md`), two installation photos from the Dropbox, listed after Oslo.
+- **Flag the Earth:** El Hadi's six photos added after the old six (`08`–`13`; the drawing is `08`). Cover unchanged.
+- **Laboral:** `02.jpg` was a photo from Onassis Stegi (Athens). Replaced with the Laboral wall-text photo from El Hadi's dossier (David Aguilar Sánchez, `_07`); credit now "Photos: David Aguilar Sánchez".
+- MIT Museum (Cosmograph) already linked Love Your Monsters at the end; no change.
+
+### Open
+
+- [ ] **Georama of Trash, Lisbon:** dates, curators and exact venue are unknown (left out of the page).
+- [ ] **Hassi Messaoud** (hidden placeholder): no team or commission.
+- [ ] **Ocean Metabolism.pdf** is a newer version of the board, with three text panels (EEZ, Floating Waste Continent, EEZ Mining Archipelagos). The text could not be extracted (outlined); it may be the missing blurb. Not changed.
+- [ ] **Projects with several exhibit pages** link only the commission (e.g. Pacific Aquarium → Oslo, not Milan/Guangzhou/Athens). Add more slugs to `exhibitions:` to list them all.
+- [ ] **Kelly Koh** on The Way of the Dinosaurs comes from the dossier only; confirm.

@@ -3,7 +3,7 @@ title: "Whale Song"
 year: 2022
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "London Design Festival, V&A Museum, London, 2022"
+commission: "London Design Festival, V&A Museum, 2022"
 # Project Team, one line each
 team: |
   Rania Ghosn + El Hadi Jazairy
@@ -11,6 +11,9 @@ team: |
   David Rothenberg (Music, “The Killer”, 2008), Beatrice Galilee (Narrator)
 # file name of the animation page: adds "Watch the animation."
 animation: "a-whale-song"
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - whale-song--va-london-design-festival
 images:
   - file: 09.jpg
     width: 800

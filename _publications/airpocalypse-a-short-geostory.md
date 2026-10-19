@@ -11,6 +11,6 @@ images:
     thumb_width: 222
     thumb_height: 300
 ---
-**Airpocalypse: A Short Geostory**<br>
+Airpocalypse: A Short Geostory<br>
 *San Rocco, Ecology, 2014*<br>
 <u><strong><a href="../../files/download/Ghosn+Jazairy_2014_Airpocalypse_SanRocco.pdf">Download</a></strong></u>

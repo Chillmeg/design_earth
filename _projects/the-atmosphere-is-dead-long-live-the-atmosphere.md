@@ -6,7 +6,7 @@ thumbnail: thumb.jpg
 commission: "Beijing City Vision Competition, 2014"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Jia Fang, Chen Lu, Ya Suo
 images:
   - file: 01.jpg

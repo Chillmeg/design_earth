@@ -3,11 +3,14 @@ title: "The Planet After Geoengineering"
 year: 2021  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Biennale Architettura 2021: How will we live together?"
+commission: "How Will We Live Together?, La Biennale di Architettura di Venezia, 2021"
 # Project Team, one line each
 team: |
-  Rania Ghosn and El Hadi Jazairy
+  Rania Ghosn + El Hadi Jazairy
   Reid Fellenbaum, Kelly Koh, Meng-Fu Kuo, Joude Mabsout, Jane Jia Weng, Anhong Li, Monica Hutton, with contributions from Ayusha Ariana, Avery Nguyen, Michael Stradley
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - planet-after-geoengineering--venice-biennale
 images:
   - file: 01.jpg
     width: 567

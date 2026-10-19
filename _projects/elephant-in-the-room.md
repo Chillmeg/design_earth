@@ -6,7 +6,8 @@ thumbnail: thumb.jpg
 commission: "Reimagining Museums for Climate Action, Glasgow Science Centre during COP26, 2021"
 # Project Team, one line each
 team: |
-  Rania Ghosn, El Hadi Jazairy, Monica Hutton, Anhong Li
+  Rania Ghosn + El Hadi Jazairy
+  Monica Hutton, Anhong Li
   Donna Haraway (Narrator)
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: "Curators: Rodney Harrison and Colin Sterling"

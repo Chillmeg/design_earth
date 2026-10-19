@@ -6,7 +6,7 @@ thumbnail: thumb.jpg
 commission: "Sharjah Biennial 13: Tamawuj, 2017"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Kelly Koh, Rawan Al-Saffar, Max Jarosz, Shuya Xu
 # after the details: photo credits, advisors, links (blank line = new paragraph)
 credits: "Watch: <a href=\"http://vimeo.com/216378167\" target=\"_blank\">Of OIl and Ice</a>"

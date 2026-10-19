@@ -17,6 +17,6 @@ images:
     thumb_width: 300
     thumb_height: 194
 ---
-**The Space of Controversies: an interview with Bruno Latour**<br>
+The Space of Controversies: an interview with Bruno Latour<br>
 *New Geographies 0, 2009*<br>
 [download](../../files/download/00_Ghosn+Jazairy_2009_New%20Geographies0.pdf)

@@ -6,7 +6,7 @@ commission: "Elephant in the Room and Other Fables, 2023"
 # Project Team, one line each
 team: |
   Rania Ghosn + El Hadi Jazairy
-  Monica Hutton, Anhong Li
+  Monica Hutton, Anhong Li, Kelly Koh
   Kathryn Yusoff (Narrator), Jabari Canada (Soundtrack)
 # after the text
 credits: "(c) 2023"

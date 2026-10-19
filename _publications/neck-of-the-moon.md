@@ -11,6 +11,6 @@ images:
     thumb_width: 225
     thumb_height: 300
 ---
-**Neck of the Moon**<br>
+Neck of the Moon<br>
 *Volume*, Issue 47, 2016<br>
 [Download](../../files/download/V47_Design%20Earth.pdf)

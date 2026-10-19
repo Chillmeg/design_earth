@@ -9,7 +9,7 @@ heading: "After Oil"
 venue: "Systems, The Museum of Modern Art, New York, 2022"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Jia Weng, Rawan Al-Saffar, Kartiki Sharma, Hsin-Han Lee, Namjoo Kim, Sihao Xiong
 # Venue, one line each
 venue_details: |

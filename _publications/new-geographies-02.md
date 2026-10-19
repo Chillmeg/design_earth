@@ -11,7 +11,7 @@ images:
     thumb_width: 237
     thumb_height: 300
 ---
-**New Geographies 2: Landscapes of Energy**<br>
+New Geographies 2: Landscapes of Energy<br>
 Harvard University Graduate School of Design, 2010<br>
 Rania Ghosn, editor-in-chief<br>
 [Download](../../files/download/Ghosn_2010_NG2_Energy%20as%20Spatial%20Project.pdf)

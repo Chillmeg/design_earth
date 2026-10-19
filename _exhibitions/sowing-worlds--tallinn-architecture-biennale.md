@@ -5,9 +5,11 @@ year: 2022
 thumbnail: thumb.jpg
 heading: "Sowing Worlds"
 # shown in italics under the title: exhibition / venue, date
-venue: "Tallinn Architecture Biennale 2022: Edible"
+venue: "Edible, Tallinn Architecture Biennale, 2022"
 # Project Team, one line each
-team: "Rania Ghosn and El Hadi Jazairy, Melissa Gutierrez Soto, Eakapob Huangthanapan, Monica Hutton, Emma Jurczynski, Anhong Li."
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Melissa Gutierrez Soto, Eakapob Huangthanapan, Monica Hutton, Emma Jurczynski, Anhong Li
 # Venue, one line each
 venue_details: "Estonian Museum of Architecture, Tallinn, Estonia"
 # On view (dates)

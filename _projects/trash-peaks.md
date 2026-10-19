@@ -3,16 +3,19 @@ title: "Trash Peaks"
 year: 2017  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Seoul Biennale, 2017"
+commission: "Seoul Biennale for Architecture and Urbanism, 2017"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Reid Fellenbaum, Victor Lee, Monica Britt Hutton, Beth Savrann, with contributions from Sun Park and Rawan Al-Saffar
 # Project Details, one line each
 details: |
   150 x 300 x 20 cm folding screen
   150 x 300 cm carpet
   6 pieces of ceramic tableware
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - trash-peaks
 images:
   - file: 01.jpg
     width: 567

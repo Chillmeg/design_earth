@@ -6,10 +6,11 @@ thumbnail: thumb.jpg
 commission: "This Land's Unknown, FRAC Orléans Architecture Biennale, 2019"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
-  Reid Fellenbaum
-# after the details: photo credits, advisors, links (blank line = new paragraph)
-credits: "Exhibited as part of <a href=\"../../exhibitions/act-as-if-our-house-is-on-fire--frac-orleans/\" title=\"This Land's Unknown, FRAC Orléans\">This Land's Unknown</a>, Biennale d'Architecture d'Orleans, 2019, curated by Nora Akawi."
+  Rania Ghosn + El Hadi Jazairy
+  Mingyang Xia
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - act-as-if-our-house-is-on-fire--frac-orleans
 images:
   - file: 02.jpg
     width: 648

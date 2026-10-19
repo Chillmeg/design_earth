@@ -6,7 +6,7 @@ thumbnail: thumb.jpg
 commission: "Design Biennial Boston, 2017"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Conceptual Design: Aaron Weller, Larisa Ovalles - Fabrication: Justin Lavallee, Christopher Dewart, Cristina Clow, Lex Agnew, Rawan Al-Saffar, Ching Ying Ngan, Marc Smith, Sabrina Madera, Michael Epstein, Paul Short, Jongbang Park, Xin Wen - Structural Engineer: Paul Kassabian, Simpson Gumpertz &#38; Heger - Optics Consultant: Lee Zamir, Tom Gearty - Autodesk BUILD Space: Athena Moore, Taylor Tobin, Adam Allard - MIT Facilities and Support: Jim Harrington, Jennifer O’Brien, Seth Avecilla, Maria Moran
 images:
   - file: 01.jpg

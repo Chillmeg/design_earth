@@ -3,10 +3,10 @@ title: "Apart, We Are Together"
 year: 2015  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Dry Futures Competition, 2015, [Honorable Mention](http://archinect.com/news/article/137509788/apart-we-are-together-an-honorable-mention-in-dry-futures-speculative-category)"
+commission: "Dry Futures Competition, [Honorable Mention](http://archinect.com/news/article/137509788/apart-we-are-together-an-honorable-mention-in-dry-futures-speculative-category), 2015"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Hsin-Han Lee, Kartiki Sharma, Mingchuan Yang, Saswati Das
 images:
   - file: 01.jpg

@@ -11,6 +11,6 @@ images:
     thumb_width: 240
     thumb_height: 300
 ---
-**Hassi Messaoud Oil Urbanism**<br>
+Hassi Messaoud Oil Urbanism<br>
 *New Geographies 06: Grounding Metabolism,  2014*<br>
 [Download](../../files/download/Ghosn+Jazairy_Hassi%20Messaoud_NG6.pdf)

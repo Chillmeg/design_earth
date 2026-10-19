@@ -10,7 +10,7 @@ images:
     width: 500
     height: 677
 ---
-**Geostories: Another Architecture for the Environment**<br>
+Geostories: Another Architecture for the Environment<br>
 *[Actar](https://www.amazon.com/Geostories-Architecture-Environment-Rania-Ghosn/dp/1945150793/ref=sr_1_1?ie=UTF8&qid=1530307564&sr=8-1&keywords=geostories)*<br>
 Rania Ghosn + El Hadi Jazairy, authors, 2018<br>
 Read <a href="http://www.dropbox.com/s/yavxtzf5v3sy5j5/DE_Geostories_Intro.pdf?dl=0" target="_blank">Introduction</a>

@@ -5,11 +5,11 @@ year: 2018  # guessed from the text - please check
 thumbnail: thumb.jpg
 heading: "Cosmorama"
 # shown in italics under the title: exhibition / venue, date
-venue: "United States Pavilion at the Venice Architecture Biennale, Dimensions of Citizenship, 2018"
+venue: "United States Pavilion, Dimensions of Citizenship, La Biennale di Architettura di Venezia, 2018"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
-  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Ye, Sihao Xiong
+  Rania Ghosn + El Hadi Jazairy
+  Reid Fellenbaum, Jia Jane Weng, Kelly Koh, Shuya Xu, Monica Hutton, Rawan Al-Saffar, Lex Agnew, Garine Boghossian, Ranu Singh, Tianwei Yen, Sihao Xiong
   Benjamin Weiss, MIT EAPS (Advisor)
 # Venue, one line each
 venue_details: "Padiglione Stati Uniti, Giardini di Castello, 30122 Venezia, Italy"

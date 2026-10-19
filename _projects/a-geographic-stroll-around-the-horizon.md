@@ -5,10 +5,10 @@ permalink: /project/a-geographic-stroll-around-the-horizon/
 year: 2013  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Rio City Vision Competition, 2013, [Honorable Mention](http://www.cityvisionweb.com/competitions/riodejaneiro/)"
+commission: "Rio City Vision Competition, [Honorable Mention](http://www.cityvisionweb.com/competitions/riodejaneiro/), 2013"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Justin Garrison, Dorin Baul, Carla Landa, Jia Weng
 images:
   - file: 01.jpg

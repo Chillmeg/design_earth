@@ -4,15 +4,16 @@ heading: "Julia: The Submerged Volcano"
 year: 2019  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Le Lieu Unique, Tomorrows: Speculative Fictions for Mediterranean Futures, 2019"
+commission: "Tomorrows: Speculative Fictions for Mediterranean Futures, Le Lieu Unique, Nantes, 2019"
 # Project Team, one line each
 team: |
-  El Hadi Jazairy + Rania Ghosn
+  Rania Ghosn + El Hadi Jazairy
   Jordan Laurila, Liam Li
 # Project Details, one line each
 details: "40 x 240 cm backlit drawing"
-# after the details: photo credits, advisors, links (blank line = new paragraph)
-credits: "Curators: Daphne Dragona, Panos Dragonas"
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - julia-the-submerged-volcano--le-lieu-unique
 images:
   # rendered from the full drawing (Dropbox 06_Julia.pdf) at 6397x1066, shown at 533px high like the other
   # horizontal images; scroll: true = shown whole at this size, scrolling sideways

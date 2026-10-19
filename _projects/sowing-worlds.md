@@ -4,11 +4,14 @@ redirect_from: /projects/composting-worlds/
 year: 2022  # guessed from the text - please check
 thumbnail: thumb.jpg
 # shown in italics under the title: commission or competition, date
-commission: "Tallinn Architecture Biennale 2022: Edible"
+commission: "Edible, Tallinn Architecture Biennale, 2022"
 # Project Team, one line each
-team: "Rania Ghosn and El Hadi Jazairy, Melissa Gutierrez Soto, Eakapob Huangthanapan, Monica Hutton, Emma Jurczynski, Anhong Li."
-# after the details: photo credits, advisors, links (blank line = new paragraph)
-credits: "Curators: Lydia Kallipoliti & Areti Markopoulou"
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Melissa Gutierrez Soto, Eakapob Huangthanapan, Monica Hutton, Emma Jurczynski, Anhong Li
+# exhibition page(s) of the commission: links the italic line and adds "Click for more information about the ... exhibition."
+exhibitions:
+  - sowing-worlds--tallinn-architecture-biennale
 images:
   - file: 01.jpg
     width: 568
