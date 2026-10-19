@@ -242,6 +242,6 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 
 - [ ] **Georama of Trash, Lisbon:** dates, curators and exact venue are unknown (left out of the page).
 - [ ] **Hassi Messaoud** (hidden placeholder): no team or commission.
-- [ ] **Ocean Metabolism.pdf** is a newer version of the board, with three text panels (EEZ, Floating Waste Continent, EEZ Mining Archipelagos). The text could not be extracted (outlined); it may be the missing blurb. Not changed.
+- [x] **Ocean Metabolism blurb:** the user transcribed the three text panels of `Ocean Metabolism.pdf` (2026-10-19). All three have the same body text, so it is the page text once, followed by the three panel titles. OCR slips fixed ("Contellation", "dry land,", "shelf,").
 - [ ] **Projects with several exhibit pages** link only the commission (e.g. Pacific Aquarium → Oslo, not Milan/Guangzhou/Athens). Add more slugs to `exhibitions:` to list them all.
 - [ ] **Kelly Koh** on The Way of the Dinosaurs comes from the dossier only; confirm.
