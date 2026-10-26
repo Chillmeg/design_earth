@@ -273,3 +273,7 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 ### Open
 
 - [ ] **Photo credits** for the new FRAC photos (Dezeen's photographer; who took the three Facebook photos). No credit line added yet.
+
+### Flag the Earth cover (same day)
+
+- The flag drawing (`08.jpg`, from El Hadi's `flag the earth1.jpg`) is now the first slide, and `thumb.jpg` is a new 200×200 centre crop of it (was the rooftop photo with Touchdown).

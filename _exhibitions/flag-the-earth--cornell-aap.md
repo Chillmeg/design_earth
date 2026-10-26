@@ -21,6 +21,9 @@ curators: "Tao DuFour"
 projects:
   - act-as-if-our-house-is-on-fire
 images:
+  - file: 08.jpg  # the flag drawing (carbon budget rings): cover
+    width: 800
+    height: 538
   - file: 01.jpg
     width: 800
     height: 528
@@ -39,9 +42,6 @@ images:
   - file: 06.jpg
     width: 800
     height: 533
-  - file: 08.jpg
-    width: 800
-    height: 538
   - file: 09.jpg
     width: 800
     height: 533
