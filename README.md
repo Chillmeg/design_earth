@@ -140,7 +140,8 @@ The text block is free Markdown: title line, `*journal*`, authors and year, then
 - **Project Team** always starts with `Rania Ghosn + El Hadi Jazairy` (only exception: Sea Our Land).
 - **Curators appear only on EXHIBIT pages.**
 - Straight quotes stay straight (kramdown setting); type curly quotes yourself if wanted.
-- Sources of truth for names, dates and collaborators: Rania's dossier CSV and El Hadi's dossier (private folders). Check them before guessing.
+- Sources of truth for names, dates and collaborators: Rania's dossier CSV and El Hadi's dossier. They are not in the repo; ask the maintainer for them. Check them before guessing.
+- **Originals:** the full-size source of every web image is in the private `files/dropbox/<section>/<file-name>/` (log of every move and copy in `files/dropbox/_MOVES.csv`). Re-export from there, not from the web files.
 
 ---
 
@@ -270,7 +271,7 @@ For a publication, copy a similar existing file in `_publications/`.
 1. Open the repo on GitHub and go to the file (e.g. `_projects/whale-song.md`).
 2. Click the pencil icon, edit, then **Commit changes** to `main`.
 3. **New file:** folder → **Add file → Create new file**. Type the full name, e.g. `_projects/my-project.md`.
-4. **Images:** go to the image folder → **Add file → Upload files**. For a new page, type the new folder name when creating the first file, or upload into it from the page folder.
+4. **Images:** go to the image folder → **Add file → Upload files**. GitHub can't make an empty folder, so for a new page first use **Add file → Create new file** and type `assets/images/<section>/<file-name>/.gitkeep` (each `/` creates a folder). Commit it, open the new folder, then upload the images.
 5. For edits across many files, press `.` on the repo page to open the full web editor (github.dev), then commit from its Source Control panel.
 6. Wait 1–2 minutes, then check the preview.
 
@@ -283,7 +284,7 @@ For a publication, copy a similar existing file in `_publications/`.
 
 - **Indentation:** YAML needs consistent spaces (no tabs). A broken front matter fails the build; the Actions tab shows the error and line.
 - **Images:** every `file:` must exist in the folder. Names are case-sensitive (`01.JPG` ≠ `01.jpg`).
-- **Links:** use site paths such as `/projects/whale-song/`, never `https://design-earth.org:443/...`.
+- **Internal links in the text:** use relative paths, as the existing pages do. From any item page, go up two levels: `<a href="../../projects/whale-song/">Whale Song</a>` or `[Whale Song](../../projects/whale-song/)`; a PDF is `../../files/download/<name>.pdf`. From `index.md`, leave out the `../../`. Never write `/projects/...` (it breaks on the preview, which lives under `/design_earth/`) or `https://design-earth.org:443/...`.
 
 ---
 

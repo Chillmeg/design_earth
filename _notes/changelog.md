@@ -266,7 +266,7 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 
 - **Act as if Our House Is on Fire | FRAC Orléans** now opens with the four new photos (`03`–`06`), then the two older street views (`01`, `02`). The new cover is the Dezeen view of the flags on Rue Jeanne d'Arc with the cathedral, and `thumb.jpg` is a new centre crop of it.
 - Crops: Dezeen 1704² → 1134² (2×). Sky close-up 1350×1080 → 1080² (at 1.25:1 it would have been cut to 3:2, losing the flag's tips). Portrait flag 750×1000 → 750² (vertical images are left out of the slideshow). Façade 960×466 → 699×466 (3:2; as a panorama it would have shown small at the top of the frame). The last three are below 2×, as the originals are small.
-- UC Denver and the project page are unchanged.
+- UC Denver and the project page are unchanged. The four originals were copied to the private `files/dropbox/exhibitions/act-as-if-our-house-is-on-fire--frac-orleans/` (logged in `_MOVES.csv`).
 - `update_el_hadi/` added to the `_config.yml` exclude list, so a local build does not copy it into `_site/`.
 - New `README.md`: hand-off guide for the next developer (structure, fields, image rules, house style, tasks, templates, web editor).
 
