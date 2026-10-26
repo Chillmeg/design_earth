@@ -259,3 +259,17 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 
 - The italic citation under the title is plain text again; the exhibition link is only at the end of the page ("Click for more information about the … exhibition."). `_includes/item-text.html`.
 - The award links on five old competition projects (A Geographic Stroll, Apart, CCC, Santa Claus, Sea Our Land) are plain text too, so no italic line has a link. The old URLs are in git history (commit before this one).
+
+## 2026-10-26: FRAC Orléans photos and README
+
+**Source:** four photos from El Hadi (`update_el_hadi/actasif/`, gitignored): three flag photos from Facebook and the Dezeen street view (Carson Chan interview).
+
+- **Act as if Our House Is on Fire | FRAC Orléans** now opens with the four new photos (`03`–`06`), then the two older street views (`01`, `02`). The new cover is the Dezeen view of the flags on Rue Jeanne d'Arc with the cathedral, and `thumb.jpg` is a new centre crop of it.
+- Crops: Dezeen 1704² → 1134² (2×). Sky close-up 1350×1080 → 1080² (at 1.25:1 it would have been cut to 3:2, losing the flag's tips). Portrait flag 750×1000 → 750² (vertical images are left out of the slideshow). Façade 960×466 → 699×466 (3:2; as a panorama it would have shown small at the top of the frame). The last three are below 2×, as the originals are small.
+- UC Denver and the project page are unchanged.
+- `update_el_hadi/` added to the `_config.yml` exclude list, so a local build does not copy it into `_site/`.
+- New `README.md`: hand-off guide for the next developer (structure, fields, image rules, house style, tasks, templates, web editor).
+
+### Open
+
+- [ ] **Photo credits** for the new FRAC photos (Dezeen's photographer; who took the three Facebook photos). No credit line added yet.

@@ -22,6 +22,18 @@ curators: "Nora Akawi"
 projects:
   - act-as-if-our-house-is-on-fire
 images:
+  - file: 03.jpg  # Dezeen (interview by Carson Chan), Rue Jeanne d'Arc
+    width: 567
+    height: 567
+  - file: 04.jpg
+    width: 567
+    height: 567
+  - file: 05.jpg
+    width: 567
+    height: 567
+  - file: 06.jpg
+    width: 699
+    height: 466
   - file: 01.jpg
     width: 800
     height: 533

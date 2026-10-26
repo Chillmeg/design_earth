@@ -48,6 +48,7 @@ exclude:
   - files/reference
   - files/dropbox
   - update_rania
+  - update_el_hadi
   - README.md
   - CLAUDE.md
   - Gemfile
