@@ -14,3 +14,6 @@ files/dropbox/
 # Materials sent by the office (private notes + originals)
 update_rania/
 update_el_hadi/
+
+# Private to-do notes (never pushed to GitHub or the website)
+_private/
