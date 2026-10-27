@@ -3,10 +3,10 @@
 title: DESIGN EARTH
 author: Rania and El Hadi
 
-# While previewing at https://chillmeg.github.io/design_earth/ keep this as /design_earth.
-# When design-earth.org points here, change it to: baseurl: ""
-baseurl: /design_earth
-url: https://chillmeg.github.io
+# The site is served at https://design-earth.org (see the CNAME file).
+# For a preview at https://<account>.github.io/<repo>/ without a CNAME, set baseurl: /<repo>.
+baseurl: ""
+url: https://design-earth.org
 
 collections:
   projects:

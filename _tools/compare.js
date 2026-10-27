@@ -1,11 +1,11 @@
 // Page-by-page comparison of the new site against the archive.
-//   node _tools/compare.js [baseURL]      (default https://chillmeg.github.io/design_earth)
+//   node _tools/compare.js [baseURL]      (default https://design-earth.org)
 // For each archived page: title, text, image count, nav item list and grid tiles must match,
 // and every image/link on the new page must load. Writes _tools/compare-report.txt.
 const fs = require('fs');
 const path = require('path');
 
-const BASE = (process.argv[2] || 'https://chillmeg.github.io/design_earth').replace(/\/$/, '');
+const BASE = (process.argv[2] || 'https://design-earth.org').replace(/\/$/, '');
 const AR = path.join(__dirname, '..', '_archive-original');
 const SITE = path.join(AR, 'design-earth.org');
 const pagesIndex = JSON.parse(fs.readFileSync(path.join(AR, '_ajax', 'pages-index.json'), 'utf8'));

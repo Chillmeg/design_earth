@@ -4,7 +4,7 @@ Static Jekyll site for design-earth.org. It replaced the old Indexhibit (PHP/MyS
 Every project, exhibition, publication and animation is one Markdown file plus one image folder.
 
 - **Repo:** https://github.com/Chillmeg/design_earth (branch `main`)
-- **Preview:** https://chillmeg.github.io/design_earth/
+- **Site:** https://design-earth.org/
 - **Build:** GitHub Pages builds the site on every push to `main` (1–2 minutes). Check progress under the repo's **Actions** tab.
 - **Plugins:** only the GitHub Pages whitelist. The site uses one plugin, `jekyll-redirect-from`. Don't add others: Pages would ignore them.
 
@@ -278,7 +278,7 @@ For a publication, copy a similar existing file in `_publications/`.
 ### On your computer
 
 1. `git pull`, edit the files, then `git add`, `git commit` and `git push`.
-2. **Optional local preview** (needs Ruby + Bundler): `bundle install` once, then `bundle exec jekyll serve` → http://localhost:4000/design_earth/. Without Ruby, push and check the preview site.
+2. **Optional local preview** (needs Ruby + Bundler): `bundle install` once, then `bundle exec jekyll serve` → http://localhost:4000/. Without Ruby, push and check the live site.
 
 ### Checks after any edit
 
