@@ -277,3 +277,10 @@ Rania's three attachments were in `update_rania/`. The originals stay there, and
 ### Flag the Earth cover (same day)
 
 - The flag drawing (`08.jpg`, from El Hadi's `flag the earth1.jpg`) is now the first slide, and `thumb.jpg` is a new 200×200 centre crop of it (was the rooftop photo with Touchdown).
+
+## 2026-10-27: Flag the Earth is a PROJECT again (drawing) and an EXHIBIT (photos)
+
+**Source:** Rania/El Hadi: "Flag the Earth should exist as a drawing in Project and protest photographers in Exhibit."
+
+- **PROJECT** `_projects/flag-the-earth.md` is back at `/projects/flag-the-earth/` (after Act as if Our House Is on Fire in `order.yml`, its old place). It shows only the flag drawing (`01.jpg`, the old exhibit `08.jpg`); the tile is the rings crop. Text, team and italic line as on the exhibit; no curator. It links to the Cornell AAP exhibit.
+- **EXHIBIT** `flag-the-earth--cornell-aap` keeps the 12 photos (the drawing was removed), and its tile is the rooftop photo again. Its `redirect_from: /projects/flag-the-earth/` was removed, since that URL is the project page again. It now links to the Flag the Earth project instead of Act as if Our House Is on Fire.

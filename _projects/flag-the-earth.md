@@ -1,0 +1,23 @@
+---
+title: "Flag the Earth"
+year: 2019
+thumbnail: thumb.jpg
+# shown in italics under the title: commission or competition, date
+commission: "Earth: Projections 50 Years after Earth Art, Cornell AAP, 2019"
+# Project Team, one line each
+team: |
+  Rania Ghosn + El Hadi Jazairy
+  Reid Fellenbaum, with Anna Canny
+# exhibition page(s) of the commission: adds "Click for more information about the ... exhibition."
+exhibitions:
+  - flag-the-earth--cornell-aap
+images:
+  - file: 01.jpg  # the flag drawing (carbon budget rings)
+    width: 800
+    height: 538
+---
+Flag the Earth is a performance installation calling for cultural institutions to act in response to the climate crisis. The flag was raised on the roof of Cornell University’s Rand Hall for the 2019 Global Climate Strike, and later accompanied protesters through campus to the Ithaca strike. Touchdown, Cornell’s unofficial mascot, raised the main flag and read the project’s declaration.
+
+The flag visualizes the planet’s carbon budget as three concentric circles. Their widths represent CO₂ emissions from fossil fuels between 1850 and 2018; the remaining allowance before reaching the 2°C benchmark; and the emissions that would result if fossil-fuel corporations burned all the reserves they currently hold.
+
+Flag the Earth was supported by Cornell AAP’s Fall 2019 Preston Thomas Memorial Lecture Series, “EARTH: Projections 50 Years After Earth Art.”

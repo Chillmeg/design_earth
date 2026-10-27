@@ -1,7 +1,6 @@
 ---
 title: "Flag the Earth | Cornell AAP"
 permalink: /exhibitions/flag-the-earth--cornell-aap/
-redirect_from: /projects/flag-the-earth/  # was a PROJECT page until 2026-10-19
 year: 2019
 thumbnail: thumb.jpg
 heading: "Flag the Earth"
@@ -19,11 +18,8 @@ venue_details: |
 curators: "Tao DuFour"
 # file names of the project pages: adds "Click for more information about the ... project."
 projects:
-  - act-as-if-our-house-is-on-fire
+  - flag-the-earth
 images:
-  - file: 08.jpg  # the flag drawing (carbon budget rings): cover
-    width: 800
-    height: 538
   - file: 01.jpg
     width: 800
     height: 528
